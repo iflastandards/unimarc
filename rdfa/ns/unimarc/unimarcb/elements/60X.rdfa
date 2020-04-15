@@ -1,0 +1,1581 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  prefix="
+    reg: http://metadataregistry.org/uri/profile/regap/
+    rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    skos: http://www.w3.org/2004/02/skos/core#
+    dc: http://purl.org/dc/elements/1.1/
+    rdfs: http://www.w3.org/2000/01/rdf-schema#"
+  >
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60100z">
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+    <div rel="reg:status">
+      <div typeof="skos:Concept" about="http://metadataregistry.org/uri/RegStatus/1001">
+        <div property="skos:prefLabel" xml:lang="en" content="Published"></div>
+      </div>
+    </div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+    <div rel="rdfs:isDefinedBy">
+      <div typeof="rdfs:Resource" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/">
+        <div property="dc:title" xml:lang="en" content="UNIMARC/B elements 60X"></div>
+      </div>
+    </div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_13">
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAuthorityRecordNumberInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6062_a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInTopicalNameUsedAsSubjectSecondaryTerm"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInTopicalNameUsedAsSubjectSecondaryTerm.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The term in the form prescribed by the system of subject headings used."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Topical name used as subject (Secondary term)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6061_a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInTopicalNameUsedAsSubjectPrimaryTerm.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The term in the form prescribed by the system of subject headings used."></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInTopicalNameUsedAsSubjectPrimaryTerm"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Topical name used as subject (Primary term)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__2">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Title used as subject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInTitleUsedAsSubject.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInTitleUsedAsSubject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60102a">
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The portion of the name used as the entry element in the heading."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U602__j">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInFamilyNameUsedAsSubject.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInFamilyNameUsedAsSubject"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Family name used as subject"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60100d">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasNumberOfMeetingAndOrNumberOfPartOfAMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberOfMeetingAndOrNumberOfPartOfAMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The number of a meeting when the meeting belongs to a numbered series."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Number of meeting and/or number of part of a meeting in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60111b">
+    <div property="reg:name" xml:lang="en" content="hasSubdivisionOrNameIfEnteredUnderPlaceInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSubdivisionOrNameIfEnteredUnderPlaceInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of a lower level in a hierarchy when the name includes a hierarchy; or the name of the corporate body when it is entered under place."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Subdivision (or name if entered under place) in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60102z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60110h">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasPartOfNameOtherThanEntryElementAndInvertedElementInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Part of name other than entry element and inverted element in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+    <div property="skos:definition" xml:lang="en" content="The part of the name following the inversion."></div>
+    <div property="reg:name" xml:lang="en" content="hasPartOfNameOtherThanEntryElementAndInvertedElementInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60101x">
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_0c">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes titles, epithets or indications of office."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAdditionsToNameOtherThanDatesInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasAdditionsToNameOtherThanDatesInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Additions to name other than dates in Personal name used as subject (Name entered under forename or in direct order)"></div>
+    <div property="skos:definition" xml:lang="en" content="Any additions to names (other than dates) which do not form an integral part of the name itself."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6062_x">
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInTopicalNameUsedAsSubjectSecondaryTerm"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Topical name used as subject (Secondary term)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInTopicalNameUsedAsSubjectSecondaryTerm.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U601022">
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U608__j">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Form, genre or physical characteristics heading"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInFormGenreOrPhysicalCharacteristicsHeading.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInFormGenreOrPhysicalCharacteristicsHeading"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6062_j">
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInTopicalNameUsedAsSubjectSecondaryTerm.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Topical name used as subject (Secondary term)"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInTopicalNameUsedAsSubjectSecondaryTerm"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U607__2">
+    <div property="rdfs:label" xml:lang="en" content="has System code in Geographical name used as subject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInGeographicalNameUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInGeographicalNameUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U602__2">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInFamilyNameUsedAsSubject.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Family name used as subject"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInFamilyNameUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_12">
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6062_y">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInTopicalNameUsedAsSubjectSecondaryTerm.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Topical name used as subject (Secondary term)"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInTopicalNameUsedAsSubjectSecondaryTerm"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6062_3">
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInTopicalNameUsedAsSubjectSecondaryTerm"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAuthorityRecordNumberInTopicalNameUsedAsSubjectSecondaryTerm.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Topical name used as subject (Secondary term)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60101t">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTitleInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasTitleInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Title in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60100c">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasAdditionToNameOrQualifierInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Addition to name or qualifier in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="Any addition to the name of the corporate body added by the cataloguer."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAdditionToNameOrQualifierInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U607__a">
+    <div property="skos:definition" xml:lang="en" content="The geographical name in the form prescribed by the system of authority headings used."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Geographical name used as subject"></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInGeographicalNameUsedAsSubject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInGeographicalNameUsedAsSubject.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60111h">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Part of name other than entry element and inverted element in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+    <div property="reg:name" xml:lang="en" content="hasPartOfNameOtherThanEntryElementAndInvertedElementInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasPartOfNameOtherThanEntryElementAndInvertedElementInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The part of the name following the inversion."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U608__z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Form, genre or physical characteristics heading"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInFormGenreOrPhysicalCharacteristicsHeading.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInFormGenreOrPhysicalCharacteristicsHeading"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60110d">
+    <div property="skos:definition" xml:lang="en" content="The number of a meeting when the meeting belongs to a numbered series."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasNumberOfMeetingAndOrNumberOfPartOfAMeetingInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Number of meeting and/or number of part of a meeting in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberOfMeetingAndOrNumberOfPartOfAMeetingInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_0x">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Personal name used as subject (Name entered under forename or in direct order)"></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U607__3">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAuthorityRecordNumberInGeographicalNameUsedAsSubject.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Geographical name used as subject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInGeographicalNameUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60111z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60100y">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6061_z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Topical name used as subject (Primary term)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInTopicalNameUsedAsSubjectPrimaryTerm"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInTopicalNameUsedAsSubjectPrimaryTerm.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60110f">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The date of a meeting."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date of meeting in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasDateOfMeetingInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasDateOfMeetingInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U604__z">
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Name and title used as subject"></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInNameAndTitleUsedAsSubject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInNameAndTitleUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U602__x">
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInFamilyNameUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInFamilyNameUsedAsSubject.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Family name used as subject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60102c">
+    <div property="reg:name" xml:lang="en" content="hasAdditionToNameOrQualifierInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAdditionToNameOrQualifierInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Addition to name or qualifier in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="Any addition to the name of the corporate body added by the cataloguer."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_0z">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Personal name used as subject (Name entered under forename or in direct order)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60112d">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Number of meeting and/or number of part of a meeting in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberOfMeetingAndOrNumberOfPartOfAMeetingInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasNumberOfMeetingAndOrNumberOfPartOfAMeetingInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The number of a meeting when the meeting belongs to a numbered series."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60110a">
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+    <div property="skos:definition" xml:lang="en" content="The portion of the name used as the entry element in the heading."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6062_2">
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInTopicalNameUsedAsSubjectSecondaryTerm"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Topical name used as subject (Secondary term)"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInTopicalNameUsedAsSubjectSecondaryTerm.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__x">
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInTitleUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Title used as subject"></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInTitleUsedAsSubject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6061_x">
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInTopicalNameUsedAsSubjectPrimaryTerm"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Topical name used as subject (Primary term)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInTopicalNameUsedAsSubjectPrimaryTerm.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_0j">
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Personal name used as subject (Name entered under forename or in direct order)"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60101c">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="Any addition to the name of the corporate body added by the cataloguer."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Addition to name or qualifier in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div property="reg:name" xml:lang="en" content="hasAdditionToNameOrQualifierInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAdditionToNameOrQualifierInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60100e">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasLocationOfMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasLocationOfMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+    <div property="skos:definition" xml:lang="en" content="The place where a meeting was held."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Location of meeting in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60110x">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U608__3">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAuthorityRecordNumberInFormGenreOrPhysicalCharacteristicsHeading.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Form, genre or physical characteristics heading"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInFormGenreOrPhysicalCharacteristicsHeading"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U604__t">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTitleInNameAndTitleUsedAsSubject.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Title in Name and title used as subject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The title by which the work is known."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasTitleInNameAndTitleUsedAsSubject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60112z">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6060_j">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInTopicalNameUsedAsSubjectNoLevelSpecified.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Topical name used as subject (No level specified)"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInTopicalNameUsedAsSubjectNoLevelSpecified"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60112b">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSubdivisionOrNameIfEnteredUnderPlaceInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of a lower level in a hierarchy when the name includes a hierarchy; or the name of the corporate body when it is entered under place."></div>
+    <div property="reg:name" xml:lang="en" content="hasSubdivisionOrNameIfEnteredUnderPlaceInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Subdivision (or name if entered under place) in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_1p">
+    <div property="rdfs:label" xml:lang="en" content="has Affiliation/address in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+    <div property="reg:name" xml:lang="en" content="hasAffiliationAddressInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+    <div property="skos:definition" xml:lang="en" content="The institutional affiliation of the individual at the time the work was prepared."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAffiliationAddressInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6060_3">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Topical name used as subject (No level specified)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAuthorityRecordNumberInTopicalNameUsedAsSubjectNoLevelSpecified.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInTopicalNameUsedAsSubjectNoLevelSpecified"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U604__3">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Name and title used as subject"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInNameAndTitleUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAuthorityRecordNumberInNameAndTitleUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_0f">
+    <div property="skos:definition" xml:lang="en" content="The dates attached to personal names together with abbreviations or other indications of the nature of the dates."></div>
+    <div property="reg:name" xml:lang="en" content="hasDatesInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasDatesInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Dates in Personal name used as subject (Name entered under forename or in direct order)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6060_y">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInTopicalNameUsedAsSubjectNoLevelSpecified"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Topical name used as subject (No level specified)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInTopicalNameUsedAsSubjectNoLevelSpecified.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60101b">
+    <div property="rdfs:label" xml:lang="en" content="has Subdivision (or name if entered under place) in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of a lower level in a hierarchy when the name includes a hierarchy; or the name of the corporate body when it is entered under place."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSubdivisionOrNameIfEnteredUnderPlaceInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSubdivisionOrNameIfEnteredUnderPlaceInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60101z">
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60112f">
+    <div property="reg:name" xml:lang="en" content="hasDateOfMeetingInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date of meeting in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasDateOfMeetingInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The date of a meeting."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U604__j">
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInNameAndTitleUsedAsSubject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Name and title used as subject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInNameAndTitleUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60101d">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The number of a meeting when the meeting belongs to a numbered series."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasNumberOfMeetingAndOrNumberOfPartOfAMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Number of meeting and/or number of part of a meeting in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberOfMeetingAndOrNumberOfPartOfAMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60111d">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasNumberOfMeetingAndOrNumberOfPartOfAMeetingInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberOfMeetingAndOrNumberOfPartOfAMeetingInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The number of a meeting when the meeting belongs to a numbered series."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Number of meeting and/or number of part of a meeting in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60112a">
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div property="skos:definition" xml:lang="en" content="The portion of the name used as the entry element in the heading."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_0a">
+    <div property="skos:definition" xml:lang="en" content="The portion of the name used as the entry element in the heading."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Personal name used as subject (Name entered under forename or in direct order)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U602__3">
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInFamilyNameUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAuthorityRecordNumberInFamilyNameUsedAsSubject.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Family name used as subject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60102j">
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60101h">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Part of name other than entry element and inverted element in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div property="skos:definition" xml:lang="en" content="The part of the name following the inversion."></div>
+    <div property="reg:name" xml:lang="en" content="hasPartOfNameOtherThanEntryElementAndInvertedElementInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasPartOfNameOtherThanEntryElementAndInvertedElementInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60101f">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date of meeting in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div property="skos:definition" xml:lang="en" content="The date of a meeting."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasDateOfMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasDateOfMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U606__2">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Topical name used as subject (No information available)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInTopicalNameUsedAsSubjectNoInformationAvailable.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInTopicalNameUsedAsSubjectNoInformationAvailable"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_1c">
+    <div property="rdfs:label" xml:lang="en" content="has Additions to name other than dates in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAdditionsToNameOtherThanDatesInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes titles, epithets or indications of office."></div>
+    <div property="skos:definition" xml:lang="en" content="Any additions to names (other than dates) which do not form an integral part of the name itself."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasAdditionsToNameOtherThanDatesInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_0t">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTitleInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasTitleInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Title in Personal name used as subject (Name entered under forename or in direct order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60100b">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSubdivisionOrNameIfEnteredUnderPlaceInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Subdivision (or name if entered under place) in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+    <div property="reg:name" xml:lang="en" content="hasSubdivisionOrNameIfEnteredUnderPlaceInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of a lower level in a hierarchy when the name includes a hierarchy; or the name of the corporate body when it is entered under place."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U602__t">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasTitleInFamilyNameUsedAsSubject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Title in Family name used as subject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTitleInFamilyNameUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60111e">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasLocationOfMeetingInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The place where a meeting was held."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasLocationOfMeetingInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Location of meeting in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_1b">
+    <div property="skos:definition" xml:lang="en" content="The remainder of the name, used when the entry element is a surname or family name."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasPartOfNameOtherThanEntryElementInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasPartOfNameOtherThanEntryElementInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Part of name other than entry element in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_03">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAuthorityRecordNumberInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Personal name used as subject (Name entered under forename or in direct order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_1y">
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60110t">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Title in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTitleInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasTitleInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U608__x">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInFormGenreOrPhysicalCharacteristicsHeading.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInFormGenreOrPhysicalCharacteristicsHeading"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Form, genre or physical characteristics heading"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__w">
+    <div property="rdfs:label" xml:lang="en" content="has Arranged statement (for music) in Title used as subject"></div>
+    <div property="skos:definition" xml:lang="en" content="The statement that a musical work is an arrangement."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasArrangedStatementForMusicInTitleUsedAsSubject.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasArrangedStatementForMusicInTitleUsedAsSubject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60111j">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_1f">
+    <div property="reg:name" xml:lang="en" content="hasDatesInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasDatesInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The dates attached to personal names together with abbreviations or other indications of the nature of the dates."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Dates in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60112y">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U606__a">
+    <div property="skos:definition" xml:lang="en" content="The term in the form prescribed by the system of subject headings used."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInTopicalNameUsedAsSubjectNoInformationAvailable"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInTopicalNameUsedAsSubjectNoInformationAvailable.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Topical name used as subject (No information available)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__u">
+    <div property="rdfs:label" xml:lang="en" content="has Key (for music) in Title used as subject"></div>
+    <div property="skos:definition" xml:lang="en" content="The musical key used as part of the preferred access point."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasKeyForMusicInTitleUsedAsSubject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasKeyForMusicInTitleUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60111a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The portion of the name used as the entry element in the heading."></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U604__y">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInNameAndTitleUsedAsSubject.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInNameAndTitleUsedAsSubject"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Name and title used as subject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U604__x">
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Name and title used as subject"></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInNameAndTitleUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInNameAndTitleUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60102e">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Location of meeting in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+    <div property="skos:definition" xml:lang="en" content="The place where a meeting was held."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasLocationOfMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasLocationOfMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U601122">
+    <div property="rdfs:label" xml:lang="en" content="has System code in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60101j">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U608__y">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInFormGenreOrPhysicalCharacteristicsHeading.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Form, genre or physical characteristics heading"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInFormGenreOrPhysicalCharacteristicsHeading"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_0p">
+    <div property="rdfs:label" xml:lang="en" content="has Affiliation/address in Personal name used as subject (Name entered under forename or in direct order)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAffiliationAddressInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The institutional affiliation of the individual at the time the work was prepared."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasAffiliationAddressInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__k">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date of publication in Title used as subject"></div>
+    <div property="reg:name" xml:lang="en" content="hasDateOfPublicationInTitleUsedAsSubject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The date of publication of the item as subject when it is necessary to add it to the uniform title to distinguish the item."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasDateOfPublicationInTitleUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U601103">
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60102x">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U601012">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60102g">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="Any part of the name of the corporate body which is removed from the beginning of the name."></div>
+    <div property="reg:name" xml:lang="en" content="hasInvertedElementInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasInvertedElementInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Inverted element in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60110b">
+    <div property="skos:definition" xml:lang="en" content="The name of a lower level in a hierarchy when the name includes a hierarchy; or the name of the corporate body when it is entered under place."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasSubdivisionOrNameIfEnteredUnderPlaceInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSubdivisionOrNameIfEnteredUnderPlaceInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Subdivision (or name if entered under place) in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6061_y">
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Topical name used as subject (Primary term)"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInTopicalNameUsedAsSubjectPrimaryTerm"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInTopicalNameUsedAsSubjectPrimaryTerm.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U601102">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__z">
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInTitleUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInTitleUsedAsSubject.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Title used as subject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60102f">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasDateOfMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasDateOfMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date of meeting in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+    <div property="skos:definition" xml:lang="en" content="The date of a meeting."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60110z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_1g">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasExpansionOfInitialsOfForenameInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Expansion of initials of forename in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+    <div property="reg:name" xml:lang="en" content="hasExpansionOfInitialsOfForenameInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The full form of forenames when initials are recorded in Part of Name Other than Entry Element."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_1d">
+    <div property="reg:name" xml:lang="en" content="hasRomanNumeralsInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Roman numerals in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes an epithet (or a further forename) is associated with the numeration."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasRomanNumeralsInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Roman numerals associated with names of certain popes, royalty and ecclesiastics."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60111g">
+    <div property="skos:definition" xml:lang="en" content="Any part of the name of the corporate body which is removed from the beginning of the name."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Inverted element in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+    <div property="reg:name" xml:lang="en" content="hasInvertedElementInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasInvertedElementInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_1x">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U608__2">
+    <div property="rdfs:label" xml:lang="en" content="has System code in Form, genre or physical characteristics heading"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInFormGenreOrPhysicalCharacteristicsHeading"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInFormGenreOrPhysicalCharacteristicsHeading.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60101e">
+    <div property="skos:definition" xml:lang="en" content="The place where a meeting was held."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Location of meeting in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div property="reg:name" xml:lang="en" content="hasLocationOfMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasLocationOfMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U607__z">
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Geographical name used as subject"></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInGeographicalNameUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInGeographicalNameUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U601013">
+    <div property="rdfs:label" xml:lang="en" content="has System code in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U601113">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60112c">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Addition to name or qualifier in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+    <div property="reg:name" xml:lang="en" content="hasAdditionToNameOrQualifierInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div property="skos:definition" xml:lang="en" content="Any addition to the name of the corporate body added by the cataloguer."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAdditionToNameOrQualifierInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U608__a">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Form, genre or physical characteristics heading"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInFormGenreOrPhysicalCharacteristicsHeading.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInFormGenreOrPhysicalCharacteristicsHeading"></div>
+    <div property="skos:definition" xml:lang="en" content="The term in the form prescribed by the system of form headings used."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6060_2">
+    <div property="rdfs:label" xml:lang="en" content="has System code in Topical name used as subject (No level specified)"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInTopicalNameUsedAsSubjectNoLevelSpecified"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInTopicalNameUsedAsSubjectNoLevelSpecified.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__h">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasNumberOfSectionOrPartInTitleUsedAsSubject.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The number of a part when the item to which the title or uniform title refers is only a part of the work."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberOfSectionOrPartInTitleUsedAsSubject"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Number of section or part in Title used as subject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60110y">
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60100j">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__q">
+    <div property="skos:definition" xml:lang="en" content="An identification of the version of the work represented by the item."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes the name or the original date of the version."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasVersionOrDateOfVersionInTitleUsedAsSubject.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasVersionOrDateOfVersionInTitleUsedAsSubject"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Version (or date of version) in Title used as subject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__a">
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Title used as subject"></div>
+    <div property="skos:definition" xml:lang="en" content="The short title or title proper."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInTitleUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInTitleUsedAsSubject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U601002">
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U606__z">
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Topical name used as subject (No information available)"></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInTopicalNameUsedAsSubjectNoInformationAvailable"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInTopicalNameUsedAsSubjectNoInformationAvailable.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60110c">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAdditionToNameOrQualifierInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasAdditionToNameOrQualifierInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+    <div property="skos:definition" xml:lang="en" content="Any addition to the name of the corporate body added by the cataloguer."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Addition to name or qualifier in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60110g">
+    <div property="reg:name" xml:lang="en" content="hasInvertedElementInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Inverted element in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+    <div property="skos:definition" xml:lang="en" content="Any part of the name of the corporate body which is removed from the beginning of the name."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasInvertedElementInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__n">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasMiscellaneousInformationInTitleUsedAsSubject.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasMiscellaneousInformationInTitleUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="Any information."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Miscellaneous information in Title used as subject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__i">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasNameOfSectionOrPartInTitleUsedAsSubject.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of a part when the item to which the title or uniform title refers is only a part of the work."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Name of section or part in Title used as subject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasNameOfSectionOrPartInTitleUsedAsSubject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U601112">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U607__y">
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInGeographicalNameUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInGeographicalNameUsedAsSubject.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Geographical name used as subject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60111c">
+    <div property="skos:definition" xml:lang="en" content="Any addition to the name of the corporate body added by the cataloguer."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAdditionToNameOrQualifierInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Addition to name or qualifier in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasAdditionToNameOrQualifierInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U607__x">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Geographical name used as subject"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInGeographicalNameUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInGeographicalNameUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60100x">
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U601003">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U606__y">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Topical name used as subject (No information available)"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInTopicalNameUsedAsSubjectNoInformationAvailable"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInTopicalNameUsedAsSubjectNoInformationAvailable.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60112j">
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60112e">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasLocationOfMeetingInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Location of meeting in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+    <div property="reg:name" xml:lang="en" content="hasLocationOfMeetingInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div property="skos:definition" xml:lang="en" content="The place where a meeting was held."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U601123">
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6060_a">
+    <div property="skos:definition" xml:lang="en" content="The term in the form prescribed by the system of subject headings used."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInTopicalNameUsedAsSubjectNoLevelSpecified.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Topical name used as subject (No level specified)"></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInTopicalNameUsedAsSubjectNoLevelSpecified"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60101a">
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div property="skos:definition" xml:lang="en" content="The portion of the name used as the entry element in the heading."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6060_x">
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInTopicalNameUsedAsSubjectNoLevelSpecified"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInTopicalNameUsedAsSubjectNoLevelSpecified.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Topical name used as subject (No level specified)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6060_z">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInTopicalNameUsedAsSubjectNoLevelSpecified.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Topical name used as subject (No level specified)"></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInTopicalNameUsedAsSubjectNoLevelSpecified"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__l">
+    <div property="rdfs:label" xml:lang="en" content="has Form subheading in Title used as subject"></div>
+    <div property="skos:definition" xml:lang="en" content="A standard phrase added to a heading to further specify the uniform title."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubheadingInTitleUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubheadingInTitleUsedAsSubject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_0b">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasPartOfNameOtherThanEntryElementInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasPartOfNameOtherThanEntryElementInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Part of name other than entry element in Personal name used as subject (Name entered under forename or in direct order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The remainder of the name, used when the entry element is a surname or family name."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60110e">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The place where a meeting was held."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasLocationOfMeetingInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Location of meeting in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+    <div property="reg:name" xml:lang="en" content="hasLocationOfMeetingInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60102b">
+    <div property="reg:name" xml:lang="en" content="hasSubdivisionOrNameIfEnteredUnderPlaceInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of a lower level in a hierarchy when the name includes a hierarchy; or the name of the corporate body when it is entered under place."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSubdivisionOrNameIfEnteredUnderPlaceInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Subdivision (or name if entered under place) in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U602__a">
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInFamilyNameUsedAsSubject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of the family in access point form."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Family name used as subject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInFamilyNameUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__r">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Medium of performance (for music) in Title used as subject"></div>
+    <div property="reg:name" xml:lang="en" content="hasMediumOfPerformanceForMusicInTitleUsedAsSubject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The instrumentation, etc., of the item."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasMediumOfPerformanceForMusicInTitleUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6061_j">
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Topical name used as subject (Primary term)"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInTopicalNameUsedAsSubjectPrimaryTerm.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInTopicalNameUsedAsSubjectPrimaryTerm"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U606__x">
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Topical name used as subject (No information available)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInTopicalNameUsedAsSubjectNoInformationAvailable.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInTopicalNameUsedAsSubjectNoInformationAvailable"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__y">
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInTitleUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Title used as subject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInTitleUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U602__z">
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInFamilyNameUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInFamilyNameUsedAsSubject.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Family name used as subject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60111x">
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60100t">
+    <div property="reg:name" xml:lang="en" content="hasTitleInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTitleInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Title in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60110j">
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Corporate body name used as subject (Meeting) (Name in inverted order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameInInvertedOrder"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60112g">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Inverted element in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasInvertedElementInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasInvertedElementInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="Any part of the name of the corporate body which is removed from the beginning of the name."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60102y">
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60111y">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6061_3">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAuthorityRecordNumberInTopicalNameUsedAsSubjectPrimaryTerm.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Topical name used as subject (Primary term)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInTopicalNameUsedAsSubjectPrimaryTerm"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60100a">
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The portion of the name used as the entry element in the heading."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6062_z">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInTopicalNameUsedAsSubjectSecondaryTerm.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInTopicalNameUsedAsSubjectSecondaryTerm"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Topical name used as subject (Secondary term)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_1a">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The portion of the name used as the entry element in the heading."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U607__j">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInGeographicalNameUsedAsSubject.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Geographical name used as subject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInGeographicalNameUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60100g">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="Any part of the name of the corporate body which is removed from the beginning of the name."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Inverted element in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasInvertedElementInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasInvertedElementInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U604__a">
+    <div property="skos:definition" xml:lang="en" content="The name of the person, corporate body or family with primary responsibility for the item."></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementNameInNameAndTitleUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasEntryElementNameInNameAndTitleUsedAsSubject.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Entry element name in Name and title used as subject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_0g">
+    <div property="reg:name" xml:lang="en" content="hasExpansionOfInitialsOfForenameInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasExpansionOfInitialsOfForenameInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Expansion of initials of forename in Personal name used as subject (Name entered under forename or in direct order)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The full form of forenames when initials are recorded in Part of Name Other than Entry Element."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60112x">
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the subject heading represents."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTopicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U606__3">
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Topical name used as subject (No information available)"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInTopicalNameUsedAsSubjectNoInformationAvailable"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAuthorityRecordNumberInTopicalNameUsedAsSubjectNoInformationAvailable.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60101y">
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U602__y">
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInFamilyNameUsedAsSubject.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInFamilyNameUsedAsSubject"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Family name used as subject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60111f">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasDateOfMeetingInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div property="skos:definition" xml:lang="en" content="The date of a meeting."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasDateOfMeetingInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date of meeting in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__s">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasNumericDesignationForMusicInTitleUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumericDesignationForMusicInTitleUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="A number assigned by the composer or others to distinguish works."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Numeric designation (for music) in Title used as subject"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes the serial, opus or thematic index number or date used as a number."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60111t">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasTitleInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTitleInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderPlaceOrJurisdiction.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Title in Corporate body name used as subject (Meeting) (Name entered under place or jurisdiction)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_0y">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Personal name used as subject (Name entered under forename or in direct order)"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a person which the subject heading represents."></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasGeographicalSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U606__j">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInTopicalNameUsedAsSubjectNoInformationAvailable.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInTopicalNameUsedAsSubjectNoInformationAvailable"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Topical name used as subject (No information available)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60102t">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTitleInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasTitleInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Title in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60102h">
+    <div property="rdfs:label" xml:lang="en" content="has Part of name other than entry element and inverted element in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+    <div property="skos:definition" xml:lang="en" content="The part of the name following the inversion."></div>
+    <div property="reg:name" xml:lang="en" content="hasPartOfNameOtherThanEntryElementAndInvertedElementInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasPartOfNameOtherThanEntryElementAndInvertedElementInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_1t">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasTitleInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Title in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTitleInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__j">
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Title used as subject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInTitleUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInTitleUsedAsSubject.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U6061_2">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInTopicalNameUsedAsSubjectPrimaryTerm.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInTopicalNameUsedAsSubjectPrimaryTerm"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Topical name used as subject (Primary term)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U604__1">
+    <div property="reg:name" xml:lang="en" content="hasLinkingDataInNameAndTitleUsedAsSubject"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Linking data in Name and title used as subject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasLinkingDataInNameAndTitleUsedAsSubject.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60100h">
+    <div property="skos:definition" xml:lang="en" content="The part of the name following the inversion."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Part of name other than entry element and inverted element in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasPartOfNameOtherThanEntryElementAndInvertedElementInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasPartOfNameOtherThanEntryElementAndInvertedElementInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__3">
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasAuthorityRecordNumberInTitleUsedAsSubject.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInTitleUsedAsSubject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Title used as subject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U605__m">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Language (when part of heading) in Title used as subject"></div>
+    <div property="reg:name" xml:lang="en" content="hasLanguageWhenPartOfHeadingInTitleUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="The language of the item when required as part of the heading because it differs from that usually associated with the work named in the heading or when the work does not have a main language."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasLanguageWhenPartOfHeadingInTitleUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60100f">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasDateOfMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date of meeting in Corporate body name used as subject (Corporate name) (Name in inverted order)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasDateOfMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameInInvertedOrder.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The date of a meeting."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_1j">
+    <div property="skos:definition" xml:lang="en" content="A term added to the subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasFormSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U601023">
+    <div property="rdfs:label" xml:lang="en" content="has System code in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60102d">
+    <div property="reg:name" xml:lang="en" content="hasNumberOfMeetingAndOrNumberOfPartOfAMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Number of meeting and/or number of part of a meeting in Corporate body name used as subject (Corporate name) (Name entered under name in direct order)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasNumberOfMeetingAndOrNumberOfPartOfAMeetingInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderNameInDirectOrder.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The number of a meeting when the meeting belongs to a numbered series."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60112t">
+    <div property="rdfs:label" xml:lang="en" content="has Title in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasTitleInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasTitleInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U608__5">
+    <div property="rdfs:label" xml:lang="en" content="has Institution to which the field applies in Form, genre or physical characteristics heading"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasInstitutionToWhichTheFieldAppliesInFormGenreOrPhysicalCharacteristicsHeading.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Name of institution."></div>
+    <div property="reg:name" xml:lang="en" content="hasInstitutionToWhichTheFieldAppliesInFormGenreOrPhysicalCharacteristicsHeading"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_0d">
+    <div property="skos:scopeNote" xml:lang="en" content="Includes an epithet (or a further forename) is associated with the numeration."></div>
+    <div property="reg:name" xml:lang="en" content="hasRomanNumeralsInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="Roman numerals associated with names of certain popes, royalty and ecclesiastics."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Roman numerals in Personal name used as subject (Name entered under forename or in direct order)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasRomanNumeralsInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_1z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Personal name used as subject (Name entered under surname (family name, patronymic etc.))"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasChronologicalSubdivisionInPersonalNameUsedAsSubjectNameEnteredUnderSurnameFamilyNamePatronymicEtc.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a person whom the subject heading represents."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U602__f">
+    <div property="reg:name" xml:lang="en" content="hasDatesInFamilyNameUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasDatesInFamilyNameUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The dates of a family."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Dates in Family name used as subject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60112h">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasPartOfNameOtherThanEntryElementAndInvertedElementInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Part of name other than entry element and inverted element in Corporate body name used as subject (Meeting) (Name entered under name in direct order)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasPartOfNameOtherThanEntryElementAndInvertedElementInCorporateBodyNameUsedAsSubjectMeetingNameEnteredUnderNameInDirectOrder"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The part of the name following the inversion."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U60101g">
+    <div property="reg:name" xml:lang="en" content="hasInvertedElementInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Inverted element in Corporate body name used as subject (Corporate name) (Name entered under place or jurisdiction)"></div>
+    <div property="skos:definition" xml:lang="en" content="Any part of the name of the corporate body which is removed from the beginning of the name."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasInvertedElementInCorporateBodyNameUsedAsSubjectCorporateNameNameEnteredUnderPlaceOrJurisdiction.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/U600_02">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/hasSystemCodeInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Personal name used as subject (Name entered under forename or in direct order)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/60X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The system or thesaurus from which the subject heading is derived."></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInPersonalNameUsedAsSubjectNameEnteredUnderForenameOrInDirectOrder"></div>
+  </div>
+</div>

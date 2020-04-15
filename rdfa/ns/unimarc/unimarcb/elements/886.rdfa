@@ -1,0 +1,86 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  prefix="
+    reg: http://metadataregistry.org/uri/profile/regap/
+    rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    skos: http://www.w3.org/2004/02/skos/core#
+    dc: http://purl.org/dc/elements/1.1/
+    rdfs: http://www.w3.org/2000/01/rdf-schema#"
+  >
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8862_b">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasIndicatorsOrSubfieldsOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableDataField.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Indicators or subfields of the source format field in Data not converted from source format (Variable data field)"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes the indicators, subfield identifiers and subfields of the original field in the original order."></div>
+    <div property="reg:name" xml:lang="en" content="hasIndicatorsOrSubfieldsOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableDataField"></div>
+    <div rel="rdfs:isDefinedBy">
+      <div typeof="rdfs:Resource" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/">
+        <div property="dc:title" xml:lang="en" content="UNIMARC/B elements 886"></div>
+      </div>
+    </div>
+    <div rel="reg:status">
+      <div typeof="skos:Concept" about="http://metadataregistry.org/uri/RegStatus/1001">
+        <div property="skos:prefLabel" xml:lang="en" content="Published"></div>
+      </div>
+    </div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8861_b">
+    <div property="skos:scopeNote" xml:lang="en" content="Includes the indicators, subfield identifiers and subfields of the original field in the original order."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Indicators or subfields of the source format field in Data not converted from source format (Variable control field)"></div>
+    <div property="reg:name" xml:lang="en" content="hasIndicatorsOrSubfieldsOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableControlField"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasIndicatorsOrSubfieldsOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableControlField.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8861_a">
+    <div property="reg:name" xml:lang="en" content="hasTagOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableControlField"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasTagOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableControlField.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Tag of the source format field in Data not converted from source format (Variable control field)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8861_2">
+    <div property="skos:definition" xml:lang="en" content="The name of the format used for the machine-readable record."></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInDataNotConvertedFromSourceFormatVariableControlField"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasSystemCodeInDataNotConvertedFromSourceFormatVariableControlField.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Data not converted from source format (Variable control field)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8860_b">
+    <div property="reg:name" xml:lang="en" content="hasIndicatorsOrSubfieldsOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatRecordLabel"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Indicators or subfields of the source format field in Data not converted from source format (Record label)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasIndicatorsOrSubfieldsOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatRecordLabel.en"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes the indicators, subfield identifiers and subfields of the original field in the original order."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8862_2">
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInDataNotConvertedFromSourceFormatVariableDataField"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of the format used for the machine-readable record."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasSystemCodeInDataNotConvertedFromSourceFormatVariableDataField.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Data not converted from source format (Variable data field)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8860_a">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasTagOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatRecordLabel"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasTagOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatRecordLabel.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Tag of the source format field in Data not converted from source format (Record label)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8860_2">
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInDataNotConvertedFromSourceFormatRecordLabel"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Data not converted from source format (Record label)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of the format used for the machine-readable record."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasSystemCodeInDataNotConvertedFromSourceFormatRecordLabel.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8862_a">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasTagOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableDataField.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasTagOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableDataField"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Tag of the source format field in Data not converted from source format (Variable data field)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/"></div>
+  </div>
+</div>

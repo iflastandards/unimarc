@@ -1,0 +1,13 @@
+<div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/850/U850__a" itemscope>
+    <div itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/850/" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC/B elements 850" />
+    </div>
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="Has Code of Institution in Holding Institution" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/850/hasCodeOfInstitutionInHoldingInstitution.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCodeOfInstitutionInHoldingInstitution" />
+  </div>
+</div>

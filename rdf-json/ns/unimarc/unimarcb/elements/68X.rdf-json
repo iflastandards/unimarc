@@ -1,0 +1,449 @@
+{
+  "http://metadataregistry.org/uri/RegStatus/1001": {
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Published"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__v": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasEditionInOtherClassNumbers.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Edition in Other class numbers"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The number of the scheme edition used."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasEditionInOtherClassNumbers"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U680__3": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassificationRecordNumberInLibraryOfCongressClassification.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The control number."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasClassificationRecordNumberInLibraryOfCongressClassification"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Classification record number in Library of Congress Classification"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__c": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassificationSubdivisionInOtherClassNumbers.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "A subdivision of the class number taken from the classification scheme."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasClassificationSubdivisionInOtherClassNumbers"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Classification subdivision in Other class numbers"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__3": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassificationRecordNumberInOtherClassNumbers.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The control number"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasClassificationRecordNumberInOtherClassNumbers"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Classification record number in Other class numbers"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/": {
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "UNIMARC/B elements 68X"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__2": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasSystemCodeInOtherClassNumbers.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "A code for the classification scheme used in formulating the number."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSystemCodeInOtherClassNumbers"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has System code in Other class numbers"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__a": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassNumberInOtherClassNumbers.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The class number taken from the classification scheme."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasClassNumberInOtherClassNumbers"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Class number in Other class numbers"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U680__b": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasBookNumberInLibraryOfCongressClassification.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The individual book number applied by the cataloguing agency."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasBookNumberInLibraryOfCongressClassification"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Book number in Library of Congress Classification"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U680__a": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassNumberInLibraryOfCongressClassification.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The class number taken from the Library of Congress classification schedules."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasClassNumberInLibraryOfCongressClassification"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Class number in Library of Congress Classification"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__b": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasBookNumberInOtherClassNumbers.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Book number in Other class numbers"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The book number applied by the assigning agency."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasBookNumberInOtherClassNumbers"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+<div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfov#d" itemscope>
+    <div itemprop="inScheme" itemtype="http://www.w3.org/2004/02/skos/core#ConceptScheme" itemid="http://iflastandards.info/ns/unimarc/terms/visfov#" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC: Visual projections, etc.: Form of release - videorecording" />
+    </div>
+    <meta itemprop="notation" content="d" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7811" />
+    <meta itemprop="prefLabel" content="videoreel" />
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfov#b" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfov#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="b" />
+    <meta itemprop="prefLabel" content="videodisc" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7809" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfov#e" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="e" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfov#" />
+    <meta itemprop="prefLabel" content="electronic videorecording (EVR)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7812" />
+    <meta itemprop="definition" content="An obsolete form of video recording on 16mm film." />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfov#z" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7814" />
+    <meta itemprop="notation" content="z" />
+    <meta itemprop="prefLabel" content="other videotype" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfov#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfov#c" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="videocassette" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfov#" />
+    <meta itemprop="notation" content="c" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7810" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfov#a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfov#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7808" />
+    <meta itemprop="notation" content="a" />
+    <meta itemprop="prefLabel" content="videocartridge" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfov#x" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7813" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfov#" />
+    <meta itemprop="notation" content="x" />
+    <meta itemprop="prefLabel" content="not a videorecording" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+</div>

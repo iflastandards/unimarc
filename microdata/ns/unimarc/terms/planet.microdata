@@ -1,0 +1,88 @@
+<div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/planet#ve" itemscope>
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6421" />
+    <div itemprop="inScheme" itemtype="http://www.w3.org/2004/02/skos/core#ConceptScheme" itemid="http://iflastandards.info/ns/unimarc/terms/planet#" itemscope>
+      <link itemprop="hasTopConcept" href="http://iflastandards.info/ns/unimarc/terms/planet#ve" />
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/planet#me" itemscope>
+        <meta itemprop="notation" content="me" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6416" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <meta itemprop="prefLabel" content="Mercury" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/planet#ma" itemscope>
+        <meta itemprop="notation" content="ma" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <meta itemprop="prefLabel" content="Mars" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6415" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/planet#ju" itemscope>
+        <meta itemprop="prefLabel" content="Jupiter" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <meta itemprop="notation" content="ju" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6414" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/planet#zz" itemscope>
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <meta itemprop="prefLabel" content="Other" />
+        <meta itemprop="definition" content="A planet other than Earth, Jupiter, Mars, Mercury, Neptune, Pluto, Saturn, Uranus, or Venus." />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6422" />
+        <meta itemprop="notation" content="zz" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/planet#ne" itemscope>
+        <meta itemprop="notation" content="ne" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6417" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <meta itemprop="prefLabel" content="Neptune" />
+      </div>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC: Cartographic materials: Planet" />
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/planet#ur" itemscope>
+        <meta itemprop="prefLabel" content="Uranus" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6420" />
+        <meta itemprop="notation" content="ur" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/planet#sa" itemscope>
+        <meta itemprop="notation" content="sa" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <meta itemprop="prefLabel" content="Saturn" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6419" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/planet#ea" itemscope>
+        <meta itemprop="prefLabel" content="Earth" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="notation" content="ea" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6413" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/planet#pl" itemscope>
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6418" />
+        <meta itemprop="notation" content="pl" />
+        <meta itemprop="prefLabel" content="Pluto" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+      </div>
+    </div>
+    <meta itemprop="notation" content="ve" />
+    <meta itemprop="prefLabel" content="Venus" />
+    <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/planet#" />
+  </div>
+</div>

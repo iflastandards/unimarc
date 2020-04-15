@@ -1,0 +1,113 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  prefix="
+    rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    skos: http://www.w3.org/2004/02/skos/core#
+    reg: http://metadataregistry.org/uri/profile/regap/
+    dc: http://purl.org/dc/elements/1.1/
+    rdfs: http://www.w3.org/2000/01/rdf-schema#"
+  >
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U675__3">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasClassificationRecordNumberInUniversalDecimalClassificationUdc.en"></div>
+    <div rel="reg:status">
+      <div typeof="skos:Concept" about="http://metadataregistry.org/uri/RegStatus/1001">
+        <div property="skos:prefLabel" xml:lang="en" content="Published"></div>
+      </div>
+    </div>
+    <div property="reg:name" xml:lang="en" content="hasClassificationRecordNumberInUniversalDecimalClassificationUdc"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="rdfs:isDefinedBy">
+      <div typeof="rdfs:Resource" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/">
+        <div property="dc:title" xml:lang="en" content="UNIMARC/B elements 67X"></div>
+      </div>
+    </div>
+    <div property="rdfs:label" xml:lang="en" content="has Classification record number in Universal Decimal Classification (UDC)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U676__3">
+    <div property="rdfs:label" xml:lang="en" content="has Classification record number in Dewey Decimal Classification"></div>
+    <div property="reg:name" xml:lang="en" content="hasClassificationRecordNumberInDeweyDecimalClassification"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasClassificationRecordNumberInDeweyDecimalClassification.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U676__v">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasEditionInDeweyDecimalClassification.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The number of the edition used."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Edition in Dewey Decimal Classification"></div>
+    <div property="reg:name" xml:lang="en" content="hasEditionInDeweyDecimalClassification"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U676__z">
+    <div property="reg:name" xml:lang="en" content="hasLanguageOfEditionInDeweyDecimalClassification"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasLanguageOfEditionInDeweyDecimalClassification.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The language in coded form of the edition from which the DDC number is taken."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Language of edition in Dewey Decimal Classification"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U675__z">
+    <div property="rdfs:label" xml:lang="en" content="has Language of edition in Universal Decimal Classification (UDC)"></div>
+    <div property="skos:definition" xml:lang="en" content="The language in coded form of the edition from which the UDC number is taken."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasLanguageOfEditionInUniversalDecimalClassificationUdc.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasLanguageOfEditionInUniversalDecimalClassificationUdc"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U670__z">
+    <div property="rdfs:label" xml:lang="en" content="has Language of terms in Precis"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasLanguageOfTermsInPrecis.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasLanguageOfTermsInPrecis"></div>
+    <div property="skos:definition" xml:lang="en" content="The language of the terms used in the string."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U670__c">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has String in Precis"></div>
+    <div property="skos:definition" xml:lang="en" content="A sequence of subject index terms in which each term is preceded by a code which determines how it should appear in entries generated by the computer in printed indexes, COM output, card catalogues, etc."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasStringInPrecis.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasStringInPrecis"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U675__a">
+    <div property="rdfs:label" xml:lang="en" content="has Number in Universal Decimal Classification (UDC)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberInUniversalDecimalClassificationUdc"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasNumberInUniversalDecimalClassificationUdc.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The class number as taken from the UDC schedules."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U670__e">
+    <div property="rdfs:label" xml:lang="en" content="has Reference indicator number in Precis"></div>
+    <div property="reg:name" xml:lang="en" content="hasReferenceIndicatorNumberInPrecis"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasReferenceIndicatorNumberInPrecis.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A Reference Indication Number (RIN)."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U675__v">
+    <div property="reg:name" xml:lang="en" content="hasEditionInUniversalDecimalClassificationUdc"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Edition in Universal Decimal Classification (UDC)"></div>
+    <div property="skos:definition" xml:lang="en" content="An identification of the edition from which the UDC number is taken."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasEditionInUniversalDecimalClassificationUdc.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U676__a">
+    <div property="reg:name" xml:lang="en" content="hasNumberInDeweyDecimalClassification"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasNumberInDeweyDecimalClassification.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Number in Dewey Decimal Classification"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The number as taken from the Dewey Decimal Classification schedules."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U670__b">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasSubjectIndicatorNumberInPrecis.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSubjectIndicatorNumberInPrecis"></div>
+    <div property="skos:definition" xml:lang="en" content="The Subject Indicator Number (SIN)."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Subject indicator number in Precis"></div>
+  </div>
+</div>

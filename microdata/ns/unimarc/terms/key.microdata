@@ -1,0 +1,223 @@
+<div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#f" itemscope>
+    <meta itemprop="notation" content="F" />
+    <div itemprop="inScheme" itemtype="http://www.w3.org/2004/02/skos/core#ConceptScheme" itemid="http://iflastandards.info/ns/unimarc/terms/key#" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC: Key of musical work" />
+    </div>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9354" />
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <meta itemprop="prefLabel" content="F major" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#bbm" itemscope>
+    <meta itemprop="prefLabel" content="B flat minor" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9370" />
+    <meta itemprop="notation" content="Bbm" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#eb" itemscope>
+    <meta itemprop="prefLabel" content="E flat major" />
+    <meta itemprop="notation" content="Eb" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9352" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#b" itemscope>
+    <meta itemprop="prefLabel" content="B major" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <meta itemprop="notation" content="B" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9367" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#cb" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <meta itemprop="notation" content="Cb" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9343" />
+    <meta itemprop="prefLabel" content="C flat major" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#g" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9358" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <meta itemprop="prefLabel" content="G major" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="G" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#cm" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <meta itemprop="prefLabel" content="C minor" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="Cm" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9329" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#bm" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9368" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="B minor" />
+    <meta itemprop="notation" content="Bm" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#c" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <meta itemprop="prefLabel" content="C major" />
+    <meta itemprop="notation" content="C" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9328" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#axm" itemscope>
+    <meta itemprop="prefLabel" content="A sharp minor" />
+    <meta itemprop="notation" content="Axm" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9366" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#bb" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9369" />
+    <meta itemprop="prefLabel" content="B flat major" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <meta itemprop="notation" content="Bb" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#fxm" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9357" />
+    <meta itemprop="prefLabel" content="F sharp minor" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="Fxm" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#dxm" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9349" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="D sharp minor" />
+    <meta itemprop="notation" content="Dxm" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#a" itemscope>
+    <meta itemprop="notation" content="A" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9362" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="A major" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#ebm" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9353" />
+    <meta itemprop="notation" content="Ebm" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="E flat minor" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#cxm" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="Cxm" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9345" />
+    <meta itemprop="prefLabel" content="C sharp minor" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#gm" itemscope>
+    <meta itemprop="notation" content="Gm" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9359" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="G minor" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#abm" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9365" />
+    <meta itemprop="prefLabel" content="A flat minor" />
+    <meta itemprop="notation" content="Abm" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#db" itemscope>
+    <meta itemprop="notation" content="Db" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9348" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="D flat major" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#zz" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9371" />
+    <meta itemprop="prefLabel" content="Other" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="Zz" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#gb" itemscope>
+    <meta itemprop="prefLabel" content="G flat major" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9360" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="Gb" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#cx" itemscope>
+    <meta itemprop="notation" content="Cx" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9344" />
+    <meta itemprop="prefLabel" content="C sharp major" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#fx" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9356" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <meta itemprop="notation" content="Fx" />
+    <meta itemprop="prefLabel" content="F sharp major" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#d" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9346" />
+    <meta itemprop="prefLabel" content="D major" />
+    <meta itemprop="notation" content="D" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#am" itemscope>
+    <meta itemprop="notation" content="Am" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9363" />
+    <meta itemprop="prefLabel" content="A minor" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#ab" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <meta itemprop="notation" content="Ab" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9364" />
+    <meta itemprop="prefLabel" content="A flat major" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#em" itemscope>
+    <meta itemprop="notation" content="Em" />
+    <meta itemprop="prefLabel" content="E minor" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9351" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#fm" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9355" />
+    <meta itemprop="prefLabel" content="F minor" />
+    <meta itemprop="notation" content="Fm" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#e" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9350" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="E major" />
+    <meta itemprop="notation" content="E" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#gxm" itemscope>
+    <meta itemprop="prefLabel" content="G sharp minor" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="Gxm" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9361" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/key#dm" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/key#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9347" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="D minor" />
+    <meta itemprop="notation" content="Dm" />
+  </div>
+</div>

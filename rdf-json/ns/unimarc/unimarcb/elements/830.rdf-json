@@ -1,0 +1,66 @@
+{
+  "http://metadataregistry.org/uri/RegStatus/1001": {
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Published"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/830/": {
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "UNIMARC/B elements 830"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/830/U830__a": {
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasTextOfNoteInGeneralCataloguer'SNote"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Text of note in General cataloguer's note"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/830/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/830/hasTextOfNoteInGeneralCataloguer'SNote.en"
+      }
+    ]
+  }
+}

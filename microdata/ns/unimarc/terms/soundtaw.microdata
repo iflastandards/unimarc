@@ -1,0 +1,79 @@
+<div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#ConceptScheme" itemid="http://iflastandards.info/ns/unimarc/terms/soundtaw#" itemscope>
+    <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtaw#d " itemscope>
+      <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7552" />
+      <meta itemprop="notation" content="d " />
+      <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+        <meta itemprop="prefLabel" content="Published" />
+      </div>
+      <meta itemprop="prefLabel" content="⅛  in." />
+    </div>
+    <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtaw#u " itemscope>
+      <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <meta itemprop="notation" content="u " />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7555" />
+      <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <meta itemprop="prefLabel" content="unknown" />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    </div>
+    <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC: Sound recordings: Tape width" />
+    <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtaw#z " itemscope>
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7557" />
+      <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <meta itemprop="prefLabel" content="other" />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+      <meta itemprop="notation" content="z " />
+      <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+    </div>
+    <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtaw#a " itemscope>
+      <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <meta itemprop="prefLabel" content="¼  in." />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7549" />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+      <meta itemprop="notation" content="a " />
+    </div>
+    <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtaw#b " itemscope>
+      <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+      <meta itemprop="notation" content="b " />
+      <meta itemprop="prefLabel" content="½  in." />
+      <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7550" />
+    </div>
+    <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtaw#x " itemscope>
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7556" />
+      <meta itemprop="notation" content="x " />
+      <meta itemprop="prefLabel" content="recording not a tape" />
+      <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+      <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+    </div>
+    <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtaw#c " itemscope>
+      <meta itemprop="prefLabel" content="1  in." />
+      <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7551" />
+      <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+      <meta itemprop="notation" content="c " />
+    </div>
+    <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtaw#e " itemscope>
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+      <meta itemprop="prefLabel" content="2  in." />
+      <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7553" />
+      <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <meta itemprop="notation" content="e " />
+    </div>
+    <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtaw#f " itemscope>
+      <meta itemprop="prefLabel" content="⅓  in. (8 mm.)" />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+      <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7554" />
+      <meta itemprop="notation" content="f " />
+      <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+      <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtaw#" />
+    </div>
+  </div>
+</div>

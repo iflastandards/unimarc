@@ -1,0 +1,105 @@
+<div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#k" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7784" />
+    <div itemprop="inScheme" itemtype="http://www.w3.org/2004/02/skos/core#ConceptScheme" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC: Visual projections, etc.: Form of release - visual projection, motion picture" />
+    </div>
+    <meta itemprop="prefLabel" content="slide, slide set, stereograph" />
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <meta itemprop="notation" content="k" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#c" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="film cassette" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfor#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7778" />
+    <meta itemprop="notation" content="c" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#h" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfor#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7781" />
+    <meta itemprop="prefLabel" content="filmslip" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="h" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#g" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfor#" />
+    <meta itemprop="notation" content="g" />
+    <meta itemprop="prefLabel" content="filmstrip cartridge" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7780" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#z" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfor#" />
+    <meta itemprop="notation" content="z" />
+    <meta itemprop="prefLabel" content="other forms of release" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7788" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#u" itemscope>
+    <meta itemprop="prefLabel" content="unknown" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7786" />
+    <meta itemprop="notation" content="u" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfor#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#x" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfor#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7787" />
+    <meta itemprop="notation" content="x" />
+    <meta itemprop="prefLabel" content="not a motion picture or visual projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#a" itemscope>
+    <meta itemprop="prefLabel" content="film reel" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfor#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="a" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7776" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#j" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfor#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7783" />
+    <meta itemprop="notation" content="j" />
+    <meta itemprop="prefLabel" content="film strip roll" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#l" itemscope>
+    <meta itemprop="prefLabel" content="transparency" />
+    <meta itemprop="notation" content="l" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7891" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfor#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#1" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7785" />
+    <meta itemprop="notation" content="1" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfor#" />
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1008" itemscope>
+      <meta itemprop="prefLabel" content="Deprecated" />
+    </div>
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#b" itemscope>
+    <meta itemprop="prefLabel" content="film cartridge" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7777" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfor#" />
+    <meta itemprop="notation" content="b" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#i" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7782" />
+    <meta itemprop="prefLabel" content="other filmstrip type" />
+    <meta itemprop="notation" content="i" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfor#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/visfor#d" itemscope>
+    <meta itemprop="prefLabel" content="other film type" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7779" />
+    <meta itemprop="notation" content="d" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/visfor#" />
+  </div>
+</div>

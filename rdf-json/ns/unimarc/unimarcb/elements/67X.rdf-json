@@ -1,0 +1,590 @@
+{
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U675__3": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasClassificationRecordNumberInUniversalDecimalClassificationUdc.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The control number."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasClassificationRecordNumberInUniversalDecimalClassificationUdc"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Classification record number in Universal Decimal Classification (UDC)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U676__a": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasNumberInDeweyDecimalClassification.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The number as taken from the Dewey Decimal Classification schedules."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNumberInDeweyDecimalClassification"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Number in Dewey Decimal Classification"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U670__z": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasLanguageOfTermsInPrecis.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Language of terms in Precis"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The language of the terms used in the string."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasLanguageOfTermsInPrecis"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U675__v": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasEditionInUniversalDecimalClassificationUdc.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Edition in Universal Decimal Classification (UDC)"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "An identification of the edition from which the UDC number is taken."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasEditionInUniversalDecimalClassificationUdc"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ]
+  }, 
+  "http://metadataregistry.org/uri/RegStatus/1001": {
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Published"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U675__z": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasLanguageOfEditionInUniversalDecimalClassificationUdc.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The language in coded form of the edition from which the UDC number is taken."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasLanguageOfEditionInUniversalDecimalClassificationUdc"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Language of edition in Universal Decimal Classification (UDC)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U676__3": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasClassificationRecordNumberInDeweyDecimalClassification.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The control number."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasClassificationRecordNumberInDeweyDecimalClassification"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Classification record number in Dewey Decimal Classification"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U675__a": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasNumberInUniversalDecimalClassificationUdc.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The class number as taken from the UDC schedules."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNumberInUniversalDecimalClassificationUdc"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Number in Universal Decimal Classification (UDC)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U676__v": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasEditionInDeweyDecimalClassification.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The number of the edition used."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasEditionInDeweyDecimalClassification"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Edition in Dewey Decimal Classification"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U676__z": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasLanguageOfEditionInDeweyDecimalClassification.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The language in coded form of the edition from which the DDC number is taken."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasLanguageOfEditionInDeweyDecimalClassification"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Language of edition in Dewey Decimal Classification"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U670__c": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasStringInPrecis.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has String in Precis"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "A sequence of subject index terms in which each term is preceded by a code which determines how it should appear in entries generated by the computer in printed indexes, COM output, card catalogues, etc."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasStringInPrecis"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U670__b": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasSubjectIndicatorNumberInPrecis.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The Subject Indicator Number (SIN)."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSubjectIndicatorNumberInPrecis"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Subject indicator number in Precis"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/U670__e": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/hasReferenceIndicatorNumberInPrecis.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "A Reference Indication Number (RIN)."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasReferenceIndicatorNumberInPrecis"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Reference indicator number in Precis"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/67X/": {
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "UNIMARC/B elements 67X"
+      }
+    ]
+  }
+}

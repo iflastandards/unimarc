@@ -1,0 +1,205 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  prefix="
+    rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    skos: http://www.w3.org/2004/02/skos/core#
+    reg: http://metadataregistry.org/uri/profile/regap/
+    dc: http://purl.org/dc/elements/1.1/
+    rdfs: http://www.w3.org/2000/01/rdf-schema#"
+  >
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3h">
+    <div rel="rdfs:isDefinedBy">
+      <div typeof="rdfs:Resource" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/">
+        <div property="dc:title" xml:lang="en" content="UNIMARC/B elements 801"></div>
+      </div>
+    </div>
+    <div property="reg:name" xml:lang="en" content="hasOriginalControlNumberInOriginatingSourceIssuingAgency"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasOriginalControlNumberInOriginatingSourceIssuingAgency.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Original control number in Originating source (Issuing agency)"></div>
+    <div rel="reg:status">
+      <div typeof="skos:Concept" about="http://metadataregistry.org/uri/RegStatus/1001">
+        <div property="skos:prefLabel" xml:lang="en" content="Published"></div>
+      </div>
+    </div>
+    <div property="skos:definition" xml:lang="en" content="The original control number when a record’s Record Identifier has been overwritten."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1g">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCataloguingRulesDescriptiveConventionsInOriginatingSourceTranscribingAgency.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The cataloguing code used for bibliographic description and access."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="reg:name" xml:lang="en" content="hasCataloguingRulesDescriptiveConventionsInOriginatingSourceTranscribingAgency"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Cataloguing rules (descriptive conventions) in Originating source (Transcribing agency)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1b">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Agency in Originating source (Transcribing agency)"></div>
+    <div property="reg:name" xml:lang="en" content="hasAgencyInOriginatingSourceTranscribingAgency"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasAgencyInOriginatingSourceTranscribingAgency.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2b">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasAgencyInOriginatingSourceModifyingAgency.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Agency in Originating source (Modifying agency)"></div>
+    <div property="reg:name" xml:lang="en" content="hasAgencyInOriginatingSourceModifyingAgency"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3b">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasAgencyInOriginatingSourceIssuingAgency.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Agency in Originating source (Issuing agency)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="reg:name" xml:lang="en" content="hasAgencyInOriginatingSourceIssuingAgency"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0h">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The original control number when a record’s Record Identifier has been overwritten."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Original control number in Originating source (Original cataloguing agency)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasOriginalControlNumberInOriginatingSourceOriginalCataloguingAgency.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasOriginalControlNumberInOriginatingSourceOriginalCataloguingAgency"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_12">
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInOriginatingSourceTranscribingAgency"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Originating source (Transcribing agency)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasSystemCodeInOriginatingSourceTranscribingAgency.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of the format used for the machine-readable record."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_02">
+    <div property="rdfs:label" xml:lang="en" content="has System code in Originating source (Original cataloguing agency)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of the format used for the machine-readable record."></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInOriginatingSourceOriginalCataloguingAgency"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasSystemCodeInOriginatingSourceOriginalCataloguingAgency.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1h">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="reg:name" xml:lang="en" content="hasOriginalControlNumberInOriginatingSourceTranscribingAgency"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Original control number in Originating source (Transcribing agency)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasOriginalControlNumberInOriginatingSourceTranscribingAgency.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The original control number when a record’s Record Identifier has been overwritten."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1c">
+    <div property="reg:name" xml:lang="en" content="hasDateOfTransactionInOriginatingSourceTranscribingAgency"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="skos:definition" xml:lang="en" content="Indication when a modification was made or a record was issued."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date of transaction in Originating source (Transcribing agency)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasDateOfTransactionInOriginatingSourceTranscribingAgency.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="reg:name" xml:lang="en" content="hasCountryInOriginatingSourceTranscribingAgency"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCountryInOriginatingSourceTranscribingAgency.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Country in Originating source (Transcribing agency)"></div>
+    <div property="skos:definition" xml:lang="en" content="The country of the issuing agency."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3a">
+    <div property="skos:definition" xml:lang="en" content="The country of the issuing agency."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasCountryInOriginatingSourceIssuingAgency"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Country in Originating source (Issuing agency)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCountryInOriginatingSourceIssuingAgency.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2c">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasDateOfTransactionInOriginatingSourceModifyingAgency.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasDateOfTransactionInOriginatingSourceModifyingAgency"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date of transaction in Originating source (Modifying agency)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="skos:definition" xml:lang="en" content="Indication when a modification was made or a record was issued."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3c">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasDateOfTransactionInOriginatingSourceIssuingAgency"></div>
+    <div property="skos:definition" xml:lang="en" content="Indication when a modification was made or a record was issued."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasDateOfTransactionInOriginatingSourceIssuingAgency.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date of transaction in Originating source (Issuing agency)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2a">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCountryInOriginatingSourceModifyingAgency.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The country of the issuing agency."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="reg:name" xml:lang="en" content="hasCountryInOriginatingSourceModifyingAgency"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Country in Originating source (Modifying agency)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0c">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasDateOfTransactionInOriginatingSourceOriginalCataloguingAgency.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date of transaction in Originating source (Original cataloguing agency)"></div>
+    <div property="reg:name" xml:lang="en" content="hasDateOfTransactionInOriginatingSourceOriginalCataloguingAgency"></div>
+    <div property="skos:definition" xml:lang="en" content="Indication when a modification was made or a record was issued."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0a">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCountryInOriginatingSourceOriginalCataloguingAgency.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Country in Originating source (Original cataloguing agency)"></div>
+    <div property="reg:name" xml:lang="en" content="hasCountryInOriginatingSourceOriginalCataloguingAgency"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The country of the issuing agency."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2g">
+    <div property="skos:definition" xml:lang="en" content="The cataloguing code used for bibliographic description and access."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCataloguingRulesDescriptiveConventionsInOriginatingSourceModifyingAgency.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Cataloguing rules (descriptive conventions) in Originating source (Modifying agency)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasCataloguingRulesDescriptiveConventionsInOriginatingSourceModifyingAgency"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0g">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCataloguingRulesDescriptiveConventionsInOriginatingSourceOriginalCataloguingAgency.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasCataloguingRulesDescriptiveConventionsInOriginatingSourceOriginalCataloguingAgency"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The cataloguing code used for bibliographic description and access."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Cataloguing rules (descriptive conventions) in Originating source (Original cataloguing agency)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_32">
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInOriginatingSourceIssuingAgency"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Originating source (Issuing agency)"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of the format used for the machine-readable record."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasSystemCodeInOriginatingSourceIssuingAgency.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2h">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="skos:definition" xml:lang="en" content="The original control number when a record’s Record Identifier has been overwritten."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasOriginalControlNumberInOriginatingSourceModifyingAgency.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasOriginalControlNumberInOriginatingSourceModifyingAgency"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Original control number in Originating source (Modifying agency)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_22">
+    <div property="rdfs:label" xml:lang="en" content="has System code in Originating source (Modifying agency)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInOriginatingSourceModifyingAgency"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasSystemCodeInOriginatingSourceModifyingAgency.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of the format used for the machine-readable record."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3g">
+    <div property="rdfs:label" xml:lang="en" content="has Cataloguing rules (descriptive conventions) in Originating source (Issuing agency)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="reg:name" xml:lang="en" content="hasCataloguingRulesDescriptiveConventionsInOriginatingSourceIssuingAgency"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The cataloguing code used for bibliographic description and access."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCataloguingRulesDescriptiveConventionsInOriginatingSourceIssuingAgency.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0b">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasAgencyInOriginatingSourceOriginalCataloguingAgency.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Agency in Originating source (Original cataloguing agency)"></div>
+    <div property="reg:name" xml:lang="en" content="hasAgencyInOriginatingSourceOriginalCataloguingAgency"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+</div>

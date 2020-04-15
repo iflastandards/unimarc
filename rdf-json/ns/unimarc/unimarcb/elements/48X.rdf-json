@@ -1,0 +1,6026 @@
+{
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0i": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Name of section or part in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNameOfSectionOrPartInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNameOfSectionOrPartInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0h": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Number of section or part in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNumberOfSectionOrPartInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNumberOfSectionOrPartInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0m": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has International Standard Music Number in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInternationalStandardMusicNumberInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInternationalStandardMusicNumberInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0l": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Parallel title in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasParallelTitleInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasParallelTitleInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0o": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Other title information in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasOtherTitleInformationInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasOtherTitleInformationInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0n": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Name of publisher, distributor, etc. in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNameOfPublisherDistributorEtcInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNameOfPublisherDistributorEtcInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0a": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Author in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAuthorInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasAuthorInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0c": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Place of publication in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasPlaceOfPublicationInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasPlaceOfPublicationInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0b": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has General material designation in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasGeneralMaterialDesignationInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasGeneralMaterialDesignationInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0e": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Edition statement in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasEditionStatementInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasEditionStatementInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0d": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Date of publication in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasDateOfPublicationInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasDateOfPublicationInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0g": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Subsequent statement of responsibility in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasSubsequentStatementOfResponsibilityInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSubsequentStatementOfResponsibilityInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0f": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has First statement of responsibility in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasFirstStatementOfResponsibilityInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasFirstStatementOfResponsibilityInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0y": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has International Standard Book Number in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInternationalStandardBookNumberInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInternationalStandardBookNumberInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0x": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has ISSN in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasIssnInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasIssnInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0z": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has CODEN in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasCodenInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCodenInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0p": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Physical description in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasPhysicalDescriptionInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasPhysicalDescriptionInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0s": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Series statement in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSeriesStatementInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasSeriesStatementInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0u": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Uniform Resource Identifier in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasUniformResourceIdentifierInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasUniformResourceIdentifierInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0t": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Title in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasTitleInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasTitleInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_0v": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Volume number in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasVolumeNumberInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasVolumeNumberInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0i": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Name of section or part in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNameOfSectionOrPartInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNameOfSectionOrPartInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0h": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Number of section or part in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNumberOfSectionOrPartInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNumberOfSectionOrPartInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0o": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Other title information in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasOtherTitleInformationInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasOtherTitleInformationInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0n": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Name of publisher, distributor, etc. in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNameOfPublisherDistributorEtcInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNameOfPublisherDistributorEtcInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0m": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has International Standard Music Number in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInternationalStandardMusicNumberInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInternationalStandardMusicNumberInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0l": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Parallel title in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasParallelTitleInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasParallelTitleInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0c": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Place of publication in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasPlaceOfPublicationInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasPlaceOfPublicationInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0b": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has General material designation in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasGeneralMaterialDesignationInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasGeneralMaterialDesignationInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0a": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Author in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasAuthorInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAuthorInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0g": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Subsequent statement of responsibility in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSubsequentStatementOfResponsibilityInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasSubsequentStatementOfResponsibilityInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0f": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has First statement of responsibility in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasFirstStatementOfResponsibilityInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasFirstStatementOfResponsibilityInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0e": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Edition statement in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasEditionStatementInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasEditionStatementInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0d": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Date of publication in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasDateOfPublicationInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasDateOfPublicationInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0z": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has CODEN in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCodenInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasCodenInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0y": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has International Standard Book Number in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInternationalStandardBookNumberInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInternationalStandardBookNumberInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0x": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has ISSN in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasIssnInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasIssnInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0s": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Series statement in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSeriesStatementInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasSeriesStatementInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0p": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Physical description in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasPhysicalDescriptionInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasPhysicalDescriptionInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0v": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Volume number in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasVolumeNumberInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasVolumeNumberInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0u": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Uniform Resource Identifier in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasUniformResourceIdentifierInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasUniformResourceIdentifierInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_0t": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Title in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasTitleInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasTitleInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_01": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Linking data in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasLinkingDataInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasLinkingDataInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_00": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Bibliographic record identifier in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasBibliographicRecordIdentifierInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasBibliographicRecordIdentifierInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_03": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Authority record number in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAuthorityRecordNumberInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasAuthorityRecordNumberInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_05": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Institution to which field applies in Bound with (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInstitutionToWhichFieldAppliesInBoundWithDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInstitutionToWhichFieldAppliesInBoundWithDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_03": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Authority record number in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasAuthorityRecordNumberInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAuthorityRecordNumberInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_01": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Linking data in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasLinkingDataInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasLinkingDataInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_00": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Bibliographic record identifier in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasBibliographicRecordIdentifierInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasBibliographicRecordIdentifierInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_05": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Institution to which field applies in Other related work (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInstitutionToWhichFieldAppliesInOtherRelatedWorkDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInstitutionToWhichFieldAppliesInOtherRelatedWorkDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1z": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has CODEN in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasCodenInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCodenInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/": {
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "UNIMARC/B elements 48X"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_01": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Linking data in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasLinkingDataInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasLinkingDataInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://metadataregistry.org/uri/RegStatus/1001": {
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Published"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0d": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Date of publication in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasDateOfPublicationInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasDateOfPublicationInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0e": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Edition statement in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasEditionStatementInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasEditionStatementInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0f": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has First statement of responsibility in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasFirstStatementOfResponsibilityInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasFirstStatementOfResponsibilityInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0g": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Subsequent statement of responsibility in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSubsequentStatementOfResponsibilityInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasSubsequentStatementOfResponsibilityInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0a": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Author in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasAuthorInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAuthorInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0b": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has General material designation in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasGeneralMaterialDesignationInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasGeneralMaterialDesignationInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0c": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Place of publication in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasPlaceOfPublicationInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasPlaceOfPublicationInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0l": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Parallel title in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasParallelTitleInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasParallelTitleInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0m": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has International Standard Music Number in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInternationalStandardMusicNumberInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInternationalStandardMusicNumberInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0n": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Name of publisher, distributor, etc. in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNameOfPublisherDistributorEtcInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNameOfPublisherDistributorEtcInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0o": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Other title information in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasOtherTitleInformationInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasOtherTitleInformationInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0h": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Number of section or part in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNumberOfSectionOrPartInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNumberOfSectionOrPartInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0i": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Name of section or part in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNameOfSectionOrPartInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNameOfSectionOrPartInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0t": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Title in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasTitleInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasTitleInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0u": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Uniform Resource Identifier in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasUniformResourceIdentifierInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasUniformResourceIdentifierInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0v": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Volume number in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasVolumeNumberInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasVolumeNumberInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0p": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Physical description in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasPhysicalDescriptionInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasPhysicalDescriptionInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0s": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Series statement in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSeriesStatementInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasSeriesStatementInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_13": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Authority record number in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAuthorityRecordNumberInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasAuthorityRecordNumberInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_11": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Linking data in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasLinkingDataInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasLinkingDataInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_10": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Bibliographic record identifier in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasBibliographicRecordIdentifierInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasBibliographicRecordIdentifierInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0x": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has ISSN in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasIssnInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasIssnInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0y": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has International Standard Book Number in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInternationalStandardBookNumberInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInternationalStandardBookNumberInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_15": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Institution to which field applies in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInstitutionToWhichFieldAppliesInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInstitutionToWhichFieldAppliesInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1i": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Name of section or part in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNameOfSectionOrPartInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNameOfSectionOrPartInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1h": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Number of section or part in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNumberOfSectionOrPartInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNumberOfSectionOrPartInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1o": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Other title information in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasOtherTitleInformationInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasOtherTitleInformationInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1n": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Name of publisher, distributor, etc. in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNameOfPublisherDistributorEtcInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNameOfPublisherDistributorEtcInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1m": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has International Standard Music Number in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInternationalStandardMusicNumberInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInternationalStandardMusicNumberInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1l": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Parallel title in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasParallelTitleInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasParallelTitleInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1c": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Place of publication in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasPlaceOfPublicationInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasPlaceOfPublicationInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1b": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has General material designation in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasGeneralMaterialDesignationInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasGeneralMaterialDesignationInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1a": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Author in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasAuthorInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAuthorInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1g": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Subsequent statement of responsibility in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasSubsequentStatementOfResponsibilityInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSubsequentStatementOfResponsibilityInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1f": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has First statement of responsibility in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasFirstStatementOfResponsibilityInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasFirstStatementOfResponsibilityInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1e": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Edition statement in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasEditionStatementInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasEditionStatementInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1d": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Date of publication in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasDateOfPublicationInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasDateOfPublicationInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_05": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Institution to which field applies in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInstitutionToWhichFieldAppliesInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInstitutionToWhichFieldAppliesInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1y": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has International Standard Book Number in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInternationalStandardBookNumberInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInternationalStandardBookNumberInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1x": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has ISSN in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasIssnInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasIssnInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_00": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Bibliographic record identifier in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasBibliographicRecordIdentifierInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasBibliographicRecordIdentifierInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_0z": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has CODEN in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasCodenInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCodenInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_03": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Authority record number in Also bound in this volume (Do not make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasAuthorityRecordNumberInAlsoBoundInThisVolumeDoNotMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAuthorityRecordNumberInAlsoBoundInThisVolumeDoNotMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1s": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Series statement in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSeriesStatementInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasSeriesStatementInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1p": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Physical description in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasPhysicalDescriptionInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasPhysicalDescriptionInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1v": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Volume number in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasVolumeNumberInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasVolumeNumberInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1u": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Uniform Resource Identifier in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasUniformResourceIdentifierInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasUniformResourceIdentifierInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U481_1t": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Title in Also bound in this volume (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasTitleInAlsoBoundInThisVolumeMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasTitleInAlsoBoundInThisVolumeMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_13": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Authority record number in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasAuthorityRecordNumberInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAuthorityRecordNumberInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_10": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Bibliographic record identifier in Bound with (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasBibliographicRecordIdentifierInBoundWithMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasBibliographicRecordIdentifierInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_11": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Linking data in Bound with (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasLinkingDataInBoundWithMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasLinkingDataInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_15": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Institution to which field applies in Bound with (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInstitutionToWhichFieldAppliesInBoundWithMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInstitutionToWhichFieldAppliesInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_15": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Institution to which field applies in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInstitutionToWhichFieldAppliesInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInstitutionToWhichFieldAppliesInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_10": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Bibliographic record identifier in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasBibliographicRecordIdentifierInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasBibliographicRecordIdentifierInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_11": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Linking data in Other related work (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasLinkingDataInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasLinkingDataInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_13": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Authority record number in Other related work (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAuthorityRecordNumberInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasAuthorityRecordNumberInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1h": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Number of section or part in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNumberOfSectionOrPartInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNumberOfSectionOrPartInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1i": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Name of section or part in Bound with (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNameOfSectionOrPartInBoundWithMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNameOfSectionOrPartInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1n": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Name of publisher, distributor, etc. in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNameOfPublisherDistributorEtcInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNameOfPublisherDistributorEtcInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1o": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Other title information in Bound with (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasOtherTitleInformationInBoundWithMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasOtherTitleInformationInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1l": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Parallel title in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasParallelTitleInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasParallelTitleInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1m": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has International Standard Music Number in Bound with (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInternationalStandardMusicNumberInBoundWithMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInternationalStandardMusicNumberInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1b": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has General material designation in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasGeneralMaterialDesignationInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasGeneralMaterialDesignationInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1c": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Place of publication in Bound with (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasPlaceOfPublicationInBoundWithMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasPlaceOfPublicationInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1a": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Author in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasAuthorInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAuthorInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1f": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has First statement of responsibility in Bound with (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasFirstStatementOfResponsibilityInBoundWithMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasFirstStatementOfResponsibilityInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1g": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Subsequent statement of responsibility in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasSubsequentStatementOfResponsibilityInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSubsequentStatementOfResponsibilityInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1d": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Date of publication in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasDateOfPublicationInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasDateOfPublicationInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1e": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Edition statement in Bound with (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasEditionStatementInBoundWithMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasEditionStatementInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1z": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has CODEN in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasCodenInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCodenInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1x": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has ISSN in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasIssnInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasIssnInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1y": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has International Standard Book Number in Bound with (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInternationalStandardBookNumberInBoundWithMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInternationalStandardBookNumberInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1s": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Series statement in Bound with (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSeriesStatementInBoundWithMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasSeriesStatementInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1p": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Physical description in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasPhysicalDescriptionInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasPhysicalDescriptionInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1v": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Volume number in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasVolumeNumberInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasVolumeNumberInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1t": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Title in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasTitleInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasTitleInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U482_1u": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Uniform Resource Identifier in Bound with (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasUniformResourceIdentifierInBoundWithMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasUniformResourceIdentifierInBoundWithMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1d": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Date of publication in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasDateOfPublicationInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasDateOfPublicationInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1e": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Edition statement in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasEditionStatementInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasEditionStatementInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1f": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has First statement of responsibility in Other related work (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasFirstStatementOfResponsibilityInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasFirstStatementOfResponsibilityInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1g": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Subsequent statement of responsibility in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasSubsequentStatementOfResponsibilityInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSubsequentStatementOfResponsibilityInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1a": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Author in Other related work (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAuthorInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasAuthorInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1b": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has General material designation in Other related work (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasGeneralMaterialDesignationInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasGeneralMaterialDesignationInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1c": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Place of publication in Other related work (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasPlaceOfPublicationInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasPlaceOfPublicationInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1l": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Parallel title in Other related work (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasParallelTitleInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasParallelTitleInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1m": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has International Standard Music Number in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInternationalStandardMusicNumberInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInternationalStandardMusicNumberInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1n": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Name of publisher, distributor, etc. in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNameOfPublisherDistributorEtcInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNameOfPublisherDistributorEtcInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1o": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Other title information in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasOtherTitleInformationInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasOtherTitleInformationInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1h": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Number of section or part in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNumberOfSectionOrPartInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNumberOfSectionOrPartInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1i": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Name of section or part in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasNameOfSectionOrPartInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasNameOfSectionOrPartInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1t": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Title in Other related work (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasTitleInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasTitleInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1u": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Uniform Resource Identifier in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasUniformResourceIdentifierInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasUniformResourceIdentifierInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1v": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Volume number in Other related work (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasVolumeNumberInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasVolumeNumberInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1p": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Physical description in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasPhysicalDescriptionInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasPhysicalDescriptionInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1s": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Series statement in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasSeriesStatementInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSeriesStatementInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1x": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has ISSN in Other related work (Make a note)"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasIssnInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasIssnInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1y": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has International Standard Book Number in Other related work (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasInternationalStandardBookNumberInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasInternationalStandardBookNumberInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/U488_1z": {
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has CODEN in Other related work (Make a note)"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCodenInOtherRelatedWorkMakeANote"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/48X/hasCodenInOtherRelatedWorkMakeANote.en"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ]
+  }
+}

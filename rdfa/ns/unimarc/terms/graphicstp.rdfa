@@ -1,0 +1,220 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  prefix="
+    rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    skos: http://www.w3.org/2004/02/skos/core#
+    reg: http://metadataregistry.org/uri/profile/regap/
+    dc: http://purl.org/dc/elements/1.1/
+    rdfs: http://www.w3.org/2000/01/rdf-schema#"
+  >
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#ba">
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7727"></div>
+    <div rel="reg:status">
+      <div typeof="skos:Concept" about="http://metadataregistry.org/uri/RegStatus/1001">
+        <div property="skos:prefLabel" xml:lang="en" content="Published"></div>
+      </div>
+    </div>
+    <div rel="skos:inScheme">
+      <div typeof="skos:ConceptScheme" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#">
+        <div property="dc:title" content="UNIMARC: Graphics: Technique (prints) "></div>
+      </div>
+    </div>
+    <div property="skos:notation" xml:lang="en" content="ba"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="woodcut"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#zz">
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7755"></div>
+    <div property="skos:notation" xml:lang="en" content="zz"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="other"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#ce">
+    <div property="skos:prefLabel" xml:lang="en" content="drypoint"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7745"></div>
+    <div property="skos:notation" xml:lang="en" content="ce"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#cb">
+    <div property="skos:prefLabel" xml:lang="en" content="engraving"></div>
+    <div property="skos:notation" xml:lang="en" content="cb"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7742"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#bi">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="lithography"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7735"></div>
+    <div property="skos:notation" xml:lang="en" content="bi"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#bl">
+    <div property="skos:notation" xml:lang="en" content="bl"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7738"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="algraphy"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#cf">
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="mezzotinta (mezzotint)"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7746"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:notation" xml:lang="en" content="cf"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#cd">
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="burin engraving"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:notation" xml:lang="en" content="cd"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7744"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#vv">
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7753"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:notation" xml:lang="en" content="vv"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="mixed"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#cj">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:notation" xml:lang="en" content="cj"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7750"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="computer graphics"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#cc">
+    <div property="skos:notation" xml:lang="en" content="cc"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="engraving in the crayon manner"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7743"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#bg">
+    <div property="skos:notation" xml:lang="en" content="bg"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7733"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="lino-cut"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#bj">
+    <div property="skos:prefLabel" xml:lang="en" content="photolithography"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7736"></div>
+    <div property="skos:notation" xml:lang="en" content="bj"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#bd">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:notation" xml:lang="en" content="bd"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7730"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="camaiu"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#xx">
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="not applicable"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7754"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:notation" xml:lang="en" content="xx"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#ci">
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7749"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:notation" xml:lang="en" content="ci"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="steel engraving"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#bm">
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7739"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:notation" xml:lang="en" content="bm"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="aquatint"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#uu">
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="unknown"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7752"></div>
+    <div property="skos:notation" xml:lang="en" content="uu"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#ck">
+    <div property="skos:prefLabel" xml:lang="en" content="photocopying"></div>
+    <div property="skos:notation" xml:lang="en" content="ck"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7751"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#be">
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7731"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="heliogravure"></div>
+    <div property="skos:notation" xml:lang="en" content="be"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#bc">
+    <div property="skos:prefLabel" xml:lang="en" content="white-line woodcut"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7729"></div>
+    <div property="skos:notation" xml:lang="en" content="bc"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#bn">
+    <div property="skos:prefLabel" xml:lang="en" content="reservage (sugar aquatint)"></div>
+    <div property="skos:notation" xml:lang="en" content="bn"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7740"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#bf">
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:notation" xml:lang="en" content="bf"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="chromolithography"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7732"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#bh">
+    <div property="skos:prefLabel" xml:lang="en" content="etching"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:notation" xml:lang="en" content="bh"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7734"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#bb">
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7728"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:notation" xml:lang="en" content="bb"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="chiaroscuro woodcut"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#ch">
+    <div property="skos:notation" xml:lang="en" content="ch"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="silkscreen"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7748"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#bk">
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:notation" xml:lang="en" content="bk"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="zincography"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7737"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#ca">
+    <div property="skos:notation" xml:lang="en" content="ca"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7741"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="vernis-mou (soft ground etching or tracing)"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/graphicstp#cg">
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/7747"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/graphicstp#"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="monotype"></div>
+    <div property="skos:notation" xml:lang="en" content="cg"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+</div>

@@ -1,0 +1,1673 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  prefix="
+    rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    skos: http://www.w3.org/2004/02/skos/core#
+    reg: http://metadataregistry.org/uri/profile/regap/
+    dc: http://purl.org/dc/elements/1.1/
+    rdfs: http://www.w3.org/2000/01/rdf-schema#"
+  >
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U020__z">
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberInNationalBibliographyNumber"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number in National bibliography number"></div>
+    <div property="skos:definition" xml:lang="en" content="A number erroneously assigned."></div>
+    <div rel="reg:status">
+      <div typeof="skos:Concept" about="http://metadataregistry.org/uri/RegStatus/1001">
+        <div property="skos:prefLabel" xml:lang="en" content="Published"></div>
+      </div>
+    </div>
+    <div rel="rdfs:isDefinedBy">
+      <div typeof="rdfs:Resource" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/">
+        <div property="dc:title" xml:lang="en" content="UNIMARC/B elements 0XX"></div>
+      </div>
+    </div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberInNationalBibliographyNumber.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U020__b">
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberInNationalBibliographyNumber"></div>
+    <div property="rdfs:label" xml:lang="en" content="Number in National bibliography number"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasNumberInNationalBibliographyNumber.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U011__a">
+    <div property="rdfs:label" xml:lang="en" content="Number (ISSN) in ISSN (Level not specified / not applicable)"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberIssnInIssnLevelNotSpecifiedNotApplicable"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes the hyphen between the fourth and fifth digits."></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly applied ISSN."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasNumberIssnInIssnLevelNotSpecifiedNotApplicable.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0111_z">
+    <div property="rdfs:label" xml:lang="en" content="Erroneous ISSN or ISSN-l in ISSN (Continuing resource of local interest)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="Any incorrect ISSN or ISSN-L."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousIssnOrIssnLInIssnContinuingResourceOfLocalInterest.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousIssnOrIssnLInIssnContinuingResourceOfLocalInterest"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_2b">
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the number or code, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of a number or code to a set or to a particular volume."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in International article number (EAN) (Difference)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInInternationalArticleNumberEanDifference.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInInternationalArticleNumberEanDifference"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07150a">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberOtherTypeOfPublishersNumberDoNotMakeANote"></div>
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Other type of publisher's number) (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberOtherTypeOfPublishersNumberDoNotMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07121b">
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberPrintedMusicPlateNumberMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberPrintedMusicPlateNumberMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Printed music: plate number) (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__f">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Movement caption/heading in Music incipit"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasMovementCaptionHeadingInMusicIncipit.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasMovementCaptionHeadingInMusicIncipit"></div>
+    <div property="skos:definition" xml:lang="en" content="Caption or heading of the movement, as it appears on the source."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07151z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberOtherTypeOfPublishersNumberMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Other type of publisher's number) (Make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberOtherTypeOfPublishersNumberMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07131z">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberPrintedMusicOtherPublishersNumberMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberPrintedMusicOtherPublishersNumberMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Printed music: other publisher's number) (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0110_y">
+    <div property="rdfs:label" xml:lang="en" content="Cancelled ISSN in ISSN (Continuing resource of international or national interest)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="Any ISSN that was formerly valid but which has been cancelled by an ISSN centre."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCancelledIssnInIssnContinuingResourceOfInternationalOrNationalInterest.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasCancelledIssnInIssnContinuingResourceOfInternationalOrNationalInterest"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__p">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasMusicalNotationInMusicIncipit.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Musical notation in Music incipit"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasMusicalNotationInMusicIncipit"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01770a">
+    <div property="skos:definition" xml:lang="en" content="A correctly formatted standard number or code."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasStandardNumberInOtherStandardIdentifierSourceSpecifiedInSubfield$2NoInformationProvided"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasStandardNumberInOtherStandardIdentifierSourceSpecifiedInSubfield$2NoInformationProvided.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Standard number in Other standard identifier (Source specified in subfield $2) (No information provided)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0111_a">
+    <div property="rdfs:label" xml:lang="en" content="Number (ISSN) in ISSN (Continuing resource of local interest)"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberIssnInIssnContinuingResourceOfLocalInterest"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes the hyphen between the fourth and fifth digits."></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly applied ISSN."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasNumberIssnInIssnContinuingResourceOfLocalInterest.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_1c">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Additional codes following standard number or codes in Universal product code (UPC) (No difference)"></div>
+    <div property="skos:definition" xml:lang="en" content="Any coded suffix to the identifier."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasAdditionalCodesFollowingStandardNumberOrCodesInUniversalProductCodeUpcNoDifference.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasAdditionalCodesFollowingStandardNumberOrCodesInUniversalProductCodeUpcNoDifference"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U033__a">
+    <div property="rdfs:label" xml:lang="en" content="Persistent record identifier in Other system persistent record identifier"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPersistentRecordIdentifierInOtherSystemPersistentRecordIdentifier.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasPersistentRecordIdentifierInOtherSystemPersistentRecordIdentifier"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_0d">
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInInternationalArticleNumberEanNoInformationProvided.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInInternationalArticleNumberEanNoInformationProvided"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in International article number (EAN) (No information provided)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07141b">
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberVideoRecordingNumberMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Video recording number) (Make a note)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberVideoRecordingNumberMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U020__a">
+    <div property="skos:definition" xml:lang="en" content="An identification of the country of the national bibliography."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCountryCodeInNationalBibliographyNumber.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Country code in National bibliography number"></div>
+    <div property="reg:name" xml:lang="en" content="hasCountryCodeInNationalBibliographyNumber"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07150d">
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberOtherTypeOfPublishersNumberDoNotMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberOtherTypeOfPublishersNumberDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Other type of publisher's number) (Do not make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U016__a">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasNumberIsrcInInternationalStandardRecordingCodeIsrc.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Number (ISRC) in International Standard Recording Code (ISRC)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly applied ISRC."></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberIsrcInInternationalStandardRecordingCodeIsrc"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes hyphens."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U016__z">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous ISRC in International Standard Recording Code (ISRC)"></div>
+    <div property="skos:definition" xml:lang="en" content="An ISRC that has been identified as being erroneously applied to a recording or is otherwise invalid."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousIsrcInInternationalStandardRecordingCodeIsrc"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousIsrcInInternationalStandardRecordingCodeIsrc.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01771a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly formatted standard number or code."></div>
+    <div property="reg:name" xml:lang="en" content="hasStandardNumberInOtherStandardIdentifierSourceSpecifiedInSubfield$2NoDifference"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Standard number in Other standard identifier (Source specified in subfield $2) (No difference)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasStandardNumberInOtherStandardIdentifierSourceSpecifiedInSubfield$2NoDifference.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07131d">
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberPrintedMusicOtherPublishersNumberMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Printed music: other publisher's number) (Make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberPrintedMusicOtherPublishersNumberMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07161a">
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Electronic resource number) (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberElectronicResourceNumberMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberElectronicResourceNumberMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U010__d">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInInternationalStandardBookNumber"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in International Standard Book Number"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInInternationalStandardBookNumber.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07100d">
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberSoundRecordingIssueNumberDoNotMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberSoundRecordingIssueNumberDoNotMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Sound recording: issue number) (Do not make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U022__a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="An identification of the country in which the item is published."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Country code in Government publication number"></div>
+    <div property="reg:name" xml:lang="en" content="hasCountryCodeInGovernmentPublicationNumber"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCountryCodeInGovernmentPublicationNumber.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01772d">
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Other standard identifier (Source specified in subfield $4) (Difference)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInOtherStandardIdentifierSourceSpecifiedInSubfield$4Difference"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInOtherStandardIdentifierSourceSpecifiedInSubfield$4Difference.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07161d">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberElectronicResourceNumberMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Electronic resource number) (Make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberElectronicResourceNumberMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07100c">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberSoundRecordingIssueNumberDoNotMakeANote"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Sound recording: issue number) (Do not make a note)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberSoundRecordingIssueNumberDoNotMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01782z">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberOrCodeInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberDifference.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A number or code that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberOrCodeInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberDifference"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number or code in Other standard identifier (Unspecified type of standard number) (Difference)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0110_a">
+    <div property="rdfs:label" xml:lang="en" content="Number (ISSN) in ISSN (Continuing resource of international or national interest)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasNumberIssnInIssnContinuingResourceOfInternationalOrNationalInterest.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes the hyphen between the fourth and fifth digits."></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly applied ISSN."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberIssnInIssnContinuingResourceOfInternationalOrNationalInterest"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07121c">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberPrintedMusicPlateNumberMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberPrintedMusicPlateNumberMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Printed music: plate number) (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07111b">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberSoundRecordingMatrixNumberMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberSoundRecordingMatrixNumberMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Sound recording: matrix number) (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07111a">
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Sound recording: matrix number) (Make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberSoundRecordingMatrixNumberMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberSoundRecordingMatrixNumberMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_0z">
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number or code in Universal product code (UPC) (No information provided)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberOrCodeInUniversalProductCodeUpcNoInformationProvided"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberOrCodeInUniversalProductCodeUpcNoInformationProvided.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A number or code that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07140a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Video recording number) (Do not make a note)"></div>
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberVideoRecordingNumberDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberVideoRecordingNumberDoNotMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07131c">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberPrintedMusicOtherPublishersNumberMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberPrintedMusicOtherPublishersNumberMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Printed music: other publisher's number) (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0110_b">
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between ISSNs."></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in ISSN (Continuing resource of international or national interest)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInIssnContinuingResourceOfInternationalOrNationalInterest.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInIssnContinuingResourceOfInternationalOrNationalInterest"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07100z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberSoundRecordingIssueNumberDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Sound recording: issue number) (Do not make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberSoundRecordingIssueNumberDoNotMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01782d">
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberDifference.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Other standard identifier (Unspecified type of standard number) (Difference)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberDifference"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U040__a">
+    <div property="rdfs:label" xml:lang="en" content="CODEN in CODEN (serials)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCodenInCodenSerials.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasCodenInCodenSerials"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The six character code of which the last character is an alphanumeric digit."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_1z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberOrCodeInInternationalArticleNumberEanNoDifference"></div>
+    <div property="skos:definition" xml:lang="en" content="A number or code that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number or code in International article number (EAN) (No difference)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberOrCodeInInternationalArticleNumberEanNoDifference.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__u">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasUniformResourceIdentifierInMusicIncipit"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes a URL or URN."></div>
+    <div property="skos:definition" xml:lang="en" content="The Uniform Resource Identifier (URI) which provides electronic access data to an incipit in digital format."></div>
+    <div property="rdfs:label" xml:lang="en" content="Uniform Resource Identifier in Music incipit"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasUniformResourceIdentifierInMusicIncipit.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U022__z">
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberInGovernmentPublicationNumber"></div>
+    <div property="skos:definition" xml:lang="en" content="A number erroneously assigned to a government publication."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number in Government publication number"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberInGovernmentPublicationNumber.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07121d">
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberPrintedMusicPlateNumberMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberPrintedMusicPlateNumberMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Printed music: plate number) (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01780a">
+    <div property="rdfs:label" xml:lang="en" content="Standard number in Other standard identifier (Unspecified type of standard number) (No information provided)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasStandardNumberInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoInformationProvided"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasStandardNumberInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoInformationProvided.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly formatted standard number or code."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07151a">
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberOtherTypeOfPublishersNumberMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Other type of publisher's number) (Make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberOtherTypeOfPublishersNumberMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U014__z">
+    <div property="rdfs:label" xml:lang="en" content="Erroneous article identifier in Article identifier"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousArticleIdentifierInArticleIdentifier.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousArticleIdentifierInArticleIdentifier"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__z">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasLanguageOfTextInMusicIncipit"></div>
+    <div property="skos:definition" xml:lang="en" content="Coded identification of the language of the incipit."></div>
+    <div property="rdfs:label" xml:lang="en" content="Language of text in Music incipit"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasLanguageOfTextInMusicIncipit.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07100b">
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberSoundRecordingIssueNumberDoNotMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Sound recording: issue number) (Do not make a note)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberSoundRecordingIssueNumberDoNotMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07101d">
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Sound recording: issue number) (Make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberSoundRecordingIssueNumberMakeANote"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberSoundRecordingIssueNumberMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07151c">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberOtherTypeOfPublishersNumberMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberOtherTypeOfPublishersNumberMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Other type of publisher's number) (Make a note)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07140b">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberVideoRecordingNumberDoNotMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberVideoRecordingNumberDoNotMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Video recording number) (Do not make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U013__a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberIsmnInInternationalStandardMusicNumberIsmn"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasNumberIsmnInInternationalStandardMusicNumberIsmn.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Number (ISMN) in International Standard Music Number (ISMN)"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes hyphens."></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly applied ISMN."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07150z">
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Other type of publisher's number) (Do not make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberOtherTypeOfPublishersNumberDoNotMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberOtherTypeOfPublishersNumberDoNotMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__2">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="A code that specifies the system used to code the musical notation."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="System code for musical notation in Music incipit"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSystemCodeForMusicalNotationInMusicIncipit.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeForMusicalNotationInMusicIncipit"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07141z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Video recording number) (Make a note)"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberVideoRecordingNumberMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberVideoRecordingNumberMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0110_g">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="An ISSN-L incorrectly designated to a continuing resource."></div>
+    <div property="reg:name" xml:lang="en" content="hasCancelledIssnLInIssnContinuingResourceOfInternationalOrNationalInterest"></div>
+    <div property="rdfs:label" xml:lang="en" content="Cancelled ISSN-l in ISSN (Continuing resource of international or national interest)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCancelledIssnLInIssnContinuingResourceOfInternationalOrNationalInterest.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07131a">
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Printed music: other publisher's number) (Make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberPrintedMusicOtherPublishersNumberMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberPrintedMusicOtherPublishersNumberMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U016__d">
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price [obsolete] in International Standard Recording Code (ISRC)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceObsoleteInInternationalStandardRecordingCodeIsrc.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceObsoleteInInternationalStandardRecordingCodeIsrc"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="The ISRC does not identify a manifestation."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U035__a">
+    <div property="skos:definition" xml:lang="en" content="The organisation in parentheses followed by the system control number for the record in that organisation’s database."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSystemControlNumberInOtherSystemControlNumbers.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="System control number in Other system control numbers"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemControlNumberInOtherSystemControlNumbers"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07130d">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Printed music: other publisher's number) (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberPrintedMusicOtherPublishersNumberDoNotMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberPrintedMusicOtherPublishersNumberDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U010__6">
+    <div property="skos:definition" xml:lang="en" content="Information allowing the field to be linked for processing purposes to other fields in the record, and a code indicating the reason for the link."></div>
+    <div property="reg:name" xml:lang="en" content="hasInterfieldLinkingDataInInternationalStandardBookNumber"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Interfield linking data in International Standard Book Number"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U015__b">
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the ISRN, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of an ISRN to a set or to a particular volume."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInInternationalStandardTechnicalReportNumberIsrn.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in International Standard Technical Report Number (ISRN)"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInInternationalStandardTechnicalReportNumberIsrn"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0110_z">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousIssnOrIssnLInIssnContinuingResourceOfInternationalOrNationalInterest.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousIssnOrIssnLInIssnContinuingResourceOfInternationalOrNationalInterest"></div>
+    <div property="skos:definition" xml:lang="en" content="Any incorrect ISSN or ISSN-L."></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous ISSN or ISSN-l in ISSN (Continuing resource of international or national interest)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_1c">
+    <div property="rdfs:label" xml:lang="en" content="Additional codes following standard number or codes in International article number (EAN) (No difference)"></div>
+    <div property="reg:name" xml:lang="en" content="hasAdditionalCodesFollowingStandardNumberOrCodesInInternationalArticleNumberEanNoDifference"></div>
+    <div property="skos:definition" xml:lang="en" content="Any coded suffix to the identifier."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasAdditionalCodesFollowingStandardNumberOrCodesInInternationalArticleNumberEanNoDifference.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_2d">
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Universal product code (UPC) (Difference)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInUniversalProductCodeUpcDifference.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInUniversalProductCodeUpcDifference"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U012__a">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasFingerprintInFingerprintIdentifier.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Calculated Fingerprint Identifier."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Fingerprint in Fingerprint identifier"></div>
+    <div property="reg:name" xml:lang="en" content="hasFingerprintInFingerprintIdentifier"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_2z">
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number or code in International article number (EAN) (Difference)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberOrCodeInInternationalArticleNumberEanDifference.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberOrCodeInInternationalArticleNumberEanDifference"></div>
+    <div property="skos:definition" xml:lang="en" content="A number or code that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07111z">
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Sound recording: matrix number) (Make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberSoundRecordingMatrixNumberMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberSoundRecordingMatrixNumberMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_2a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly formatted standard number or code."></div>
+    <div property="rdfs:label" xml:lang="en" content="Standard number in International article number (EAN) (Difference)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasStandardNumberInInternationalArticleNumberEanDifference.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasStandardNumberInInternationalArticleNumberEanDifference"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_2c">
+    <div property="skos:definition" xml:lang="en" content="Any coded suffix to the identifier."></div>
+    <div property="rdfs:label" xml:lang="en" content="Additional codes following standard number or codes in International article number (EAN) (Difference)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasAdditionalCodesFollowingStandardNumberOrCodesInInternationalArticleNumberEanDifference"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasAdditionalCodesFollowingStandardNumberOrCodesInInternationalArticleNumberEanDifference.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07101a">
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberSoundRecordingIssueNumberMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberSoundRecordingIssueNumberMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Sound recording: issue number) (Make a note)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0111_g">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCancelledIssnLInIssnContinuingResourceOfLocalInterest.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasCancelledIssnLInIssnContinuingResourceOfLocalInterest"></div>
+    <div property="rdfs:label" xml:lang="en" content="Cancelled ISSN-l in ISSN (Continuing resource of local interest)"></div>
+    <div property="skos:definition" xml:lang="en" content="An ISSN-L incorrectly designated to a continuing resource."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07140d">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Video recording number) (Do not make a note)"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberVideoRecordingNumberDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberVideoRecordingNumberDoNotMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07161z">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberElectronicResourceNumberMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Electronic resource number) (Make a note)"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberElectronicResourceNumberMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__r">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A code indicating a comment note."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCodifiedNoteInMusicIncipit.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Codified note in Music incipit"></div>
+    <div property="reg:name" xml:lang="en" content="hasCodifiedNoteInMusicIncipit"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07101c">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberSoundRecordingIssueNumberMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberSoundRecordingIssueNumberMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Sound recording: issue number) (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U010__b">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInInternationalStandardBookNumber"></div>
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the ISBN, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of an ISBN to a set or to a particular volume."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInInternationalStandardBookNumber.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in International Standard Book Number"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__d">
+    <div property="reg:name" xml:lang="en" content="hasVoiceInstrumentInMusicIncipit"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasVoiceInstrumentInMusicIncipit.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Voice/instrument in Music incipit"></div>
+    <div property="skos:definition" xml:lang="en" content="The voice or instrument."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0110_f">
+    <div property="rdfs:label" xml:lang="en" content="ISSN-l or linking ISSN in ISSN (Continuing resource of international or national interest)"></div>
+    <div property="reg:name" xml:lang="en" content="hasIssnLOrLinkingIssnInIssnContinuingResourceOfInternationalOrNationalInterest"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasIssnLOrLinkingIssnInIssnContinuingResourceOfInternationalOrNationalInterest.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="An ISSN designated by the ISSN network to link together various medium versions of a continuing resource."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07110b">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberSoundRecordingMatrixNumberDoNotMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberSoundRecordingMatrixNumberDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Sound recording: matrix number) (Do not make a note)"></div>
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U011__d">
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in ISSN (Level not specified / not applicable)"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInIssnLevelNotSpecifiedNotApplicable"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInIssnLevelNotSpecifiedNotApplicable.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_1a">
+    <div property="skos:definition" xml:lang="en" content="A correctly formatted standard number or code."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasStandardNumberInInternationalArticleNumberEanNoDifference"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasStandardNumberInInternationalArticleNumberEanNoDifference.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Standard number in International article number (EAN) (No difference)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07120z">
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Printed music: plate number) (Do not make a note)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberPrintedMusicPlateNumberDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberPrintedMusicPlateNumberDoNotMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07101z">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberSoundRecordingIssueNumberMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Sound recording: issue number) (Make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberSoundRecordingIssueNumberMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07130b">
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberPrintedMusicOtherPublishersNumberDoNotMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberPrintedMusicOtherPublishersNumberDoNotMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Printed music: other publisher's number) (Do not make a note)"></div>
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01771d">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInOtherStandardIdentifierSourceSpecifiedInSubfield$4NoDifference"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInOtherStandardIdentifierSourceSpecifiedInSubfield$4NoDifference.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Other standard identifier (Source specified in subfield $4) (No difference)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07160z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberElectronicResourceNumberDoNotMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Electronic resource number) (Do not make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberElectronicResourceNumberDoNotMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__o">
+    <div property="rdfs:label" xml:lang="en" content="Time signature in Music incipit"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasTimeSignatureInMusicIncipit"></div>
+    <div property="skos:definition" xml:lang="en" content="The time value or mensuration sign reported on the staff."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTimeSignatureInMusicIncipit.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U011__b">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInIssnLevelNotSpecifiedNotApplicable.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between ISSNs."></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in ISSN (Level not specified / not applicable)"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInIssnLevelNotSpecifiedNotApplicable"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__a">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Number of work in Music incipit"></div>
+    <div property="skos:definition" xml:lang="en" content="A code indicating the work to which the incipit refers, if a set of compositions (e.g. six sonatas) is entirely described in a single record, without the use of piece-analytic level records."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasNumberOfWorkInMusicIncipit.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberOfWorkInMusicIncipit"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0111_f">
+    <div property="skos:definition" xml:lang="en" content="An ISSN designated by the ISSN network to link together various medium versions of a continuing resource."></div>
+    <div property="reg:name" xml:lang="en" content="hasIssnLOrLinkingIssnInIssnContinuingResourceOfLocalInterest"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="ISSN-l or linking ISSN in ISSN (Continuing resource of local interest)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasIssnLOrLinkingIssnInIssnContinuingResourceOfLocalInterest.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07131b">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberPrintedMusicOtherPublishersNumberMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberPrintedMusicOtherPublishersNumberMakeANote"></div>
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Printed music: other publisher's number) (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01771z">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberOrCodeInOtherStandardIdentifierSourceSpecifiedInSubfield$5NoDifference"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number or code in Other standard identifier (Source specified in subfield $5) (No difference)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberOrCodeInOtherStandardIdentifierSourceSpecifiedInSubfield$5NoDifference.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A number or code that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07151d">
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberOtherTypeOfPublishersNumberMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberOtherTypeOfPublishersNumberMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Other type of publisher's number) (Make a note)"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07130a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberPrintedMusicOtherPublishersNumberDoNotMakeANote"></div>
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Printed music: other publisher's number) (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberPrintedMusicOtherPublishersNumberDoNotMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07130c">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberPrintedMusicOtherPublishersNumberDoNotMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberPrintedMusicOtherPublishersNumberDoNotMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Printed music: other publisher's number) (Do not make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_1b">
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the number or code, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of a number or code to a set or to a particular volume."></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in International article number (EAN) (No difference)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInInternationalArticleNumberEanNoDifference.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInInternationalArticleNumberEanNoDifference"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__g">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasKeyOrModeInMusicIncipit.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The key or mode of the movement."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Key or mode in Music incipit"></div>
+    <div property="reg:name" xml:lang="en" content="hasKeyOrModeInMusicIncipit"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01782a">
+    <div property="rdfs:label" xml:lang="en" content="Standard number in Other standard identifier (Unspecified type of standard number) (Difference)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasStandardNumberInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberDifference.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasStandardNumberInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberDifference"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly formatted standard number or code."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U015__d">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInInternationalStandardTechnicalReportNumberIsrn"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in International Standard Technical Report Number (ISRN)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInInternationalStandardTechnicalReportNumberIsrn.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07141c">
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Video recording number) (Make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberVideoRecordingNumberMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberVideoRecordingNumberMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_2z">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A number or code that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number or code in Universal product code (UPC) (Difference)"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberOrCodeInUniversalProductCodeUpcDifference"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberOrCodeInUniversalProductCodeUpcDifference.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_0b">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInInternationalArticleNumberEanNoInformationProvided"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInInternationalArticleNumberEanNoInformationProvided.en"></div>
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the number or code, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of a number or code to a set or to a particular volume."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in International article number (EAN) (No information provided)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U035__z">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCancelledOrInvalidControlNumberInOtherSystemControlNumbers.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasCancelledOrInvalidControlNumberInOtherSystemControlNumbers"></div>
+    <div property="rdfs:label" xml:lang="en" content="Cancelled or invalid control number in Other system control numbers"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01771b">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the number or code, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of a number or code to a set or to a particular volume."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInOtherStandardIdentifierSourceSpecifiedInSubfield$3NoDifference.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInOtherStandardIdentifierSourceSpecifiedInSubfield$3NoDifference"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Other standard identifier (Source specified in subfield $3) (No difference)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07160b">
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Electronic resource number) (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberElectronicResourceNumberDoNotMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberElectronicResourceNumberDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__m">
+    <div property="reg:name" xml:lang="en" content="hasClefInMusicIncipit"></div>
+    <div property="rdfs:label" xml:lang="en" content="Clef in Music incipit"></div>
+    <div property="skos:definition" xml:lang="en" content="A code indicating the clef."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasClefInMusicIncipit.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_1d">
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Universal product code (UPC) (No difference)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInUniversalProductCodeUpcNoDifference"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInUniversalProductCodeUpcNoDifference.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U013__6">
+    <div property="reg:name" xml:lang="en" content="hasInterfieldLinkingDataInInternationalStandardMusicNumberIsmn"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Interfield linking data in International Standard Music Number (ISMN)"></div>
+    <div property="skos:definition" xml:lang="en" content="Information allowing the field to be linked for processing purposes to other fields in the record, and a code indicating the reason for the link."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasInterfieldLinkingDataInInternationalStandardMusicNumberIsmn.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__b">
+    <div property="rdfs:label" xml:lang="en" content="Number of movement in Music incipit"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberOfMovementInMusicIncipit"></div>
+    <div property="skos:definition" xml:lang="en" content="A code indicating the movement within a work to which the incipit refers."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasNumberOfMovementInMusicIncipit.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U015__a">
+    <div property="skos:definition" xml:lang="en" content="A correctly applied ISRN."></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberIsrnInInternationalStandardTechnicalReportNumberIsrn"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes hyphens."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasInterfieldLinkingDataInInternationalStandardBookNumber.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Number (ISRN) in International Standard Technical Report Number (ISRN)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07121z">
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberPrintedMusicPlateNumberMakeANote"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Printed music: plate number) (Make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberPrintedMusicPlateNumberMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U013__z">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousIsmnInInternationalStandardMusicNumberIsmn.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous ISMN in International Standard Music Number (ISMN)"></div>
+    <div property="skos:definition" xml:lang="en" content="An ISMN that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousIsmnInInternationalStandardMusicNumberIsmn"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_2c">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasAdditionalCodesFollowingStandardNumberOrCodesInUniversalProductCodeUpcDifference.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasAdditionalCodesFollowingStandardNumberOrCodesInUniversalProductCodeUpcDifference"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Additional codes following standard number or codes in Universal product code (UPC) (Difference)"></div>
+    <div property="skos:definition" xml:lang="en" content="Any coded suffix to the identifier."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07100a">
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Sound recording: issue number) (Do not make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberSoundRecordingIssueNumberDoNotMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberSoundRecordingIssueNumberDoNotMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07120d">
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberPrintedMusicPlateNumberDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Printed music: plate number) (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberPrintedMusicPlateNumberDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U017802">
+    <div property="reg:name" xml:lang="en" content="hasSourceOfCodeInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoInformationProvided"></div>
+    <div property="skos:definition" xml:lang="en" content="Type of code."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceOfCodeInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoInformationProvided.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Source of code in Other standard identifier (Unspecified type of standard number) (No information provided)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01781a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Standard number in Other standard identifier (Unspecified type of standard number) (No difference)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasStandardNumberInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoDifference.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasStandardNumberInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoDifference"></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly formatted standard number or code."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_0d">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInUniversalProductCodeUpcNoInformationProvided.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Universal product code (UPC) (No information provided)"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInUniversalProductCodeUpcNoInformationProvided"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_0a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasStandardNumberInUniversalProductCodeUpcNoInformationProvided"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasStandardNumberInUniversalProductCodeUpcNoInformationProvided.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Standard number in Universal product code (UPC) (No information provided)"></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly formatted standard number or code."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0111_b">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInIssnContinuingResourceOfLocalInterest"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in ISSN (Continuing resource of local interest)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInIssnContinuingResourceOfLocalInterest.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between ISSNs."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_1b">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInUniversalProductCodeUpcNoDifference"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInUniversalProductCodeUpcNoDifference.en"></div>
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the number or code, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of a number or code to a set or to a particular volume."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Universal product code (UPC) (No difference)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_0c">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasAdditionalCodesFollowingStandardNumberOrCodesInUniversalProductCodeUpcNoInformationProvided.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasAdditionalCodesFollowingStandardNumberOrCodesInUniversalProductCodeUpcNoInformationProvided"></div>
+    <div property="rdfs:label" xml:lang="en" content="Additional codes following standard number or codes in Universal product code (UPC) (No information provided)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="Any coded suffix to the identifier."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0111_y">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Cancelled ISSN in ISSN (Continuing resource of local interest)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCancelledIssnInIssnContinuingResourceOfLocalInterest.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Any ISSN that was formerly valid but which has been cancelled by an ISSN centre."></div>
+    <div property="reg:name" xml:lang="en" content="hasCancelledIssnInIssnContinuingResourceOfLocalInterest"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__q">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Comments (free text) in Music incipit"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="Free-text note."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCommentsFreeTextInMusicIncipit.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasCommentsFreeTextInMusicIncipit"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U010__z">
+    <div property="skos:definition" xml:lang="en" content="An ISBN that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousIsbnInInternationalStandardBookNumber.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousIsbnInInternationalStandardBookNumber"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous ISBN in International Standard Book Number"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U012__2">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasFingerprintSystemCodeInFingerprintIdentifier.en"></div>
+    <div property="skos:definition" xml:lang="en" content="An identification of the system from which fingerprint identifier is derived."></div>
+    <div property="reg:name" xml:lang="en" content="hasFingerprintSystemCodeInFingerprintIdentifier"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Fingerprint system code in Fingerprint identifier"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U011__f">
+    <div property="reg:name" xml:lang="en" content="hasIssnLOrLinkingIssnInIssnLevelNotSpecifiedNotApplicable"></div>
+    <div property="rdfs:label" xml:lang="en" content="ISSN-l or linking ISSN in ISSN (Level not specified / not applicable)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="An ISSN designated by the ISSN network to link together various medium versions of a continuing resource."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasIssnLOrLinkingIssnInIssnLevelNotSpecifiedNotApplicable.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07160d">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberElectronicResourceNumberDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Electronic resource number) (Do not make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberElectronicResourceNumberDoNotMakeANote"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01781b">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoDifference"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Other standard identifier (Unspecified type of standard number) (No difference)"></div>
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the number or code, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of a number or code to a set or to a particular volume."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoDifference.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_1d">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInInternationalArticleNumberEanNoDifference.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in International article number (EAN) (No difference)"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInInternationalArticleNumberEanNoDifference"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07161b">
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Electronic resource number) (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberElectronicResourceNumberMakeANote"></div>
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberElectronicResourceNumberMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_1a">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasStandardNumberInUniversalProductCodeUpcNoDifference.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly formatted standard number or code."></div>
+    <div property="rdfs:label" xml:lang="en" content="Standard number in Universal product code (UPC) (No difference)"></div>
+    <div property="reg:name" xml:lang="en" content="hasStandardNumberInUniversalProductCodeUpcNoDifference"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07120c">
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Printed music: plate number) (Do not make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberPrintedMusicPlateNumberDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberPrintedMusicPlateNumberDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_0z">
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number or code in International article number (EAN) (No information provided)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberOrCodeInInternationalArticleNumberEanNoInformationProvided"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberOrCodeInInternationalArticleNumberEanNoInformationProvided.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A number or code that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U013__b">
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the ISMN, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of an ISMN to a set or to a particular volume."></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInInternationalStandardMusicNumberIsmn"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in International Standard Music Number (ISMN)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInInternationalStandardMusicNumberIsmn.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__c">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberOfIncipitInMusicIncipit"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Number of incipit in Music incipit"></div>
+    <div property="skos:definition" xml:lang="en" content="A code distinguishing different incipits referring to the same movement."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasNumberOfIncipitInMusicIncipit.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U022__b">
+    <div property="rdfs:label" xml:lang="en" content="Number in Government publication number"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasNumberInGovernmentPublicationNumber.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberInGovernmentPublicationNumber"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the government body."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07141d">
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberVideoRecordingNumberMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberVideoRecordingNumberMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Video recording number) (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U021__a">
+    <div property="rdfs:label" xml:lang="en" content="Country code in Legal deposit number"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasCountryCodeInLegalDepositNumber"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCountryCodeInLegalDepositNumber.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="An identification of the country of the legal deposit agency assigning the number."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0111_d">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInIssnContinuingResourceOfLocalInterest.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in ISSN (Continuing resource of local interest)"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInIssnContinuingResourceOfLocalInterest"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01770d">
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Other standard identifier (Source specified in subfield $4) (No information provided)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInOtherStandardIdentifierSourceSpecifiedInSubfield$4NoInformationProvided.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInOtherStandardIdentifierSourceSpecifiedInSubfield$4NoInformationProvided"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U021__z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberInLegalDepositNumber"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="A number erroneously assigned to an item."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberInLegalDepositNumber.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number in Legal deposit number"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U014__2">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSystemCodeInArticleIdentifier.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInArticleIdentifier"></div>
+    <div property="skos:definition" xml:lang="en" content="Identification of the system under which the identifier was constructed."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="System code in Article identifier"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U017822">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceOfCodeInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberDifference.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceOfCodeInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberDifference"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="Type of code."></div>
+    <div property="rdfs:label" xml:lang="en" content="Source of code in Other standard identifier (Unspecified type of standard number) (Difference)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01772b">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInOtherStandardIdentifierSourceSpecifiedInSubfield$3Difference.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Other standard identifier (Source specified in subfield $3) (Difference)"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInOtherStandardIdentifierSourceSpecifiedInSubfield$3Difference"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the number or code, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of a number or code to a set or to a particular volume."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07151b">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Other type of publisher's number) (Make a note)"></div>
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberOtherTypeOfPublishersNumberMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberOtherTypeOfPublishersNumberMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U011__g">
+    <div property="reg:name" xml:lang="en" content="hasCancelledIssnLInIssnLevelNotSpecifiedNotApplicable"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Cancelled ISSN-l in ISSN (Level not specified / not applicable)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCancelledIssnLInIssnLevelNotSpecifiedNotApplicable.en"></div>
+    <div property="skos:definition" xml:lang="en" content="An ISSN-L incorrectly designated to a continuing resource."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07150c">
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberOtherTypeOfPublishersNumberDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Other type of publisher's number) (Do not make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberOtherTypeOfPublishersNumberDoNotMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_2b">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInUniversalProductCodeUpcDifference"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Universal product code (UPC) (Difference)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInUniversalProductCodeUpcDifference.en"></div>
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the number or code, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of a number or code to a set or to a particular volume."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01781z">
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberOrCodeInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoDifference"></div>
+    <div property="skos:definition" xml:lang="en" content="A number or code that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberOrCodeInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoDifference.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number or code in Other standard identifier (Unspecified type of standard number) (No difference)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__e">
+    <div property="reg:name" xml:lang="en" content="hasRoleInMusicIncipit"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasRoleInMusicIncipit.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Role in Music incipit"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of the character singing the incipit."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U040__z">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousCodenInCodenSerials.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A CODEN that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous CODEN in CODEN (serials)"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousCodenInCodenSerials"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01781d">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoDifference.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Other standard identifier (Unspecified type of standard number) (No difference)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoDifference"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U011__y">
+    <div property="reg:name" xml:lang="en" content="hasCancelledIssnInIssnLevelNotSpecifiedNotApplicable"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="Any ISSN that was formerly valid but which has been cancelled by an ISSN centre."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCancelledIssnInIssnLevelNotSpecifiedNotApplicable.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Cancelled ISSN in ISSN (Level not specified / not applicable)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07110c">
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Sound recording: matrix number) (Do not make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberSoundRecordingMatrixNumberDoNotMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberSoundRecordingMatrixNumberDoNotMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U017812">
+    <div property="skos:definition" xml:lang="en" content="Type of code."></div>
+    <div property="rdfs:label" xml:lang="en" content="Source of code in Other standard identifier (Unspecified type of standard number) (No difference)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceOfCodeInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoDifference.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceOfCodeInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoDifference"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U016__b">
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the ISRC, usually an indication of the relationship of an ISRC to a particular expression."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInInternationalStandardRecordingCodeIsrc"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in International Standard Recording Code (ISRC)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInInternationalStandardRecordingCodeIsrc.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_1z">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberOrCodeInUniversalProductCodeUpcNoDifference.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberOrCodeInUniversalProductCodeUpcNoDifference"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number or code in Universal product code (UPC) (No difference)"></div>
+    <div property="skos:definition" xml:lang="en" content="A number or code that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07111d">
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberSoundRecordingMatrixNumberMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberSoundRecordingMatrixNumberMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Sound recording: matrix number) (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07120b">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Printed music: plate number) (Do not make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberPrintedMusicPlateNumberDoNotMakeANote"></div>
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberPrintedMusicPlateNumberDoNotMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07110d">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInPublishersNumberSoundRecordingMatrixNumberDoNotMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Publisher's number (Sound recording: matrix number) (Do not make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInPublishersNumberSoundRecordingMatrixNumberDoNotMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U021__b">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasNumberInLegalDepositNumber.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Number as assigned by the agency."></div>
+    <div property="rdfs:label" xml:lang="en" content="Number in Legal deposit number"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberInLegalDepositNumber"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07140c">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberVideoRecordingNumberDoNotMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberVideoRecordingNumberDoNotMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Video recording number) (Do not make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07111c">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberSoundRecordingMatrixNumberMakeANote"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberSoundRecordingMatrixNumberMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Sound recording: matrix number) (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U017702">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceOfCodeInOtherStandardIdentifierSourceSpecifiedInSubfield$6NoInformationProvided.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Type of code."></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceOfCodeInOtherStandardIdentifierSourceSpecifiedInSubfield$6NoInformationProvided"></div>
+    <div property="rdfs:label" xml:lang="en" content="Source of code in Other standard identifier (Source specified in subfield $6) (No information provided)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_2a">
+    <div property="rdfs:label" xml:lang="en" content="Standard number in Universal product code (UPC) (Difference)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasStandardNumberInUniversalProductCodeUpcDifference.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasStandardNumberInUniversalProductCodeUpcDifference"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly formatted standard number or code."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U013__d">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInInternationalStandardMusicNumberIsmn"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInInternationalStandardMusicNumberIsmn.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in International Standard Music Number (ISMN)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01772z">
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number or code in Other standard identifier (Source specified in subfield $5) (Difference)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberOrCodeInOtherStandardIdentifierSourceSpecifiedInSubfield$5Difference.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A number or code that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberOrCodeInOtherStandardIdentifierSourceSpecifiedInSubfield$5Difference"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U017712">
+    <div property="reg:name" xml:lang="en" content="hasSourceOfCodeInOtherStandardIdentifierSourceSpecifiedInSubfield$6NoDifference"></div>
+    <div property="skos:definition" xml:lang="en" content="Type of code."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceOfCodeInOtherStandardIdentifierSourceSpecifiedInSubfield$6NoDifference.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Source of code in Other standard identifier (Source specified in subfield $6) (No difference)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07101b">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberSoundRecordingIssueNumberMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Sound recording: issue number) (Make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberSoundRecordingIssueNumberMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01772a">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasStandardNumberInOtherStandardIdentifierSourceSpecifiedInSubfield$2Difference"></div>
+    <div property="rdfs:label" xml:lang="en" content="Standard number in Other standard identifier (Source specified in subfield $2) (Difference)"></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly formatted standard number or code."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasStandardNumberInOtherStandardIdentifierSourceSpecifiedInSubfield$2Difference.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01770z">
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number or code in Other standard identifier (Source specified in subfield $5) (No information provided)"></div>
+    <div property="skos:definition" xml:lang="en" content="A number or code that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberOrCodeInOtherStandardIdentifierSourceSpecifiedInSubfield$5NoInformationProvided.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberOrCodeInOtherStandardIdentifierSourceSpecifiedInSubfield$5NoInformationProvided"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U015__z">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Cancelled/invalid/erroneous ISRN in International Standard Technical Report Number (ISRN)"></div>
+    <div property="skos:definition" xml:lang="en" content="An ISRN that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+    <div property="reg:name" xml:lang="en" content="hasCancelledInvalidErroneousIsrnInInternationalStandardTechnicalReportNumberIsrn"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCancelledInvalidErroneousIsrnInInternationalStandardTechnicalReportNumberIsrn.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U012__5">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasInstitutionToWhichTheFieldAppliesInFingerprintIdentifier.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasInstitutionToWhichTheFieldAppliesInFingerprintIdentifier"></div>
+    <div property="rdfs:label" xml:lang="en" content="Institution to which the field applies in Fingerprint identifier"></div>
+    <div property="skos:definition" xml:lang="en" content="Name of institution."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U011__z">
+    <div property="skos:definition" xml:lang="en" content="Any incorrect ISSN or ISSN-L."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous ISSN or ISSN-l in ISSN (Level not specified / not applicable)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousIssnOrIssnLInIssnLevelNotSpecifiedNotApplicable"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousIssnOrIssnLInIssnLevelNotSpecifiedNotApplicable.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07160a">
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Electronic resource number) (Do not make a note)"></div>
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberElectronicResourceNumberDoNotMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberElectronicResourceNumberDoNotMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01770b">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInOtherStandardIdentifierSourceSpecifiedInSubfield$3NoInformationProvided"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the number or code, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of a number or code to a set or to a particular volume."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInOtherStandardIdentifierSourceSpecifiedInSubfield$3NoInformationProvided.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Other standard identifier (Source specified in subfield $3) (No information provided)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_2d">
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in International article number (EAN) (Difference)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInInternationalArticleNumberEanDifference"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInInternationalArticleNumberEanDifference.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07110a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Sound recording: matrix number) (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberSoundRecordingMatrixNumberDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberSoundRecordingMatrixNumberDoNotMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07150b">
+    <div property="skos:definition" xml:lang="en" content="The agency which assigned the number."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceInPublishersNumberOtherTypeOfPublishersNumberDoNotMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceInPublishersNumberOtherTypeOfPublishersNumberDoNotMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="Source in Publisher's number (Other type of publisher's number) (Do not make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_0c">
+    <div property="rdfs:label" xml:lang="en" content="Additional codes following standard number or codes in International article number (EAN) (No information provided)"></div>
+    <div property="reg:name" xml:lang="en" content="hasAdditionalCodesFollowingStandardNumberOrCodesInInternationalArticleNumberEanNoInformationProvided"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasAdditionalCodesFollowingStandardNumberOrCodesInInternationalArticleNumberEanNoInformationProvided.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Any coded suffix to the identifier."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07141a">
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberVideoRecordingNumberMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberVideoRecordingNumberMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Video recording number) (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01782b">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberDifference.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberDifference"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Other standard identifier (Unspecified type of standard number) (Difference)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the number or code, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of a number or code to a set or to a particular volume."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07161c">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberElectronicResourceNumberMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Electronic resource number) (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberElectronicResourceNumberMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__t">
+    <div property="reg:name" xml:lang="en" content="hasTextIncipitInMusicIncipit"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTextIncipitInMusicIncipit.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Text incipit in Music incipit"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The literary text (if present) as it appears on the source."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U072_0b">
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Universal product code (UPC) (No information provided)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInUniversalProductCodeUpcNoInformationProvided.en"></div>
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the number or code, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of a number or code to a set or to a particular volume."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInUniversalProductCodeUpcNoInformationProvided"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07130z">
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Printed music: other publisher's number) (Do not make a note)"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberPrintedMusicOtherPublishersNumberDoNotMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberPrintedMusicOtherPublishersNumberDoNotMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07160c">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasQualificationInPublishersNumberElectronicResourceNumberDoNotMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="Information to distinguish between numbers if a record contains more than one publisher number."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInPublishersNumberElectronicResourceNumberDoNotMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Publisher's number (Electronic resource number) (Do not make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U010__a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly applied ISBN."></div>
+    <div property="rdfs:label" xml:lang="en" content="Number (ISBN) in International Standard Book Number"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes hyphens."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberIsbnInInternationalStandardBookNumber"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasNumberIsbnInInternationalStandardBookNumber.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07121a">
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberPrintedMusicPlateNumberMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberPrintedMusicPlateNumberMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Printed music: plate number) (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U014__a">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasArticleIdentifierInArticleIdentifier"></div>
+    <div property="rdfs:label" xml:lang="en" content="Article identifier in Article identifier"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasArticleIdentifierInArticleIdentifier.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U017722">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasSourceOfCodeInOtherStandardIdentifierSourceSpecifiedInSubfield$6Difference.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="Type of code."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Source of code in Other standard identifier (Source specified in subfield $6) (Difference)"></div>
+    <div property="reg:name" xml:lang="en" content="hasSourceOfCodeInOtherStandardIdentifierSourceSpecifiedInSubfield$6Difference"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U036__n">
+    <div property="reg:name" xml:lang="en" content="hasKeySignatureInMusicIncipit"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Key signature in Music incipit"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasKeySignatureInMusicIncipit.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07120a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasPublishersNumberInPublishersNumberPrintedMusicPlateNumberDoNotMakeANote"></div>
+    <div property="skos:definition" xml:lang="en" content="The number as assigned by the agency."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasPublishersNumberInPublishersNumberPrintedMusicPlateNumberDoNotMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Publisher's number in Publisher's number (Printed music: plate number) (Do not make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07110z">
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberSoundRecordingMatrixNumberDoNotMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberSoundRecordingMatrixNumberDoNotMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Sound recording: matrix number) (Do not make a note)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01780b">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoInformationProvided"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasQualificationInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoInformationProvided.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="Qualification in Other standard identifier (Unspecified type of standard number) (No information provided)"></div>
+    <div property="skos:definition" xml:lang="en" content="An indication of the scope of the number or code, usually the name of a publisher, an indication of the binding of the item, or an indication of the relationship of a number or code to a set or to a particular volume."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U073_0a">
+    <div property="rdfs:label" xml:lang="en" content="Standard number in International article number (EAN) (No information provided)"></div>
+    <div property="skos:definition" xml:lang="en" content="A correctly formatted standard number or code."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="reg:name" xml:lang="en" content="hasStandardNumberInInternationalArticleNumberEanNoInformationProvided"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasStandardNumberInInternationalArticleNumberEanNoInformationProvided.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U0110_d">
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in ISSN (Continuing resource of international or national interest)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInIssnContinuingResourceOfInternationalOrNationalInterest.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInIssnContinuingResourceOfInternationalOrNationalInterest"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01780z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="rdfs:label" xml:lang="en" content="Erroneous number or code in Other standard identifier (Unspecified type of standard number) (No information provided)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousNumberOrCodeInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoInformationProvided"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousNumberOrCodeInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoInformationProvided.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A number or code that has been identified as being erroneously applied to an item or is otherwise invalid."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U01780d">
+    <div property="rdfs:label" xml:lang="en" content="Terms of availability and/or price in Other standard identifier (Unspecified type of standard number) (No information provided)"></div>
+    <div property="reg:name" xml:lang="en" content="hasTermsOfAvailabilityAndOrPriceInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoInformationProvided"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasTermsOfAvailabilityAndOrPriceInOtherStandardIdentifierUnspecifiedTypeOfStandardNumberNoInformationProvided.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div property="skos:definition" xml:lang="en" content="The price of the item and any comment on its availability."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U033__z">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasCancelledOrInvalidPersistentRecordIdentifierInOtherSystemPersistentRecordIdentifier.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="Cancelled or invalid persistent record identifier in Other system persistent record identifier"></div>
+    <div property="reg:name" xml:lang="en" content="hasCancelledOrInvalidPersistentRecordIdentifierInOtherSystemPersistentRecordIdentifier"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/U07140z">
+    <div property="rdfs:label" xml:lang="en" content="Erroneous publisher's number in Publisher's number (Video recording number) (Do not make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/0XX/hasErroneousPublishersNumberInPublishersNumberVideoRecordingNumberDoNotMakeANote.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A publisher's number that has been identified as being erroneously applied to an item or otherwise invalid."></div>
+    <div property="reg:name" xml:lang="en" content="hasErroneousPublishersNumberInPublishersNumberVideoRecordingNumberDoNotMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+</div>

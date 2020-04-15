@@ -1,0 +1,1406 @@
+<div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1x" itemscope>
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasIssnInPieceMakeANote" />
+    <div itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC/B elements 46X" />
+    </div>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has ISSN in Piece (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasIssnInPieceMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1p" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPhysicalDescriptionInPieceMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Physical description in Piece (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPhysicalDescriptionInPieceMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0f" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has First statement of responsibility in Subset (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasFirstStatementOfResponsibilityInSubsetDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasFirstStatementOfResponsibilityInSubsetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0p" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPhysicalDescriptionInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPhysicalDescriptionInPieceAnalyticDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Physical description in Piece-analytic (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_11" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasLinkingDataInPieceAnalyticMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Linking data in Piece-analytic (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasLinkingDataInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0c" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPlaceOfPublicationInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPlaceOfPublicationInPieceAnalyticDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Place of publication in Piece-analytic (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0h" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Number of section or part in Piece-analytic (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNumberOfSectionOrPartInPieceAnalyticDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNumberOfSectionOrPartInPieceAnalyticDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_00" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasBibliographicRecordIdentifierInSetDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasBibliographicRecordIdentifierInSetDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Bibliographic record identifier in Set (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1d" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDateOfPublicationInPieceAnalyticMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Date of publication in Piece-analytic (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasDateOfPublicationInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0f" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasFirstStatementOfResponsibilityInPieceDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has First statement of responsibility in Piece (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasFirstStatementOfResponsibilityInPieceDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1c" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Place of publication in Set (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPlaceOfPublicationInSetMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPlaceOfPublicationInSetMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1c" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPlaceOfPublicationInPieceMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPlaceOfPublicationInPieceMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Place of publication in Piece (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1h" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNumberOfSectionOrPartInSetMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNumberOfSectionOrPartInSetMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Number of section or part in Set (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1z" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasCodenInSetMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has CODEN in Set (Make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCodenInSetMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1f" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasFirstStatementOfResponsibilityInSubsetMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasFirstStatementOfResponsibilityInSubsetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has First statement of responsibility in Subset (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0y" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardBookNumberInPieceDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Book Number in Piece (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardBookNumberInPieceDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1b" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasGeneralMaterialDesignationInSetMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasGeneralMaterialDesignationInSetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has General material designation in Set (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1v" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasVolumeNumberInSubsetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasVolumeNumberInSubsetMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Volume number in Subset (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorInSubsetDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Author in Subset (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorInSubsetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0e" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasEditionStatementInSubsetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasEditionStatementInSubsetDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Edition statement in Subset (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1b" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasGeneralMaterialDesignationInSubsetMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has General material designation in Subset (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasGeneralMaterialDesignationInSubsetMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_11" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasLinkingDataInPieceMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Linking data in Piece (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasLinkingDataInPieceMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0p" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPhysicalDescriptionInSetDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPhysicalDescriptionInSetDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Physical description in Set (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1n" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of publisher, distributor, etc. in Subset (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfPublisherDistributorEtcInSubsetMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfPublisherDistributorEtcInSubsetMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0b" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasGeneralMaterialDesignationInPieceAnalyticDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has General material designation in Piece-analytic (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasGeneralMaterialDesignationInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_01" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Linking data in Piece (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasLinkingDataInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasLinkingDataInPieceDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorInPieceAnalyticMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorInPieceAnalyticMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Author in Piece-analytic (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1y" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardBookNumberInPieceAnalyticMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Book Number in Piece-analytic (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardBookNumberInPieceAnalyticMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0v" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Volume number in Set (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasVolumeNumberInSetDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasVolumeNumberInSetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1t" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Title in Piece-analytic (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasTitleInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasTitleInPieceAnalyticMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0m" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardMusicNumberInPieceDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Music Number in Piece (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardMusicNumberInPieceDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1s" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSeriesStatementInSubsetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Series statement in Subset (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSeriesStatementInSubsetMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1e" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Edition statement in Piece-analytic (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasEditionStatementInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasEditionStatementInPieceAnalyticMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0o" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOtherTitleInformationInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasOtherTitleInformationInPieceAnalyticDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Other title information in Piece-analytic (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0y" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardBookNumberInSetDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Book Number in Set (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardBookNumberInSetDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0m" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardMusicNumberInSubsetDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardMusicNumberInSubsetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Music Number in Subset (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_00" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Bibliographic record identifier in Piece-analytic (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasBibliographicRecordIdentifierInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasBibliographicRecordIdentifierInPieceAnalyticDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1f" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasFirstStatementOfResponsibilityInPieceMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has First statement of responsibility in Piece (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasFirstStatementOfResponsibilityInPieceMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_10" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasBibliographicRecordIdentifierInSubsetMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Bibliographic record identifier in Subset (Make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasBibliographicRecordIdentifierInSubsetMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_15" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInstitutionToWhichFieldAppliesInPieceAnalyticMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Institution to which field applies in Piece-analytic (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInstitutionToWhichFieldAppliesInPieceAnalyticMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1o" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasOtherTitleInformationInSetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Other title information in Set (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOtherTitleInformationInSetMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1f" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasFirstStatementOfResponsibilityInPieceAnalyticMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasFirstStatementOfResponsibilityInPieceAnalyticMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has First statement of responsibility in Piece-analytic (Make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0x" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasIssnInPieceAnalyticDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has ISSN in Piece-analytic (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasIssnInPieceAnalyticDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0a" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorInPieceAnalyticDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Author in Piece-analytic (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorInPieceAnalyticDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0c" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Place of publication in Subset (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPlaceOfPublicationInSubsetDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPlaceOfPublicationInSubsetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1p" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPhysicalDescriptionInPieceAnalyticMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Physical description in Piece-analytic (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPhysicalDescriptionInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_05" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInstitutionToWhichFieldAppliesInSubsetDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Institution to which field applies in Subset (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInstitutionToWhichFieldAppliesInSubsetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1u" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Uniform Resource Identifier in Set (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasUniformResourceIdentifierInSetMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasUniformResourceIdentifierInSetMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1i" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of section or part in Piece-analytic (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfSectionOrPartInPieceAnalyticMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfSectionOrPartInPieceAnalyticMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1m" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardMusicNumberInPieceMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardMusicNumberInPieceMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Music Number in Piece (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0l" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Parallel title in Subset (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasParallelTitleInSubsetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasParallelTitleInSubsetDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0u" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Uniform Resource Identifier in Piece-analytic (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasUniformResourceIdentifierInPieceAnalyticDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasUniformResourceIdentifierInPieceAnalyticDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1c" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPlaceOfPublicationInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Place of publication in Piece-analytic (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPlaceOfPublicationInPieceAnalyticMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1e" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Edition statement in Subset (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasEditionStatementInSubsetMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasEditionStatementInSubsetMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_10" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Bibliographic record identifier in Piece (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasBibliographicRecordIdentifierInPieceMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasBibliographicRecordIdentifierInPieceMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1g" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSubsequentStatementOfResponsibilityInSubsetMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subsequent statement of responsibility in Subset (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubsequentStatementOfResponsibilityInSubsetMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0e" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasEditionStatementInSetDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Edition statement in Set (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasEditionStatementInSetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0z" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCodenInSetDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has CODEN in Set (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasCodenInSetDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_03" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorityRecordNumberInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorityRecordNumberInPieceDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Authority record number in Piece (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0g" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSubsequentStatementOfResponsibilityInSetDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubsequentStatementOfResponsibilityInSetDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subsequent statement of responsibility in Set (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_10" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasBibliographicRecordIdentifierInPieceAnalyticMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Bibliographic record identifier in Piece-analytic (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasBibliographicRecordIdentifierInPieceAnalyticMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1p" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPhysicalDescriptionInSubsetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Physical description in Subset (Make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPhysicalDescriptionInSubsetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1v" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasVolumeNumberInPieceAnalyticMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasVolumeNumberInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Volume number in Piece-analytic (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0z" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCodenInPieceAnalyticDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has CODEN in Piece-analytic (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasCodenInPieceAnalyticDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1m" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardMusicNumberInSubsetMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Music Number in Subset (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardMusicNumberInSubsetMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1c" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPlaceOfPublicationInSubsetMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPlaceOfPublicationInSubsetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Place of publication in Subset (Make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_00" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Bibliographic record identifier in Subset (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasBibliographicRecordIdentifierInSubsetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasBibliographicRecordIdentifierInSubsetDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0z" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has CODEN in Subset (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCodenInSubsetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasCodenInSubsetDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1n" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfPublisherDistributorEtcInPieceAnalyticMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of publisher, distributor, etc. in Piece-analytic (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfPublisherDistributorEtcInPieceAnalyticMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0p" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPhysicalDescriptionInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Physical description in Piece (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPhysicalDescriptionInPieceDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1b" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasGeneralMaterialDesignationInPieceAnalyticMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has General material designation in Piece-analytic (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasGeneralMaterialDesignationInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0g" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubsequentStatementOfResponsibilityInSubsetDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subsequent statement of responsibility in Subset (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSubsequentStatementOfResponsibilityInSubsetDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1d" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasDateOfPublicationInPieceMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDateOfPublicationInPieceMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Date of publication in Piece (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0o" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasOtherTitleInformationInPieceDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Other title information in Piece (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOtherTitleInformationInPieceDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1m" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardMusicNumberInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Music Number in Piece-analytic (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardMusicNumberInPieceAnalyticMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_13" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorityRecordNumberInPieceMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorityRecordNumberInPieceMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Authority record number in Piece (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1m" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardMusicNumberInSetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Music Number in Set (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardMusicNumberInSetMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1d" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasDateOfPublicationInSetMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Date of publication in Set (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDateOfPublicationInSetMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1a" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Author in Subset (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorInSubsetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorInSubsetMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1i" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfSectionOrPartInPieceMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of section or part in Piece (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfSectionOrPartInPieceMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0e" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Edition statement in Piece-analytic (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasEditionStatementInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasEditionStatementInPieceAnalyticDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0x" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has ISSN in Subset (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasIssnInSubsetDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasIssnInSubsetDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0b" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasGeneralMaterialDesignationInPieceDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasGeneralMaterialDesignationInPieceDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has General material designation in Piece (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0e" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasEditionStatementInPieceDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Edition statement in Piece (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasEditionStatementInPieceDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0g" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subsequent statement of responsibility in Piece-analytic (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSubsequentStatementOfResponsibilityInPieceAnalyticDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubsequentStatementOfResponsibilityInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1y" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Book Number in Piece (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardBookNumberInPieceMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardBookNumberInPieceMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1n" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfPublisherDistributorEtcInSetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfPublisherDistributorEtcInSetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of publisher, distributor, etc. in Set (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1l" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasParallelTitleInPieceMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasParallelTitleInPieceMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Parallel title in Piece (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_05" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInstitutionToWhichFieldAppliesInPieceAnalyticDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Institution to which field applies in Piece-analytic (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInstitutionToWhichFieldAppliesInPieceAnalyticDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1i" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfSectionOrPartInSetMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfSectionOrPartInSetMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of section or part in Set (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0l" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasParallelTitleInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Parallel title in Piece (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasParallelTitleInPieceDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_10" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasBibliographicRecordIdentifierInSetMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasBibliographicRecordIdentifierInSetMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Bibliographic record identifier in Set (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1u" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasUniformResourceIdentifierInSubsetMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasUniformResourceIdentifierInSubsetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Uniform Resource Identifier in Subset (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1f" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasFirstStatementOfResponsibilityInSetMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasFirstStatementOfResponsibilityInSetMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has First statement of responsibility in Set (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1v" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasVolumeNumberInSetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Volume number in Set (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasVolumeNumberInSetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1l" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasParallelTitleInPieceAnalyticMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasParallelTitleInPieceAnalyticMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Parallel title in Piece-analytic (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0u" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasUniformResourceIdentifierInSubsetDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Uniform Resource Identifier in Subset (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasUniformResourceIdentifierInSubsetDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0b" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasGeneralMaterialDesignationInSetDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasGeneralMaterialDesignationInSetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has General material designation in Set (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0l" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasParallelTitleInSetDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Parallel title in Set (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasParallelTitleInSetDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_00" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasBibliographicRecordIdentifierInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasBibliographicRecordIdentifierInPieceDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Bibliographic record identifier in Piece (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1e" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasEditionStatementInSetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Edition statement in Set (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasEditionStatementInSetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1g" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subsequent statement of responsibility in Piece (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubsequentStatementOfResponsibilityInPieceMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSubsequentStatementOfResponsibilityInPieceMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0y" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardBookNumberInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardBookNumberInPieceAnalyticDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Book Number in Piece-analytic (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0f" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has First statement of responsibility in Set (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasFirstStatementOfResponsibilityInSetDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasFirstStatementOfResponsibilityInSetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1t" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasTitleInSetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasTitleInSetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Title in Set (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_01" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Linking data in Set (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasLinkingDataInSetDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasLinkingDataInSetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1o" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasOtherTitleInformationInPieceAnalyticMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Other title information in Piece-analytic (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOtherTitleInformationInPieceAnalyticMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_11" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Linking data in Subset (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasLinkingDataInSubsetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasLinkingDataInSubsetMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0t" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasTitleInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasTitleInPieceDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Title in Piece (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_05" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInstitutionToWhichFieldAppliesInSetDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInstitutionToWhichFieldAppliesInSetDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Institution to which field applies in Set (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0v" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasVolumeNumberInPieceAnalyticDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Volume number in Piece-analytic (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasVolumeNumberInPieceAnalyticDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1o" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasOtherTitleInformationInSubsetMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOtherTitleInformationInSubsetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Other title information in Subset (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1v" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasVolumeNumberInPieceMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasVolumeNumberInPieceMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Volume number in Piece (Make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_03" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorityRecordNumberInSubsetDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Authority record number in Subset (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorityRecordNumberInSubsetDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1z" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasCodenInPieceAnalyticMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCodenInPieceAnalyticMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has CODEN in Piece-analytic (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1z" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasCodenInSubsetMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCodenInSubsetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has CODEN in Subset (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0n" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfPublisherDistributorEtcInSetDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfPublisherDistributorEtcInSetDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of publisher, distributor, etc. in Set (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Author in Piece (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorInPieceMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorInPieceMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0x" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasIssnInPieceDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasIssnInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has ISSN in Piece (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_13" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorityRecordNumberInPieceAnalyticMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorityRecordNumberInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Authority record number in Piece-analytic (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1z" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCodenInPieceMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasCodenInPieceMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has CODEN in Piece (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1x" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasIssnInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasIssnInPieceAnalyticMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has ISSN in Piece-analytic (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1t" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasTitleInSubsetMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Title in Subset (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasTitleInSubsetMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1y" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Book Number in Set (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardBookNumberInSetMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardBookNumberInSetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0n" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of publisher, distributor, etc. in Subset (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfPublisherDistributorEtcInSubsetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfPublisherDistributorEtcInSubsetDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1g" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subsequent statement of responsibility in Piece-analytic (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubsequentStatementOfResponsibilityInPieceAnalyticMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSubsequentStatementOfResponsibilityInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0i" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfSectionOrPartInSubsetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfSectionOrPartInSubsetDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of section or part in Subset (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0l" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasParallelTitleInPieceAnalyticDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasParallelTitleInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Parallel title in Piece-analytic (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Author in Set (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorInSetDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorInSetDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_01" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Linking data in Subset (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasLinkingDataInSubsetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasLinkingDataInSubsetDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0p" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPhysicalDescriptionInSubsetDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPhysicalDescriptionInSubsetDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Physical description in Subset (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0n" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfPublisherDistributorEtcInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of publisher, distributor, etc. in Piece (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfPublisherDistributorEtcInPieceDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0d" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDateOfPublicationInSetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasDateOfPublicationInSetDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Date of publication in Set (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_03" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorityRecordNumberInSetDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Authority record number in Set (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorityRecordNumberInSetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1u" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Uniform Resource Identifier in Piece-analytic (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasUniformResourceIdentifierInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasUniformResourceIdentifierInPieceAnalyticMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1s" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSeriesStatementInPieceAnalyticMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSeriesStatementInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Series statement in Piece-analytic (Make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0d" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDateOfPublicationInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasDateOfPublicationInPieceAnalyticDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Date of publication in Piece-analytic (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_01" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Linking data in Piece-analytic (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasLinkingDataInPieceAnalyticDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasLinkingDataInPieceAnalyticDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1h" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNumberOfSectionOrPartInPieceMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNumberOfSectionOrPartInPieceMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Number of section or part in Piece (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0h" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNumberOfSectionOrPartInSubsetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNumberOfSectionOrPartInSubsetDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Number of section or part in Subset (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_1h" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNumberOfSectionOrPartInPieceAnalyticMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Number of section or part in Piece-analytic (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNumberOfSectionOrPartInPieceAnalyticMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1l" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasParallelTitleInSubsetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Parallel title in Subset (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasParallelTitleInSubsetMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_13" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorityRecordNumberInSubsetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Authority record number in Subset (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorityRecordNumberInSubsetMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1t" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasTitleInPieceMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Title in Piece (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasTitleInPieceMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0n" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfPublisherDistributorEtcInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of publisher, distributor, etc. in Piece-analytic (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfPublisherDistributorEtcInPieceAnalyticDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0s" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSeriesStatementInPieceAnalyticDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Series statement in Piece-analytic (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSeriesStatementInPieceAnalyticDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0b" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasGeneralMaterialDesignationInSubsetDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has General material designation in Subset (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasGeneralMaterialDesignationInSubsetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0i" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfSectionOrPartInPieceAnalyticDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of section or part in Piece-analytic (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfSectionOrPartInPieceAnalyticDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1x" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasIssnInSetMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasIssnInSetMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has ISSN in Set (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0o" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasOtherTitleInformationInSubsetDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOtherTitleInformationInSubsetDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Other title information in Subset (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1n" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfPublisherDistributorEtcInPieceMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfPublisherDistributorEtcInPieceMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of publisher, distributor, etc. in Piece (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0m" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardMusicNumberInSetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardMusicNumberInSetDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Music Number in Set (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0g" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subsequent statement of responsibility in Piece (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubsequentStatementOfResponsibilityInPieceDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSubsequentStatementOfResponsibilityInPieceDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0u" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Uniform Resource Identifier in Set (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasUniformResourceIdentifierInSetDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasUniformResourceIdentifierInSetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0x" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasIssnInSetDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasIssnInSetDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has ISSN in Set (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_03" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Authority record number in Piece-analytic (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorityRecordNumberInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorityRecordNumberInPieceAnalyticDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1x" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasIssnInSubsetMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasIssnInSubsetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has ISSN in Subset (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1h" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Number of section or part in Subset (Make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNumberOfSectionOrPartInSubsetMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNumberOfSectionOrPartInSubsetMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_13" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorityRecordNumberInSetMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Authority record number in Set (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorityRecordNumberInSetMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0s" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Series statement in Piece (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSeriesStatementInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSeriesStatementInPieceDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0s" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Series statement in Subset (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSeriesStatementInSubsetDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSeriesStatementInSubsetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1l" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasParallelTitleInSetMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasParallelTitleInSetMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Parallel title in Set (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0t" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasTitleInSetDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Title in Set (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasTitleInSetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0z" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasCodenInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCodenInPieceDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has CODEN in Piece (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0i" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfSectionOrPartInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of section or part in Piece (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfSectionOrPartInPieceDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0v" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasVolumeNumberInPieceDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Volume number in Piece (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasVolumeNumberInPieceDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0s" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSeriesStatementInSetDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Series statement in Set (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSeriesStatementInSetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0y" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardBookNumberInSubsetDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Book Number in Subset (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardBookNumberInSubsetDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_05" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInstitutionToWhichFieldAppliesInPieceDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInstitutionToWhichFieldAppliesInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Institution to which field applies in Piece (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1e" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasEditionStatementInPieceMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Edition statement in Piece (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasEditionStatementInPieceMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_15" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Institution to which field applies in Subset (Make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInstitutionToWhichFieldAppliesInSubsetMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInstitutionToWhichFieldAppliesInSubsetMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1g" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subsequent statement of responsibility in Set (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubsequentStatementOfResponsibilityInSetMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSubsequentStatementOfResponsibilityInSetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1i" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfSectionOrPartInSubsetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of section or part in Subset (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfSectionOrPartInSubsetMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1d" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDateOfPublicationInSubsetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Date of publication in Subset (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasDateOfPublicationInSubsetMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1s" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSeriesStatementInPieceMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSeriesStatementInPieceMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Series statement in Piece (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_15" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInstitutionToWhichFieldAppliesInSetMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInstitutionToWhichFieldAppliesInSetMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Institution to which field applies in Set (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_11" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Linking data in Set (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasLinkingDataInSetMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasLinkingDataInSetMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0m" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardMusicNumberInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardMusicNumberInPieceAnalyticDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Music Number in Piece-analytic (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0d" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasDateOfPublicationInPieceDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDateOfPublicationInPieceDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Date of publication in Piece (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1u" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasUniformResourceIdentifierInPieceMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasUniformResourceIdentifierInPieceMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Uniform Resource Identifier in Piece (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0t" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Title in Subset (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasTitleInSubsetDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasTitleInSubsetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1o" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Other title information in Piece (Make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOtherTitleInformationInPieceMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasOtherTitleInformationInPieceMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0i" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNameOfSectionOrPartInSetDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Name of section or part in Set (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNameOfSectionOrPartInSetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0c" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPlaceOfPublicationInPieceDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPlaceOfPublicationInPieceDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Place of publication in Piece (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_15" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInstitutionToWhichFieldAppliesInPieceMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInstitutionToWhichFieldAppliesInPieceMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Institution to which field applies in Piece (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_1b" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasGeneralMaterialDesignationInPieceMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasGeneralMaterialDesignationInPieceMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has General material designation in Piece (Make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0f" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasFirstStatementOfResponsibilityInPieceAnalyticDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasFirstStatementOfResponsibilityInPieceAnalyticDoNotMakeANote.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has First statement of responsibility in Piece-analytic (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0v" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Volume number in Subset (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasVolumeNumberInSubsetDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasVolumeNumberInSubsetDoNotMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0h" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNumberOfSectionOrPartInSetDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Number of section or part in Set (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNumberOfSectionOrPartInSetDoNotMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorInSetMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorInSetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Author in Set (Make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0o" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasOtherTitleInformationInSetDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOtherTitleInformationInSetDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Other title information in Set (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_0c" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Place of publication in Set (Do not make a note)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPlaceOfPublicationInSetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPlaceOfPublicationInSetDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U464_0t" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasTitleInPieceAnalyticDoNotMakeANote.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasTitleInPieceAnalyticDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Title in Piece-analytic (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_1y" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasInternationalStandardBookNumberInSubsetMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has International Standard Book Number in Subset (Make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasInternationalStandardBookNumberInSubsetMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1s" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Series statement in Set (Make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSeriesStatementInSetMakeANote" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasSeriesStatementInSetMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U462_0d" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDateOfPublicationInSubsetDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasDateOfPublicationInSubsetDoNotMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Date of publication in Subset (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0a" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Author in Piece (Do not make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorInPieceDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasAuthorInPieceDoNotMakeANote.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0u" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasUniformResourceIdentifierInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasUniformResourceIdentifierInPieceDoNotMakeANote" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Uniform Resource Identifier in Piece (Do not make a note)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U461_1p" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasPhysicalDescriptionInSetMakeANote.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Physical description in Set (Make a note)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasPhysicalDescriptionInSetMakeANote" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/U463_0h" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Number of section or part in Piece (Do not make a note)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/46X/hasNumberOfSectionOrPartInPieceDoNotMakeANote.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasNumberOfSectionOrPartInPieceDoNotMakeANote" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+</div>

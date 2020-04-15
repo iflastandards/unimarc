@@ -1,0 +1,194 @@
+<div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0g" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCataloguingRulesDescriptiveConventionsInOriginatingSourceOriginalCataloguingAgency.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCataloguingRulesDescriptiveConventionsInOriginatingSourceOriginalCataloguingAgency" />
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <div itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC/B elements 801" />
+    </div>
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The cataloguing code used for bibliographic description and access." />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Cataloguing rules (descriptive conventions) in Originating source (Original cataloguing agency)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCountryInOriginatingSourceIssuingAgency.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Country in Originating source (Issuing agency)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The country of the issuing agency." />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCountryInOriginatingSourceIssuingAgency" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2g" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Cataloguing rules (descriptive conventions) in Originating source (Modifying agency)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCataloguingRulesDescriptiveConventionsInOriginatingSourceModifyingAgency.en" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The cataloguing code used for bibliographic description and access." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCataloguingRulesDescriptiveConventionsInOriginatingSourceModifyingAgency" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1c" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDateOfTransactionInOriginatingSourceTranscribingAgency" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Date of transaction in Originating source (Transcribing agency)" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="Indication when a modification was made or a record was issued." />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasDateOfTransactionInOriginatingSourceTranscribingAgency.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1b" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Agency in Originating source (Transcribing agency)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasAgencyInOriginatingSourceTranscribingAgency.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAgencyInOriginatingSourceTranscribingAgency" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3b" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAgencyInOriginatingSourceIssuingAgency" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Agency in Originating source (Issuing agency)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasAgencyInOriginatingSourceIssuingAgency.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1h" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOriginalControlNumberInOriginatingSourceTranscribingAgency" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The original control number when a record’s Record Identifier has been overwritten." />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Original control number in Originating source (Transcribing agency)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasOriginalControlNumberInOriginatingSourceTranscribingAgency.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3g" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCataloguingRulesDescriptiveConventionsInOriginatingSourceIssuingAgency.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCataloguingRulesDescriptiveConventionsInOriginatingSourceIssuingAgency" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Cataloguing rules (descriptive conventions) in Originating source (Issuing agency)" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The cataloguing code used for bibliographic description and access." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_22" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The name of the format used for the machine-readable record." />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSystemCodeInOriginatingSourceModifyingAgency" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasSystemCodeInOriginatingSourceModifyingAgency.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has System code in Originating source (Modifying agency)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0h" itemscope>
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The original control number when a record’s Record Identifier has been overwritten." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasOriginalControlNumberInOriginatingSourceOriginalCataloguingAgency.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOriginalControlNumberInOriginatingSourceOriginalCataloguingAgency" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Original control number in Originating source (Original cataloguing agency)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3c" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Date of transaction in Originating source (Issuing agency)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDateOfTransactionInOriginatingSourceIssuingAgency" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasDateOfTransactionInOriginatingSourceIssuingAgency.en" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="Indication when a modification was made or a record was issued." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2b" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAgencyInOriginatingSourceModifyingAgency" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasAgencyInOriginatingSourceModifyingAgency.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Agency in Originating source (Modifying agency)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0b" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAgencyInOriginatingSourceOriginalCataloguingAgency" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Agency in Originating source (Original cataloguing agency)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasAgencyInOriginatingSourceOriginalCataloguingAgency.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2c" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Date of transaction in Originating source (Modifying agency)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDateOfTransactionInOriginatingSourceModifyingAgency" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasDateOfTransactionInOriginatingSourceModifyingAgency.en" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="Indication when a modification was made or a record was issued." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_02" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has System code in Originating source (Original cataloguing agency)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasSystemCodeInOriginatingSourceOriginalCataloguingAgency.en" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The name of the format used for the machine-readable record." />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSystemCodeInOriginatingSourceOriginalCataloguingAgency" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_12" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSystemCodeInOriginatingSourceTranscribingAgency" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasSystemCodeInOriginatingSourceTranscribingAgency.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has System code in Originating source (Transcribing agency)" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The name of the format used for the machine-readable record." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2a" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCountryInOriginatingSourceModifyingAgency" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The country of the issuing agency." />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Country in Originating source (Modifying agency)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCountryInOriginatingSourceModifyingAgency.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2h" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasOriginalControlNumberInOriginatingSourceModifyingAgency.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOriginalControlNumberInOriginatingSourceModifyingAgency" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The original control number when a record’s Record Identifier has been overwritten." />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Original control number in Originating source (Modifying agency)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0c" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDateOfTransactionInOriginatingSourceOriginalCataloguingAgency" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasDateOfTransactionInOriginatingSourceOriginalCataloguingAgency.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Date of transaction in Originating source (Original cataloguing agency)" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="Indication when a modification was made or a record was issued." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1a" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCountryInOriginatingSourceTranscribingAgency" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCountryInOriginatingSourceTranscribingAgency.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Country in Originating source (Transcribing agency)" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The country of the issuing agency." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1g" itemscope>
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The cataloguing code used for bibliographic description and access." />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCataloguingRulesDescriptiveConventionsInOriginatingSourceTranscribingAgency.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCataloguingRulesDescriptiveConventionsInOriginatingSourceTranscribingAgency" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Cataloguing rules (descriptive conventions) in Originating source (Transcribing agency)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0a" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Country in Originating source (Original cataloguing agency)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The country of the issuing agency." />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCountryInOriginatingSourceOriginalCataloguingAgency" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCountryInOriginatingSourceOriginalCataloguingAgency.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_32" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has System code in Originating source (Issuing agency)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasSystemCodeInOriginatingSourceIssuingAgency.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSystemCodeInOriginatingSourceIssuingAgency" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The name of the format used for the machine-readable record." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3h" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOriginalControlNumberInOriginatingSourceIssuingAgency" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The original control number when a record’s Record Identifier has been overwritten." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasOriginalControlNumberInOriginatingSourceIssuingAgency.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Original control number in Originating source (Issuing agency)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/801/" />
+  </div>
+</div>

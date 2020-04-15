@@ -1,0 +1,1126 @@
+{
+  "http://metadataregistry.org/uri/RegStatus/1001": {
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Published"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_12": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasSystemCodeInOriginatingSourceTranscribingAgency.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The name of the format used for the machine-readable record."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSystemCodeInOriginatingSourceTranscribingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has System code in Originating source (Transcribing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3h": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasOriginalControlNumberInOriginatingSourceIssuingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The original control number when a record’s Record Identifier has been overwritten."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasOriginalControlNumberInOriginatingSourceIssuingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Original control number in Originating source (Issuing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/": {
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "UNIMARC/B elements 801"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_32": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasSystemCodeInOriginatingSourceIssuingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The name of the format used for the machine-readable record."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSystemCodeInOriginatingSourceIssuingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has System code in Originating source (Issuing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0a": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCountryInOriginatingSourceOriginalCataloguingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Country in Originating source (Original cataloguing agency)"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The country of the issuing agency."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCountryInOriginatingSourceOriginalCataloguingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0b": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasAgencyInOriginatingSourceOriginalCataloguingAgency.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAgencyInOriginatingSourceOriginalCataloguingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Agency in Originating source (Original cataloguing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0c": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasDateOfTransactionInOriginatingSourceOriginalCataloguingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Indication when a modification was made or a record was issued."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasDateOfTransactionInOriginatingSourceOriginalCataloguingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Date of transaction in Originating source (Original cataloguing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2h": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasOriginalControlNumberInOriginatingSourceModifyingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The original control number when a record’s Record Identifier has been overwritten."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasOriginalControlNumberInOriginatingSourceModifyingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Original control number in Originating source (Modifying agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0g": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCataloguingRulesDescriptiveConventionsInOriginatingSourceOriginalCataloguingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The cataloguing code used for bibliographic description and access."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCataloguingRulesDescriptiveConventionsInOriginatingSourceOriginalCataloguingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Cataloguing rules (descriptive conventions) in Originating source (Original cataloguing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_0h": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasOriginalControlNumberInOriginatingSourceOriginalCataloguingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Original control number in Originating source (Original cataloguing agency)"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The original control number when a record’s Record Identifier has been overwritten."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasOriginalControlNumberInOriginatingSourceOriginalCataloguingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2g": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCataloguingRulesDescriptiveConventionsInOriginatingSourceModifyingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The cataloguing code used for bibliographic description and access."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCataloguingRulesDescriptiveConventionsInOriginatingSourceModifyingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Cataloguing rules (descriptive conventions) in Originating source (Modifying agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2b": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasAgencyInOriginatingSourceModifyingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAgencyInOriginatingSourceModifyingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Agency in Originating source (Modifying agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2c": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasDateOfTransactionInOriginatingSourceModifyingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Indication when a modification was made or a record was issued."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasDateOfTransactionInOriginatingSourceModifyingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Date of transaction in Originating source (Modifying agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_2a": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCountryInOriginatingSourceModifyingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The country of the issuing agency."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCountryInOriginatingSourceModifyingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Country in Originating source (Modifying agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_02": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasSystemCodeInOriginatingSourceOriginalCataloguingAgency.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The name of the format used for the machine-readable record."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSystemCodeInOriginatingSourceOriginalCataloguingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has System code in Originating source (Original cataloguing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1h": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasOriginalControlNumberInOriginatingSourceTranscribingAgency.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The original control number when a record’s Record Identifier has been overwritten."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasOriginalControlNumberInOriginatingSourceTranscribingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Original control number in Originating source (Transcribing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_22": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasSystemCodeInOriginatingSourceModifyingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The name of the format used for the machine-readable record."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasSystemCodeInOriginatingSourceModifyingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has System code in Originating source (Modifying agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1c": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasDateOfTransactionInOriginatingSourceTranscribingAgency.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Indication when a modification was made or a record was issued."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasDateOfTransactionInOriginatingSourceTranscribingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Date of transaction in Originating source (Transcribing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1b": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasAgencyInOriginatingSourceTranscribingAgency.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAgencyInOriginatingSourceTranscribingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Agency in Originating source (Transcribing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1a": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCountryInOriginatingSourceTranscribingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The country of the issuing agency."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCountryInOriginatingSourceTranscribingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Country in Originating source (Transcribing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_1g": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCataloguingRulesDescriptiveConventionsInOriginatingSourceTranscribingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The cataloguing code used for bibliographic description and access."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCataloguingRulesDescriptiveConventionsInOriginatingSourceTranscribingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Cataloguing rules (descriptive conventions) in Originating source (Transcribing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3a": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCountryInOriginatingSourceIssuingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The country of the issuing agency."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCountryInOriginatingSourceIssuingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Country in Originating source (Issuing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3c": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasDateOfTransactionInOriginatingSourceIssuingAgency.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Indication when a modification was made or a record was issued."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasDateOfTransactionInOriginatingSourceIssuingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Date of transaction in Originating source (Issuing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3b": {
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasAgencyInOriginatingSourceIssuingAgency.en"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasAgencyInOriginatingSourceIssuingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Agency in Originating source (Issuing agency)"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/U801_3g": {
+    "http://metadataregistry.org/uri/profile/regap/lexicalAlias": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/hasCataloguingRulesDescriptiveConventionsInOriginatingSourceIssuingAgency.en"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/unimarcb/elements/801/"
+      }
+    ], 
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "has Cataloguing rules (descriptive conventions) in Originating source (Issuing agency)"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "The cataloguing code used for bibliographic description and access."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/name": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "hasCataloguingRulesDescriptiveConventionsInOriginatingSourceIssuingAgency"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ]
+  }
+}

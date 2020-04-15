@@ -1,0 +1,99 @@
+<div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#h" itemscope>
+    <div itemprop="inScheme" itemtype="http://www.w3.org/2004/02/skos/core#ConceptScheme" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC: Cartographic materials: Relief" />
+    </div>
+    <meta itemprop="notation" content="h" />
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7597" />
+    <meta itemprop="scopeNote" content="E.g. in the style of Imhof." />
+    <meta itemprop="prefLabel" content="other methods in colour" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#a" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartrel#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7590" />
+    <meta itemprop="prefLabel" content="contours" />
+    <meta itemprop="notation" content="a" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#z" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="other methods of relief representation" />
+    <meta itemprop="notation" content="z" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7602" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartrel#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#x" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartrel#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7601" />
+    <meta itemprop="prefLabel" content="not applicable" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="x" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#b" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartrel#" />
+    <meta itemprop="prefLabel" content="continuous tone shaded relief" />
+    <meta itemprop="notation" content="b" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7591" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#j" itemscope>
+    <meta itemprop="prefLabel" content="landforms" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7599" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartrel#" />
+    <meta itemprop="scopeNote" content="E.g. in the style of Lobeck, Raisz, Fenneman." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="j" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#e" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="e" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7594" />
+    <meta itemprop="prefLabel" content="bathymetry - soundings" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartrel#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#c" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7592" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartrel#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="hypsometric tints - layer method" />
+    <meta itemprop="notation" content="c" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#d" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartrel#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7593" />
+    <meta itemprop="notation" content="d" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="hachures" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#i" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartrel#" />
+    <meta itemprop="prefLabel" content="pictorially" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7598" />
+    <meta itemprop="notation" content="i" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#k" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="bathymetry - isolines" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartrel#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7600" />
+    <meta itemprop="notation" content="k" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#g" itemscope>
+    <meta itemprop="notation" content="g" />
+    <meta itemprop="prefLabel" content="spot heights" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7596" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartrel#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartrel#f" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7595" />
+    <meta itemprop="prefLabel" content="form lines" />
+    <meta itemprop="notation" content="f" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartrel#" />
+  </div>
+</div>

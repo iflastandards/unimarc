@@ -1,0 +1,47 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  prefix="
+    rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    skos: http://www.w3.org/2004/02/skos/core#
+    reg: http://metadataregistry.org/uri/profile/regap/
+    dc: http://purl.org/dc/elements/1.1/
+    rdfs: http://www.w3.org/2000/01/rdf-schema#"
+  >
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/attos#c">
+    <div property="skos:prefLabel" xml:lang="en" content="vertical"></div>
+    <div rel="skos:inScheme">
+      <div typeof="skos:ConceptScheme" about="http://iflastandards.info/ns/unimarc/terms/attos#">
+        <div rel="skos:hasTopConcept" resource="http://iflastandards.info/ns/unimarc/terms/attos#b"></div>
+        <div rel="skos:hasTopConcept" resource="http://iflastandards.info/ns/unimarc/terms/attos#c"></div>
+        <div property="dc:title" content="UNIMARC: Cartographic materials: Attitude of sensor"></div>
+        <div rel="skos:hasTopConcept" resource="http://iflastandards.info/ns/unimarc/terms/attos#a"></div>
+      </div>
+    </div>
+    <div rel="reg:status">
+      <div typeof="skos:Concept" about="http://metadataregistry.org/uri/RegStatus/1001">
+        <div property="skos:prefLabel" xml:lang="en" content="Published"></div>
+      </div>
+    </div>
+    <div rel="skos:topConceptOf" resource="http://iflastandards.info/ns/unimarc/terms/attos#"></div>
+    <div property="skos:notation" xml:lang="en" content="c"></div>
+    <div property="skos:definition" xml:lang="en" content="Vertical attitude."></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/6428"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/attos#a">
+    <div property="skos:notation" xml:lang="en" content="a"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="low oblique"></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/attos#"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/6426"></div>
+    <div property="skos:definition" xml:lang="en" content="Low oblique attitude."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="skos:topConceptOf" resource="http://iflastandards.info/ns/unimarc/terms/attos#"></div>
+  </div>
+  <div typeof="skos:Concept" about="http://iflastandards.info/ns/unimarc/terms/attos#b">
+    <div rel="skos:topConceptOf" resource="http://iflastandards.info/ns/unimarc/terms/attos#"></div>
+    <div rel="reg:identifier" resource="http://metadataregistry.org/concepts/6427"></div>
+    <div property="skos:prefLabel" xml:lang="en" content="high oblique"></div>
+    <div property="skos:notation" xml:lang="en" content="b"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="High oblique attitude."></div>
+    <div rel="skos:inScheme" resource="http://iflastandards.info/ns/unimarc/terms/attos#"></div>
+  </div>
+</div>

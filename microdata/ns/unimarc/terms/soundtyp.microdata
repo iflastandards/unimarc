@@ -1,0 +1,100 @@
+<div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtyp#u " itemscope>
+    <div itemprop="inScheme" itemtype="http://www.w3.org/2004/02/skos/core#ConceptScheme" itemid="http://iflastandards.info/ns/unimarc/terms/soundtyp#" itemscope>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtyp#f " itemscope>
+        <meta itemprop="notation" content="f " />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <meta itemprop="prefLabel" content="mother" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7500" />
+        <meta itemprop="definition" content="Positive." />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtyp#c " itemscope>
+        <meta itemprop="prefLabel" content="master tape" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7497" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <meta itemprop="notation" content="c " />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+      </div>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC: Sound recordings: Type of recording" />
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtyp#g " itemscope>
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="notation" content="g " />
+        <meta itemprop="definition" content="Negative." />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7501" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <meta itemprop="prefLabel" content="stamper" />
+      </div>
+      <link itemprop="hasTopConcept" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#u " />
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtyp#z" itemscope>
+        <meta itemprop="prefLabel" content="other" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="notation" content="z" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7505" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtyp#h " itemscope>
+        <meta itemprop="prefLabel" content="test pressing" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <meta itemprop="notation" content="h " />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7502" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtyp#d " itemscope>
+        <meta itemprop="notation" content="d " />
+        <meta itemprop="prefLabel" content="tape duplication master" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7498" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtyp#x" itemscope>
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7504" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <meta itemprop="notation" content="x" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="prefLabel" content="not applicable" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtyp#b " itemscope>
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <meta itemprop="prefLabel" content="mass produced" />
+        <meta itemprop="scopeNote" content="Includes most commercial discs or tapes." />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7496" />
+        <meta itemprop="notation" content="b " />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtyp#e " itemscope>
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <meta itemprop="definition" content="Negative." />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="prefLabel" content="disc master" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <meta itemprop="notation" content="e " />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7499" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/soundtyp#a " itemscope>
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7495" />
+        <meta itemprop="definition" content="Unique, cut on the spot." />
+        <meta itemprop="notation" content="a " />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+        <meta itemprop="prefLabel" content="instantaneous" />
+      </div>
+    </div>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7503" />
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <meta itemprop="prefLabel" content="unknown" />
+    <meta itemprop="notation" content="u " />
+    <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/soundtyp#" />
+  </div>
+</div>

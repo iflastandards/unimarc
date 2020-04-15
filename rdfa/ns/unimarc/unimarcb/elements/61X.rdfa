@@ -1,0 +1,277 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  prefix="
+    rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    skos: http://www.w3.org/2004/02/skos/core#
+    reg: http://metadataregistry.org/uri/profile/regap/
+    dc: http://purl.org/dc/elements/1.1/
+    rdfs: http://www.w3.org/2000/01/rdf-schema#"
+  >
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U6100_a">
+    <div rel="reg:status">
+      <div typeof="skos:Concept" about="http://metadataregistry.org/uri/RegStatus/1001">
+        <div property="skos:prefLabel" xml:lang="en" content="Published"></div>
+      </div>
+    </div>
+    <div property="rdfs:label" xml:lang="en" content="has Subject term in Uncontrolled subject terms (No level specified)"></div>
+    <div property="reg:name" xml:lang="en" content="hasSubjectTermInUncontrolledSubjectTermsNoLevelSpecified"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasSubjectTermInUncontrolledSubjectTermsNoLevelSpecified.en"></div>
+    <div rel="rdfs:isDefinedBy">
+      <div typeof="rdfs:Resource" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/">
+        <div property="dc:title" xml:lang="en" content="UNIMARC/B elements 61X"></div>
+      </div>
+    </div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U615__x">
+    <div property="skos:definition" xml:lang="en" content="The term added to the subject category to specify a particular aspect of the subject category."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasSubjectCategorySubdivisionTextInSubjectCategoryProvisional"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Subject category subdivision text in Subject category (provisional)"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasSubjectCategorySubdivisionTextInSubjectCategoryProvisional.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U615__n">
+    <div property="skos:definition" xml:lang="en" content="A coded representation of a subject category."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Subject category code in Subject category (provisional)"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasSubjectCategoryCodeInSubjectCategoryProvisional.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasSubjectCategoryCodeInSubjectCategoryProvisional"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__b">
+    <div rel="reg:lexicalAlias" resource="u61x:hasStateOrProvinceEtcInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasStateOrProvinceEtcInHierarchicalGeographicalNameUsedAsSubject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="First-order political jurisdiction below a country."></div>
+    <div property="rdfs:label" xml:lang="en" content="has State or province, etc. in Hierarchical geographical name used as subject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__f">
+    <div property="skos:definition" xml:lang="en" content="The dates between which a particular trademark was in use."></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasDatesInTrademarkUsedAsSubject.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Dates in Trademark used as subject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasDatesInTrademarkUsedAsSubject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U615__a">
+    <div property="rdfs:label" xml:lang="en" content="has Subject category entry element text in Subject category (provisional)"></div>
+    <div property="reg:name" xml:lang="en" content="hasSubjectCategoryEntryElementTextInSubjectCategoryProvisional"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasSubjectCategoryEntryElementTextInSubjectCategoryProvisional.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The term in the form prescribed by the system of subject categories used."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__x">
+    <div property="rdfs:label" xml:lang="en" content="has Topical subdivision in Trademark used as subject"></div>
+    <div property="reg:name" xml:lang="en" content="hasTopicalSubdivisionInTrademarkUsedAsSubject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasTopicalSubdivisionInTrademarkUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the topic the heading represents."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__d">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasCityEtcInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has City, etc. in Hierarchical geographical name used as subject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasCityEtcInHierarchicalGeographicalNameUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="The name of a city, town, commune, village or other distinct populated area not defined as a subsection of a larger one."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U615__2">
+    <div property="rdfs:label" xml:lang="en" content="has System code in Subject category (provisional)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasSystemCodeInSubjectCategoryProvisional.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInSubjectCategoryProvisional"></div>
+    <div property="skos:definition" xml:lang="en" content="An identification in coded form of the system from which the subject category is derived."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U615__m">
+    <div property="reg:name" xml:lang="en" content="hasSubjectCategorySubdivisionCodeInSubjectCategoryProvisional"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasSubjectCategorySubdivisionCodeInSubjectCategoryProvisional.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="skos:definition" xml:lang="en" content="A coded representation of a subject category subdivision."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Subject category subdivision code in Subject category (provisional)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U615__3">
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Subject category (provisional)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasAuthorityRecordNumberInSubjectCategoryProvisional.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInSubjectCategoryProvisional"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__y">
+    <div property="reg:name" xml:lang="en" content="hasGeographicalSubdivisionInTrademarkUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify a place in relation to a trademark which the subject heading represents."></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasGeographicalSubdivisionInTrademarkUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Geographical subdivision in Trademark used as subject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__f">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasDateInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasDateInHierarchicalGeographicalNameUsedAsSubject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date in Hierarchical geographical name used as subject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__n">
+    <div property="rdfs:label" xml:lang="en" content="has Extraterrestrial areas in Hierarchical geographical name used as subject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasExtraterrestrialAreasInHierarchicalGeographicalNameUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasExtraterrestrialAreasInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="Any extraterrestrial entity or space, and the geographic features of such entities."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__a">
+    <div property="rdfs:label" xml:lang="en" content="has Entry element in Trademark used as subject"></div>
+    <div property="skos:definition" xml:lang="en" content="The trademark name in access point form."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasEntryElementInTrademarkUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasEntryElementInTrademarkUsedAsSubject.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__o">
+    <div property="rdfs:label" xml:lang="en" content="has Geographical areas such as world, hemisphere, continent: larger area than country in Hierarchical geographical name used as subject"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasGeographicalAreasSuchAsWorldHemisphereContinentLargerAreaThanCountryInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Geographical areas."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes world, hemisphere, continent: larger area than country."></div>
+    <div property="reg:name" xml:lang="en" content="hasGeographicalAreasSuchAsWorldHemisphereContinentLargerAreaThanCountryInHierarchicalGeographicalNameUsedAsSubject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__2">
+    <div rel="reg:lexicalAlias" resource="u61x:hasSystemCodeInTrademarkUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInTrademarkUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="An identification in coded form of the system from which the subject category is derived."></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Trademark used as subject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__m">
+    <div property="rdfs:label" xml:lang="en" content="has Other geographical regions or features in Hierarchical geographical name used as subject"></div>
+    <div property="reg:name" xml:lang="en" content="hasOtherGeographicalRegionsOrFeaturesInHierarchicalGeographicalNameUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="Terrestrial non-jurisdictional geographic entities."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes oceans, islands, mountains, etc."></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasOtherGeographicalRegionsOrFeaturesInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__z">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Chronological subdivision in Trademark used as subject"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasChronologicalSubdivisionInTrademarkUsedAsSubject.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to specify the period in time in relation to a trademark which the subject heading represents."></div>
+    <div property="reg:name" xml:lang="en" content="hasChronologicalSubdivisionInTrademarkUsedAsSubject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__j">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Form subdivision in Trademark used as subject"></div>
+    <div property="skos:definition" xml:lang="en" content="A term added to a subject heading to further specify the kind(s) or genre(s) of material."></div>
+    <div property="reg:name" xml:lang="en" content="hasFormSubdivisionInTrademarkUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasFormSubdivisionInTrademarkUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__i">
+    <div property="reg:name" xml:lang="en" content="hasFinalDateInHierarchicalGeographicalNameUsedAsSubject"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Final date in Hierarchical geographical name used as subject"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasFinalDateInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__3">
+    <div rel="reg:lexicalAlias" resource="u61x:hasAuthorityRecordNumberInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInHierarchicalGeographicalNameUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Hierarchical geographical name used as subject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__k">
+    <div property="reg:name" xml:lang="en" content="hasSubsectionOfCityEtcInHierarchicalGeographicalNameUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="Smaller unit within a populated place."></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Subsection of city, etc. in Hierarchical geographical name used as subject"></div>
+    <div property="skos:scopeNote" xml:lang="en" content="Includes, e.g. boroughs, neighbourhoods, streets."></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasSubsectionOfCityEtcInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__a">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasCountryNationStateInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="skos:definition" xml:lang="en" content="Country."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Country (nation state) in Hierarchical geographical name used as subject"></div>
+    <div property="reg:name" xml:lang="en" content="hasCountryNationStateInHierarchicalGeographicalNameUsedAsSubject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__h">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasOccasionInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Occasion in Hierarchical geographical name used as subject"></div>
+    <div property="reg:name" xml:lang="en" content="hasOccasionInHierarchicalGeographicalNameUsedAsSubject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__c">
+    <div property="reg:name" xml:lang="en" content="hasIntermediatePoliticalJurisdictionInHierarchicalGeographicalNameUsedAsSubject"></div>
+    <div property="skos:definition" xml:lang="en" content="Second-order or lower political jurisdiction, but not including cities, etc."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Intermediate political jurisdiction. in Hierarchical geographical name used as subject"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasIntermediatePoliticalJurisdictionInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__g">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasSeasonInHierarchicalGeographicalNameUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasSeasonInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Season in Hierarchical geographical name used as subject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__3">
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasAuthorityRecordNumberInTrademarkUsedAsSubject.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInTrademarkUsedAsSubject"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Trademark used as subject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U6102_a">
+    <div property="rdfs:label" xml:lang="en" content="has Subject term in Uncontrolled subject terms (Secondary term)"></div>
+    <div property="reg:name" xml:lang="en" content="hasSubjectTermInUncontrolledSubjectTermsSecondaryTerm"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasSubjectTermInUncontrolledSubjectTermsSecondaryTerm.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__e">
+    <div property="rdfs:label" xml:lang="en" content="has Venue in Hierarchical geographical name used as subject"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasVenueInHierarchicalGeographicalNameUsedAsSubject"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasVenueInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Named buildings, urban spaces, vehicles, etc."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__2">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasSystemCodeInHierarchicalGeographicalNameUsedAsSubject.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="skos:definition" xml:lang="en" content="An identification in coded form of the system from which the subject category is derived."></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInHierarchicalGeographicalNameUsedAsSubject"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Hierarchical geographical name used as subject"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__c">
+    <div property="reg:name" xml:lang="en" content="hasQualificationInTrademarkUsedAsSubject"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Qualification in Trademark used as subject"></div>
+    <div property="skos:definition" xml:lang="en" content="Any addition to the name of the trademark added by the cataloguer."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasQualificationInTrademarkUsedAsSubject.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U6101_a">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Subject term in Uncontrolled subject terms (Primary term)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasSubjectTermInUncontrolledSubjectTermsPrimaryTerm"></div>
+    <div rel="reg:lexicalAlias" resource="u61x:hasSubjectTermInUncontrolledSubjectTermsPrimaryTerm.en"></div>
+  </div>
+</div>

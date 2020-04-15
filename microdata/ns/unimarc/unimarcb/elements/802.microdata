@@ -1,0 +1,14 @@
+<div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/802/U802__a" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasIssnCentreCodeInIssnCentre" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/802/hasIssnCentreCodeInIssnCentre.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Issn centre code in Issn centre" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="A code assigned by the ISSN International Centre." />
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <div itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/802/" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC/B elements 802" />
+    </div>
+  </div>
+</div>

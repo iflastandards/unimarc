@@ -1,0 +1,118 @@
+<div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#gd" itemscope>
+    <meta itemprop="definition" content="Earth resources satellite." />
+    <div itemprop="inScheme" itemtype="http://www.w3.org/2004/02/skos/core#ConceptScheme" itemid="http://iflastandards.info/ns/unimarc/terms/satname#" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC: Cartographic materials: Name of satellite" />
+    </div>
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <meta itemprop="notation" content="gd" />
+    <meta itemprop="prefLabel" content="Landsat III" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7653" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#ac" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="ac" />
+    <meta itemprop="prefLabel" content="NOAA" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7647" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/satname#" />
+    <meta itemprop="definition" content="Meteorological satellite." />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#gb" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7651" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/satname#" />
+    <meta itemprop="notation" content="gb" />
+    <meta itemprop="definition" content="Earth resources satellite." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="Landsat I" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#mb" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/satname#" />
+    <meta itemprop="prefLabel" content="Explorer II" />
+    <meta itemprop="definition" content="Space observing satellite." />
+    <meta itemprop="notation" content="mb" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7658" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#ma" itemscope>
+    <meta itemprop="prefLabel" content="Explorer I" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7657" />
+    <meta itemprop="notation" content="ma" />
+    <meta itemprop="definition" content="Space observing satellite." />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/satname#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#aa" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="Tiros" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7645" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/satname#" />
+    <meta itemprop="definition" content="Meteorological satellite." />
+    <meta itemprop="notation" content="aa" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#gf" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="gf" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/satname#" />
+    <meta itemprop="prefLabel" content="Skylab" />
+    <meta itemprop="definition" content="Earth resources satellite." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7655" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#ad" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/satname#" />
+    <meta itemprop="definition" content="Meteorological satellite." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7648" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="Nimbus" />
+    <meta itemprop="notation" content="ad" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#gg" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="Spacelab" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7656" />
+    <meta itemprop="definition" content="Earth resources satellite." />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/satname#" />
+    <meta itemprop="notation" content="gg" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#gc" itemscope>
+    <meta itemprop="definition" content="Earth resources satellite." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="gc" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7652" />
+    <meta itemprop="prefLabel" content="Landsat II" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/satname#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#ge" itemscope>
+    <meta itemprop="prefLabel" content="Seasat" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7654" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/satname#" />
+    <meta itemprop="notation" content="ge" />
+    <meta itemprop="definition" content="Earth resources satellite." />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#ga" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/satname#" />
+    <meta itemprop="definition" content="Earth resources satellite." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7650" />
+    <meta itemprop="prefLabel" content="ERTS" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="ga" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#ab" itemscope>
+    <meta itemprop="definition" content="Meteorological satellite." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="ab" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/satname#" />
+    <meta itemprop="prefLabel" content="ATS" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7646" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/satname#ae" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7649" />
+    <meta itemprop="prefLabel" content="METEOSAT" />
+    <meta itemprop="definition" content="Meteorological satellite." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="ae" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/satname#" />
+  </div>
+</div>

@@ -1,0 +1,32 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  prefix="
+    rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    skos: http://www.w3.org/2004/02/skos/core#
+    reg: http://metadataregistry.org/uri/profile/regap/
+    dc: http://purl.org/dc/elements/1.1/
+    rdfs: http://www.w3.org/2000/01/rdf-schema#"
+  >
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/66X/U660__a">
+    <div property="rdfs:label" xml:lang="en" content="has Code in Geographic area code"></div>
+    <div rel="reg:status">
+      <div typeof="skos:Concept" about="http://metadataregistry.org/uri/RegStatus/1001">
+        <div property="skos:prefLabel" xml:lang="en" content="Published"></div>
+      </div>
+    </div>
+    <div rel="rdfs:isDefinedBy">
+      <div typeof="rdfs:Resource" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/66X/">
+        <div property="dc:title" xml:lang="en" content="UNIMARC/B elements 66X"></div>
+      </div>
+    </div>
+    <div property="reg:name" xml:lang="en" content="hasCodeInGeographicAreaCode"></div>
+    <div rel="reg:lexicalAlias" resource="ub6xx:hasCodeInGeographicAreaCode.en"></div>
+    <div property="skos:definition" xml:lang="en" content="Geographic area code."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/66X/U661__a">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/66X/hasTimePeriodCodeInTimePeriodCode.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasTimePeriodCodeInTimePeriodCode"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/66X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Time period code in Time period code"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+</div>

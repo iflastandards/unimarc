@@ -1,0 +1,367 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  prefix="
+    reg: http://metadataregistry.org/uri/profile/regap/
+    rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    skos: http://www.w3.org/2004/02/skos/core#
+    dc: http://purl.org/dc/elements/1.1/
+    rdfs: http://www.w3.org/2000/01/rdf-schema#"
+  >
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_00">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasBibliographicRecordIdentifierInItemReviewedDoNotMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy">
+      <div typeof="rdfs:Resource" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/">
+        <div property="dc:title" xml:lang="en" content="UNIMARC/B elements 47X"></div>
+      </div>
+    </div>
+    <div rel="reg:status">
+      <div typeof="skos:Concept" about="http://metadataregistry.org/uri/RegStatus/1001">
+        <div property="skos:prefLabel" xml:lang="en" content="Published"></div>
+      </div>
+    </div>
+    <div property="reg:name" xml:lang="en" content="hasBibliographicRecordIdentifierInItemReviewedDoNotMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Bibliographic record identifier in Item reviewed (Do not make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1d">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasDateOfPublicationInItemReviewedMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date of publication in Item reviewed (Make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasDateOfPublicationInItemReviewedMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1f">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has First statement of responsibility in Item reviewed (Make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasFirstStatementOfResponsibilityInItemReviewedMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasFirstStatementOfResponsibilityInItemReviewedMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1o">
+    <div property="rdfs:label" xml:lang="en" content="has Other title information in Item reviewed (Make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasOtherTitleInformationInItemReviewedMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasOtherTitleInformationInItemReviewedMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0s">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasSeriesStatementInItemReviewedDoNotMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Series statement in Item reviewed (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasSeriesStatementInItemReviewedDoNotMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0d">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasDateOfPublicationInItemReviewedDoNotMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Date of publication in Item reviewed (Do not make a note)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasDateOfPublicationInItemReviewedDoNotMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1y">
+    <div property="reg:name" xml:lang="en" content="hasInternationalStandardBookNumberInItemReviewedMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasInternationalStandardBookNumberInItemReviewedMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has International Standard Book Number in Item reviewed (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0h">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberOfSectionOrPartInItemReviewedDoNotMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasNumberOfSectionOrPartInItemReviewedDoNotMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Number of section or part in Item reviewed (Do not make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_13">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasAuthorityRecordNumberInItemReviewedMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Item reviewed (Make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInItemReviewedMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0z">
+    <div property="rdfs:label" xml:lang="en" content="has CODEN in Item reviewed (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasCodenInItemReviewedDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasCodenInItemReviewedDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1g">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasSubsequentStatementOfResponsibilityInItemReviewedMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Subsequent statement of responsibility in Item reviewed (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasSubsequentStatementOfResponsibilityInItemReviewedMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1t">
+    <div property="reg:name" xml:lang="en" content="hasTitleInItemReviewedMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Title in Item reviewed (Make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasTitleInItemReviewedMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0f">
+    <div property="rdfs:label" xml:lang="en" content="has First statement of responsibility in Item reviewed (Do not make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasFirstStatementOfResponsibilityInItemReviewedDoNotMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasFirstStatementOfResponsibilityInItemReviewedDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0e">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasEditionStatementInItemReviewedDoNotMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasEditionStatementInItemReviewedDoNotMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Edition statement in Item reviewed (Do not make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1m">
+    <div property="rdfs:label" xml:lang="en" content="has International Standard Music Number in Item reviewed (Make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasInternationalStandardMusicNumberInItemReviewedMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasInternationalStandardMusicNumberInItemReviewedMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0t">
+    <div property="rdfs:label" xml:lang="en" content="has Title in Item reviewed (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasTitleInItemReviewedDoNotMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasTitleInItemReviewedDoNotMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0l">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasParallelTitleInItemReviewedDoNotMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Parallel title in Item reviewed (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasParallelTitleInItemReviewedDoNotMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_03">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorityRecordNumberInItemReviewedDoNotMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Authority record number in Item reviewed (Do not make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasAuthorityRecordNumberInItemReviewedDoNotMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1p">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasPhysicalDescriptionInItemReviewedMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasPhysicalDescriptionInItemReviewedMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Physical description in Item reviewed (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0n">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Name of publisher, distributor, etc. in Item reviewed (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasNameOfPublisherDistributorEtcInItemReviewedDoNotMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasNameOfPublisherDistributorEtcInItemReviewedDoNotMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0y">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasInternationalStandardBookNumberInItemReviewedDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasInternationalStandardBookNumberInItemReviewedDoNotMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has International Standard Book Number in Item reviewed (Do not make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0p">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasPhysicalDescriptionInItemReviewedDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Physical description in Item reviewed (Do not make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasPhysicalDescriptionInItemReviewedDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1c">
+    <div property="reg:name" xml:lang="en" content="hasPlaceOfPublicationInItemReviewedMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Place of publication in Item reviewed (Make a note)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasPlaceOfPublicationInItemReviewedMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasAuthorInItemReviewedMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorInItemReviewedMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Author in Item reviewed (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1v">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasVolumeNumberInItemReviewedMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasVolumeNumberInItemReviewedMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Volume number in Item reviewed (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1l">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Parallel title in Item reviewed (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasParallelTitleInItemReviewedMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasParallelTitleInItemReviewedMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0i">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Name of section or part in Item reviewed (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasNameOfSectionOrPartInItemReviewedDoNotMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasNameOfSectionOrPartInItemReviewedDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_10">
+    <div property="reg:name" xml:lang="en" content="hasBibliographicRecordIdentifierInItemReviewedMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Bibliographic record identifier in Item reviewed (Make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasBibliographicRecordIdentifierInItemReviewedMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0u">
+    <div property="reg:name" xml:lang="en" content="hasUniformResourceIdentifierInItemReviewedDoNotMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasUniformResourceIdentifierInItemReviewedDoNotMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Uniform Resource Identifier in Item reviewed (Do not make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1b">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasGeneralMaterialDesignationInItemReviewedMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeneralMaterialDesignationInItemReviewedMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has General material designation in Item reviewed (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1h">
+    <div property="rdfs:label" xml:lang="en" content="has Number of section or part in Item reviewed (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasNumberOfSectionOrPartInItemReviewedMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasNumberOfSectionOrPartInItemReviewedMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_11">
+    <div property="rdfs:label" xml:lang="en" content="has Linking data in Item reviewed (Make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasLinkingDataInItemReviewedMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasLinkingDataInItemReviewedMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0v">
+    <div property="reg:name" xml:lang="en" content="hasVolumeNumberInItemReviewedDoNotMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasVolumeNumberInItemReviewedDoNotMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Volume number in Item reviewed (Do not make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0x">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has ISSN in Item reviewed (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasIssnInItemReviewedDoNotMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasIssnInItemReviewedDoNotMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_05">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasInstitutionToWhichFieldAppliesInItemReviewedDoNotMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Institution to which field applies in Item reviewed (Do not make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasInstitutionToWhichFieldAppliesInItemReviewedDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1u">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Uniform Resource Identifier in Item reviewed (Make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasUniformResourceIdentifierInItemReviewedMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasUniformResourceIdentifierInItemReviewedMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1e">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasEditionStatementInItemReviewedMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasEditionStatementInItemReviewedMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Edition statement in Item reviewed (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_01">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasLinkingDataInItemReviewedDoNotMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Linking data in Item reviewed (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasLinkingDataInItemReviewedDoNotMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0b">
+    <div property="rdfs:label" xml:lang="en" content="has General material designation in Item reviewed (Do not make a note)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasGeneralMaterialDesignationInItemReviewedDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasGeneralMaterialDesignationInItemReviewedDoNotMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0m">
+    <div property="rdfs:label" xml:lang="en" content="has International Standard Music Number in Item reviewed (Do not make a note)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasInternationalStandardMusicNumberInItemReviewedDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasInternationalStandardMusicNumberInItemReviewedDoNotMakeANote.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0o">
+    <div property="reg:name" xml:lang="en" content="hasOtherTitleInformationInItemReviewedDoNotMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Other title information in Item reviewed (Do not make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasOtherTitleInformationInItemReviewedDoNotMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1n">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasNameOfPublisherDistributorEtcInItemReviewedMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasNameOfPublisherDistributorEtcInItemReviewedMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Name of publisher, distributor, etc. in Item reviewed (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0g">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasSubsequentStatementOfResponsibilityInItemReviewedDoNotMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasSubsequentStatementOfResponsibilityInItemReviewedDoNotMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Subsequent statement of responsibility in Item reviewed (Do not make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1s">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasSeriesStatementInItemReviewedMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Series statement in Item reviewed (Make a note)"></div>
+    <div property="reg:name" xml:lang="en" content="hasSeriesStatementInItemReviewedMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_15">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasInstitutionToWhichFieldAppliesInItemReviewedMakeANote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasInstitutionToWhichFieldAppliesInItemReviewedMakeANote.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Institution to which field applies in Item reviewed (Make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1x">
+    <div property="reg:name" xml:lang="en" content="hasIssnInItemReviewedMakeANote"></div>
+    <div property="rdfs:label" xml:lang="en" content="has ISSN in Item reviewed (Make a note)"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasIssnInItemReviewedMakeANote.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0a">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasAuthorInItemReviewedDoNotMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasAuthorInItemReviewedDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Author in Item reviewed (Do not make a note)"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1z">
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasCodenInItemReviewedMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has CODEN in Item reviewed (Make a note)"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasCodenInItemReviewedMakeANote"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_0c">
+    <div property="rdfs:label" xml:lang="en" content="has Place of publication in Item reviewed (Do not make a note)"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasPlaceOfPublicationInItemReviewedDoNotMakeANote.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasPlaceOfPublicationInItemReviewedDoNotMakeANote"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/U470_1i">
+    <div property="reg:name" xml:lang="en" content="hasNameOfSectionOrPartInItemReviewedMakeANote"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/47X/hasNameOfSectionOrPartInItemReviewedMakeANote.en"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Name of section or part in Item reviewed (Make a note)"></div>
+  </div>
+</div>

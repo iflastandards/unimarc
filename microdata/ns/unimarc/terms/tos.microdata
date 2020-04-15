@@ -1,0 +1,266 @@
+<div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#l" itemscope>
+    <meta itemprop="prefLabel" content="solo part" />
+    <meta itemprop="notation" content="l" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6464" />
+    <meta itemprop="definition" content="Score consisting of a part containing only one solo for a voice of a choir" />
+    <meta itemprop="altLabel" content="Cartina" />
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <div itemprop="topConceptOf" itemtype="http://www.w3.org/2004/02/skos/core#ConceptScheme" itemid="http://iflastandards.info/ns/unimarc/terms/tos#" itemscope>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#j" itemscope>
+        <meta itemprop="notation" content="j" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="altLabel" content="particella" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="altLabel" content="Generalbaβpartitur" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6462" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="prefLabel" content="compressed score" />
+        <meta itemprop="altLabel" content="partitura de coro y continuo" />
+        <meta itemprop="altLabel" content="particella" />
+        <meta itemprop="altLabel" content="Cembalo-Partitur" />
+        <meta itemprop="definition" content="Score of only voices and continuo, omitting the other instruments." />
+      </div>
+      <link itemprop="hasTopConcept" href="http://iflastandards.info/ns/unimarc/terms/tos#l" />
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#g" itemscope>
+        <meta itemprop="notation" content="g" />
+        <meta itemprop="altLabel" content="partition réduite" />
+        <meta itemprop="prefLabel" content="close score" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6459" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="definition" content="Score format giving all the parts on a minimum number of staves, normally two, as with hymnals." />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="altLabel" content="short score" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="altLabel" content="partitura reducida" />
+        <meta itemprop="altLabel" content="partitura ristretta" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#i" itemscope>
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="altLabel" content="libro corale" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="notation" content="i" />
+        <meta itemprop="altLabel" content="kóruskönyv" />
+        <meta itemprop="definition" content="Score format giving the different vocal parts on two facing pages of the book." />
+        <meta itemprop="altLabel" content="libro de coro" />
+        <meta itemprop="altLabel" content="Chorbuch" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6461" />
+        <meta itemprop="prefLabel" content="choir-book" />
+        <meta itemprop="altLabel" content="livre de choeur" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#a" itemscope>
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6453" />
+        <meta itemprop="altLabel" content="партитура" />
+        <meta itemprop="altLabel" content="Spielpartitur" />
+        <meta itemprop="definition" content="Score format consisting of a series of staves on which all the instrumental and/or vocal parts of a musical work are written, one under the other in vertical alignment, so that they can be read simultaneously" />
+        <meta itemprop="altLabel" content="Partitur" />
+        <meta itemprop="notation" content="a" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="altLabel" content="partition d’orchestre" />
+        <meta itemprop="altLabel" content="Orchesterpartitur" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="altLabel" content="vezérkönyv" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="prefLabel" content="full score" />
+        <meta itemprop="altLabel" content="playing score" />
+        <meta itemprop="altLabel" content="partitura" />
+        <meta itemprop="altLabel" content="partition" />
+        <meta itemprop="altLabel" content="score" />
+        <meta itemprop="altLabel" content="partitura" />
+        <meta itemprop="altLabel" content="performance score" />
+        <meta itemprop="altLabel" content="grande partition" />
+        <meta itemprop="altLabel" content="Partitura" />
+        <meta itemprop="altLabel" content="parte con guida" />
+        <meta itemprop="altLabel" content="partitúra" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#x" itemscope>
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="prefLabel" content="not applicable" />
+        <meta itemprop="definition" content="Not printed or manuscript music." />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="notation" content="x" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6468" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#o" itemscope>
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="altLabel" content="testo e accordi" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6465" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="altLabel" content="text and chords" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="notation" content="o" />
+        <meta itemprop="prefLabel" content="condensed score with text and chord symbols" />
+        <meta itemprop="definition" content="Score frequently used in modern pop music, consisting generally in a melodic line with letters and/or graphic symbols representing chords or finger positions on the guitar." />
+        <meta itemprop="altLabel" content="texte et accords" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#z" itemscope>
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="notation" content="z" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6469" />
+        <meta itemprop="prefLabel" content="other" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#d" itemscope>
+        <meta itemprop="altLabel" content="karpartitúra" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="definition" content="Score where the accompaniment to vocal or choral parts has been omitted and only the voice parts remain." />
+        <meta itemprop="altLabel" content="Singpartitur" />
+        <meta itemprop="prefLabel" content="voice score, chorus score, accompaniment has been dropped" />
+        <meta itemprop="altLabel" content="partitura vocale" />
+        <meta itemprop="altLabel" content="partition des chœurs" />
+        <meta itemprop="altLabel" content="partitura de coro" />
+        <meta itemprop="altLabel" content="kóruspartitúra" />
+        <meta itemprop="notation" content="d" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="altLabel" content="choral score" />
+        <meta itemprop="altLabel" content="хоровая партитура" />
+        <meta itemprop="altLabel" content="Chorpartitur" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6456" />
+        <meta itemprop="altLabel" content="horovaja partitura" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#b" itemscope>
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="altLabel" content="карманная партитура" />
+        <meta itemprop="altLabel" content="petite partition" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6454" />
+        <meta itemprop="altLabel" content="Taschenpartitur" />
+        <meta itemprop="altLabel" content="Studienpartitur" />
+        <meta itemprop="notation" content="b" />
+        <meta itemprop="definition" content="A musical score not primarily intended for performance use, with the notation and/or text reduced in size." />
+        <meta itemprop="altLabel" content="partition de poche" />
+        <meta itemprop="altLabel" content="partitura tascabile" />
+        <meta itemprop="altLabel" content="partiturina" />
+        <meta itemprop="altLabel" content="partition de travail" />
+        <meta itemprop="prefLabel" content="score (miniature or study size)" />
+        <meta itemprop="altLabel" content="Zsebpartitúra" />
+        <meta itemprop="altLabel" content="partitura de bolsillo" />
+        <meta itemprop="altLabel" content="kleine Partitur" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="altLabel" content="miniature score" />
+        <meta itemprop="altLabel" content="pocket score" />
+        <meta itemprop="altLabel" content="study score" />
+        <meta itemprop="altLabel" content="partition miniature" />
+        <meta itemprop="altLabel" content="karmannaja partitura" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#n" itemscope>
+        <meta itemprop="altLabel" content="Partitino" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="altLabel" content="parties en accolade" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="altLabel" content="Spartitino" />
+        <meta itemprop="notation" content="n" />
+        <meta itemprop="prefLabel" content="score with only homogeneous groups of instruments of the orchestra" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6471" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#f" itemscope>
+        <meta itemprop="definition" content="Score format presenting only the principal musical parts on a minimum number of staves, and generally organized by instrumental sections. A conductor score is a performance part for a particular instrument of an ensemble work to which cues have been added for the other instruments to permit the performer of the part also to conduct the performance." />
+        <meta itemprop="altLabel" content="parte di conduttore" />
+        <meta itemprop="altLabel" content="Klavierpartitur" />
+        <meta itemprop="altLabel" content="conductor score" />
+        <meta itemprop="altLabel" content="partitura guión" />
+        <meta itemprop="altLabel" content="Direktion" />
+        <meta itemprop="altLabel" content="Direktionsstimme" />
+        <meta itemprop="prefLabel" content="graphic score" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="altLabel" content="partitura condensata" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6458" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="altLabel" content="particela de director" />
+        <meta itemprop="altLabel" content="partition condensée" />
+        <meta itemprop="notation" content="f" />
+        <meta itemprop="prefLabel" content="partition conducteur" />
+      </div>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC: Format of notated music: Type of score" />
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#k" itemscope>
+        <meta itemprop="altLabel" content="pseudo-partition" />
+        <meta itemprop="altLabel" content="Pseudo-Partitur" />
+        <meta itemprop="prefLabel" content="pseudo-score" />
+        <meta itemprop="altLabel" content="Pseudopartitura" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6463" />
+        <meta itemprop="notation" content="k" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="definition" content="Score without vertical coincidence of voices." />
+        <meta itemprop="altLabel" content="Pseudopartitura" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#u" itemscope>
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="prefLabel" content="unknown" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="notation" content="u" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6467" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#e" itemscope>
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6457" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="prefLabel" content="condensed score, piano conductor score" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#c" itemscope>
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="definition" content="Score where accompaniment is reduced for keyboard instrument(s), and the voice and/or instrumental solo part(s) remain unaltered." />
+        <meta itemprop="altLabel" content="partition chant et piano" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="altLabel" content="partitura vocal" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="altLabel" content="Klavierauszug" />
+        <meta itemprop="altLabel" content="chorus score" />
+        <meta itemprop="altLabel" content="Spartito" />
+        <meta itemprop="notation" content="c" />
+        <meta itemprop="altLabel" content="partition vocale" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6455" />
+        <meta itemprop="prefLabel" content="vocal score, accompaniment reduced for keyboard" />
+        <meta itemprop="altLabel" content="Sparte" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#p" itemscope>
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6466" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="notation" content="p" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="prefLabel" content="table book" />
+        <meta itemprop="definition" content="Score consisting of parts written with different orientation on facing pages, so as to enable reading by players standing around a table." />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <meta itemprop="altLabel" content="partitura da tavolo" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#h" itemscope>
+        <meta itemprop="altLabel" content="finger notation" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="altLabel" content="Intavolatura" />
+        <meta itemprop="definition" content="Score consisting of a music notation where letters, numbers or graphic symbols indicate the finger position on the instrument or the name of the notes." />
+        <meta itemprop="altLabel" content="табулатура" />
+        <meta itemprop="notation" content="h" />
+        <meta itemprop="altLabel" content="Tabulatur" />
+        <meta itemprop="altLabel" content="tabulatura" />
+        <meta itemprop="altLabel" content="tablatura" />
+        <meta itemprop="altLabel" content="tablature" />
+        <meta itemprop="altLabel" content="tabulatúra" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6460" />
+        <meta itemprop="altLabel" content="Cifra" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <meta itemprop="prefLabel" content="tablature" />
+      </div>
+      <div itemprop="hasTopConcept" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/tos#m" itemscope>
+        <meta itemprop="prefLabel" content="multiple formats" />
+        <link itemprop="topConceptOf" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/6470" />
+        <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+        <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+      </div>
+    </div>
+    <meta itemprop="altLabel" content="particela (parte) solista" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/tos#" />
+  </div>
+</div>

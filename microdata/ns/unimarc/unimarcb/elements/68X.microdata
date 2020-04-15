@@ -1,0 +1,78 @@
+<div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__3" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasClassificationRecordNumberInOtherClassNumbers" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassificationRecordNumberInOtherClassNumbers.en" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The control number" />
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <div itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC/B elements 68X" />
+    </div>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Classification record number in Other class numbers" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U680__b" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasBookNumberInLibraryOfCongressClassification" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasBookNumberInLibraryOfCongressClassification.en" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The individual book number applied by the cataloguing agency." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Book number in Library of Congress Classification" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U680__3" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The control number." />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasClassificationRecordNumberInLibraryOfCongressClassification" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Classification record number in Library of Congress Classification" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassificationRecordNumberInLibraryOfCongressClassification.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__2" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has System code in Other class numbers" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="A code for the classification scheme used in formulating the number." />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSystemCodeInOtherClassNumbers" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasSystemCodeInOtherClassNumbers.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U680__a" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Class number in Library of Congress Classification" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassNumberInLibraryOfCongressClassification.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The class number taken from the Library of Congress classification schedules." />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasClassNumberInLibraryOfCongressClassification" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__b" itemscope>
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The book number applied by the assigning agency." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasBookNumberInOtherClassNumbers" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasBookNumberInOtherClassNumbers.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Book number in Other class numbers" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__c" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasClassificationSubdivisionInOtherClassNumbers" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassificationSubdivisionInOtherClassNumbers.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Classification subdivision in Other class numbers" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="A subdivision of the class number taken from the classification scheme." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__a" itemscope>
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The class number taken from the classification scheme." />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Class number in Other class numbers" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasClassNumberInOtherClassNumbers" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassNumberInOtherClassNumbers.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__v" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasEditionInOtherClassNumbers" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The number of the scheme edition used." />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Edition in Other class numbers" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasEditionInOtherClassNumbers.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/" />
+  </div>
+</div>

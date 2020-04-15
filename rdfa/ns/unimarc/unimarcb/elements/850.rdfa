@@ -1,0 +1,24 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  prefix="
+    rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    skos: http://www.w3.org/2004/02/skos/core#
+    reg: http://metadataregistry.org/uri/profile/regap/
+    dc: http://purl.org/dc/elements/1.1/
+    rdfs: http://www.w3.org/2000/01/rdf-schema#"
+  >
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/850/U850__a">
+    <div property="rdfs:label" xml:lang="en" content="Has Code of Institution in Holding Institution"></div>
+    <div rel="rdfs:isDefinedBy">
+      <div typeof="rdfs:Resource" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/850/">
+        <div property="dc:title" xml:lang="en" content="UNIMARC/B elements 850"></div>
+      </div>
+    </div>
+    <div property="reg:name" xml:lang="en" content="hasCodeOfInstitutionInHoldingInstitution"></div>
+    <div rel="reg:status">
+      <div typeof="skos:Concept" about="http://metadataregistry.org/uri/RegStatus/1001">
+        <div property="skos:prefLabel" xml:lang="en" content="Published"></div>
+      </div>
+    </div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/850/hasCodeOfInstitutionInHoldingInstitution.en"></div>
+  </div>
+</div>

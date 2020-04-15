@@ -1,0 +1,618 @@
+{
+  "http://iflastandards.info/ns/unimarc/terms/soundtyp#a ": {
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "instantaneous"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/identifier": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/concepts/7495"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Unique, cut on the spot."
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "a "
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/terms/soundtyp#": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+      }
+    ], 
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "type": "literal", 
+        "value": "UNIMARC: Sound recordings: Type of recording"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#hasTopConcept": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#a "
+      }, 
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#e "
+      }, 
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#f "
+      }, 
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#d "
+      }, 
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#b "
+      }, 
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#c "
+      }, 
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#h "
+      }, 
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#g "
+      }, 
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#x"
+      }, 
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#z"
+      }, 
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#u "
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/terms/soundtyp#b ": {
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "mass produced"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/identifier": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/concepts/7496"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Includes most commercial discs or tapes."
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "b "
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/terms/soundtyp#z": {
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "other"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/identifier": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/concepts/7505"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "z"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/terms/soundtyp#x": {
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "not applicable"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/identifier": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/concepts/7504"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "x"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/terms/soundtyp#u ": {
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "unknown"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/identifier": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/concepts/7503"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "u "
+      }
+    ]
+  }, 
+  "http://metadataregistry.org/uri/RegStatus/1001": {
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Published"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/terms/soundtyp#f ": {
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "mother"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/identifier": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/concepts/7500"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Positive."
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "f "
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/terms/soundtyp#g ": {
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "stamper"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/identifier": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/concepts/7501"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Negative."
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "g "
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/terms/soundtyp#c ": {
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "master tape"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/identifier": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/concepts/7497"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "c "
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/terms/soundtyp#h ": {
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "test pressing"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/identifier": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/concepts/7502"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "h "
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/terms/soundtyp#d ": {
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "tape duplication master"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/identifier": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/concepts/7498"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "d "
+      }
+    ]
+  }, 
+  "http://iflastandards.info/ns/unimarc/terms/soundtyp#e ": {
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri", 
+        "value": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "disc master"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/identifier": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/concepts/7499"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "type": "uri", 
+        "value": "http://iflastandards.info/ns/unimarc/terms/soundtyp#"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/regap/status": [
+      {
+        "type": "uri", 
+        "value": "http://metadataregistry.org/uri/RegStatus/1001"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Negative."
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "e "
+      }
+    ]
+  }
+}

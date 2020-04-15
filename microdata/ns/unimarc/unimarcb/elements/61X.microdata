@@ -1,0 +1,266 @@
+<div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__2" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSystemCodeInTrademarkUsedAsSubject" />
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <div itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC/B elements 61X" />
+    </div>
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="An identification in coded form of the system from which the subject category is derived." />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has System code in Trademark used as subject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasSystemCodeInTrademarkUsedAsSubject.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__c" itemscope>
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="Any addition to the name of the trademark added by the cataloguer." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasQualificationInTrademarkUsedAsSubject" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Qualification in Trademark used as subject" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasQualificationInTrademarkUsedAsSubject.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__o" itemscope>
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#scopeNote" content="Includes world, hemisphere, continent: larger area than country." />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Geographical areas such as world, hemisphere, continent: larger area than country in Hierarchical geographical name used as subject" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasGeographicalAreasSuchAsWorldHemisphereContinentLargerAreaThanCountryInHierarchicalGeographicalNameUsedAsSubject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasGeographicalAreasSuchAsWorldHemisphereContinentLargerAreaThanCountryInHierarchicalGeographicalNameUsedAsSubject.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="Geographical areas." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__3" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Authority record number in Hierarchical geographical name used as subject" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorityRecordNumberInHierarchicalGeographicalNameUsedAsSubject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasAuthorityRecordNumberInHierarchicalGeographicalNameUsedAsSubject.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The control number." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Entry element in Trademark used as subject" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The trademark name in access point form." />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasEntryElementInTrademarkUsedAsSubject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasEntryElementInTrademarkUsedAsSubject.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__a" itemscope>
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="Country." />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Country (nation state) in Hierarchical geographical name used as subject" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCountryNationStateInHierarchicalGeographicalNameUsedAsSubject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasCountryNationStateInHierarchicalGeographicalNameUsedAsSubject.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__c" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Intermediate political jurisdiction. in Hierarchical geographical name used as subject" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasIntermediatePoliticalJurisdictionInHierarchicalGeographicalNameUsedAsSubject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="Second-order or lower political jurisdiction, but not including cities, etc." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasIntermediatePoliticalJurisdictionInHierarchicalGeographicalNameUsedAsSubject.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U615__a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasSubjectCategoryEntryElementTextInSubjectCategoryProvisional.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subject category entry element text in Subject category (provisional)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The term in the form prescribed by the system of subject categories used." />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubjectCategoryEntryElementTextInSubjectCategoryProvisional" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__n" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Extraterrestrial areas in Hierarchical geographical name used as subject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="Any extraterrestrial entity or space, and the geographic features of such entities." />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasExtraterrestrialAreasInHierarchicalGeographicalNameUsedAsSubject" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasExtraterrestrialAreasInHierarchicalGeographicalNameUsedAsSubject.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__d" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasCityEtcInHierarchicalGeographicalNameUsedAsSubject.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has City, etc. in Hierarchical geographical name used as subject" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The name of a city, town, commune, village or other distinct populated area not defined as a subsection of a larger one." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCityEtcInHierarchicalGeographicalNameUsedAsSubject" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__h" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Occasion in Hierarchical geographical name used as subject" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasOccasionInHierarchicalGeographicalNameUsedAsSubject.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOccasionInHierarchicalGeographicalNameUsedAsSubject" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U615__m" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subject category subdivision code in Subject category (provisional)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasSubjectCategorySubdivisionCodeInSubjectCategoryProvisional.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubjectCategorySubdivisionCodeInSubjectCategoryProvisional" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="A coded representation of a subject category subdivision." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__x" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasTopicalSubdivisionInTrademarkUsedAsSubject" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Topical subdivision in Trademark used as subject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="A term added to a subject heading to further specify the topic the heading represents." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasTopicalSubdivisionInTrademarkUsedAsSubject.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U6100_a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasSubjectTermInUncontrolledSubjectTermsNoLevelSpecified.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubjectTermInUncontrolledSubjectTermsNoLevelSpecified" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subject term in Uncontrolled subject terms (No level specified)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__2" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has System code in Hierarchical geographical name used as subject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasSystemCodeInHierarchicalGeographicalNameUsedAsSubject.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="An identification in coded form of the system from which the subject category is derived." />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSystemCodeInHierarchicalGeographicalNameUsedAsSubject" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__e" itemscope>
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="Named buildings, urban spaces, vehicles, etc." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasVenueInHierarchicalGeographicalNameUsedAsSubject.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Venue in Hierarchical geographical name used as subject" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasVenueInHierarchicalGeographicalNameUsedAsSubject" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U615__3" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Authority record number in Subject category (provisional)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorityRecordNumberInSubjectCategoryProvisional" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasAuthorityRecordNumberInSubjectCategoryProvisional.en" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The control number." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__f" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDatesInTrademarkUsedAsSubject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasDatesInTrademarkUsedAsSubject.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Dates in Trademark used as subject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The dates between which a particular trademark was in use." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__b" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasStateOrProvinceEtcInHierarchicalGeographicalNameUsedAsSubject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasStateOrProvinceEtcInHierarchicalGeographicalNameUsedAsSubject.en" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="First-order political jurisdiction below a country." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has State or province, etc. in Hierarchical geographical name used as subject" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__k" itemscope>
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="Smaller unit within a populated place." />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subsection of city, etc. in Hierarchical geographical name used as subject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubsectionOfCityEtcInHierarchicalGeographicalNameUsedAsSubject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasSubsectionOfCityEtcInHierarchicalGeographicalNameUsedAsSubject.en" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#scopeNote" content="Includes, e.g. boroughs, neighbourhoods, streets." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__g" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasSeasonInHierarchicalGeographicalNameUsedAsSubject.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Season in Hierarchical geographical name used as subject" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSeasonInHierarchicalGeographicalNameUsedAsSubject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U615__2" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has System code in Subject category (provisional)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSystemCodeInSubjectCategoryProvisional" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasSystemCodeInSubjectCategoryProvisional.en" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="An identification in coded form of the system from which the subject category is derived." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__3" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasAuthorityRecordNumberInTrademarkUsedAsSubject.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Authority record number in Trademark used as subject" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The control number." />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasAuthorityRecordNumberInTrademarkUsedAsSubject" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__j" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasFormSubdivisionInTrademarkUsedAsSubject.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasFormSubdivisionInTrademarkUsedAsSubject" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Form subdivision in Trademark used as subject" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="A term added to a subject heading to further specify the kind(s) or genre(s) of material." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__i" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasFinalDateInHierarchicalGeographicalNameUsedAsSubject.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasFinalDateInHierarchicalGeographicalNameUsedAsSubject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Final date in Hierarchical geographical name used as subject" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U615__x" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubjectCategorySubdivisionTextInSubjectCategoryProvisional" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The term added to the subject category to specify a particular aspect of the subject category." />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasSubjectCategorySubdivisionTextInSubjectCategoryProvisional.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subject category subdivision text in Subject category (provisional)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U615__n" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subject category code in Subject category (provisional)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubjectCategoryCodeInSubjectCategoryProvisional" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasSubjectCategoryCodeInSubjectCategoryProvisional.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="A coded representation of a subject category." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__f" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasDateInHierarchicalGeographicalNameUsedAsSubject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasDateInHierarchicalGeographicalNameUsedAsSubject.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Date in Hierarchical geographical name used as subject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__y" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasGeographicalSubdivisionInTrademarkUsedAsSubject" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="A term added to a subject heading to specify a place in relation to a trademark which the subject heading represents." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasGeographicalSubdivisionInTrademarkUsedAsSubject.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Geographical subdivision in Trademark used as subject" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U617__m" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasOtherGeographicalRegionsOrFeaturesInHierarchicalGeographicalNameUsedAsSubject" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasOtherGeographicalRegionsOrFeaturesInHierarchicalGeographicalNameUsedAsSubject.en" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#scopeNote" content="Includes oceans, islands, mountains, etc." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="Terrestrial non-jurisdictional geographic entities." />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Other geographical regions or features in Hierarchical geographical name used as subject" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U616__z" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasChronologicalSubdivisionInTrademarkUsedAsSubject" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasChronologicalSubdivisionInTrademarkUsedAsSubject.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Chronological subdivision in Trademark used as subject" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="A term added to a subject heading to specify the period in time in relation to a trademark which the subject heading represents." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U6102_a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasSubjectTermInUncontrolledSubjectTermsSecondaryTerm.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubjectTermInUncontrolledSubjectTermsSecondaryTerm" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subject term in Uncontrolled subject terms (Secondary term)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/U6101_a" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Subject term in Uncontrolled subject terms (Primary term)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSubjectTermInUncontrolledSubjectTermsPrimaryTerm" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/61X/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="u61x:hasSubjectTermInUncontrolledSubjectTermsPrimaryTerm.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+</div>

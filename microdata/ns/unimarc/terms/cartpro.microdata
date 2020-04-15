@@ -1,0 +1,370 @@
+<div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#ca" itemscope>
+    <meta itemprop="prefLabel" content="Albers equal area" />
+    <meta itemprop="notation" content="ca" />
+    <meta itemprop="definition" content="Conic projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7865" />
+    <div itemprop="inScheme" itemtype="http://www.w3.org/2004/02/skos/core#ConceptScheme" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC: Cartographic materials: Map projection" />
+    </div>
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#db" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="db" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7877" />
+    <meta itemprop="prefLabel" content="butterfly" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#cd" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7868" />
+    <meta itemprop="notation" content="cd" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="prefLabel" content="conic (simple)" />
+    <meta itemprop="definition" content="Conic projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#bi" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7858" />
+    <meta itemprop="notation" content="bi" />
+    <meta itemprop="prefLabel" content="Gauss" />
+    <meta itemprop="definition" content="Cylindrical projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#bm" itemscope>
+    <meta itemprop="definition" content="Cylindrical projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7862" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="notation" content="bm" />
+    <meta itemprop="prefLabel" content="Oblique Mercator" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#dg" itemscope>
+    <meta itemprop="prefLabel" content="dimaxion" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="dg" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7882" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#cf" itemscope>
+    <meta itemprop="prefLabel" content="De Lisle" />
+    <meta itemprop="definition" content="Conic projection" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="notation" content="cf" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7870" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#cb" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7866" />
+    <meta itemprop="notation" content="cb" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="definition" content="Conic projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="Bonne" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#bu" itemscope>
+    <meta itemprop="prefLabel" content="cylindrical, specific  type unknown" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="definition" content="Cylindrical projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7863" />
+    <meta itemprop="notation" content="bu" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#bk" itemscope>
+    <meta itemprop="definition" content="Cylindrical projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="bk" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7860" />
+    <meta itemprop="prefLabel" content="Cassini's" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#bf" itemscope>
+    <meta itemprop="prefLabel" content="Mollweide" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="notation" content="bf" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7855" />
+    <meta itemprop="definition" content="Cylindrical projection" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#cp" itemscope>
+    <meta itemprop="notation" content="cp" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="polyconic" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7873" />
+    <meta itemprop="definition" content="Conic projection" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#cg" itemscope>
+    <meta itemprop="notation" content="cg" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7871" />
+    <meta itemprop="prefLabel" content="projection of the International Map" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="definition" content="Conic projection" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#bc" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="bc" />
+    <meta itemprop="definition" content="Cylindrical projection" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="prefLabel" content="Lambert's cylindrical equal area" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7852" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#cc" itemscope>
+    <meta itemprop="prefLabel" content="Lambert's conformal conic" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="cc" />
+    <meta itemprop="definition" content="Conic projection" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7867" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#az" itemscope>
+    <meta itemprop="definition" content="Azimuthal projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7849" />
+    <meta itemprop="notation" content="az" />
+    <meta itemprop="prefLabel" content="azimuthal, other known specific type" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#uu" itemscope>
+    <meta itemprop="prefLabel" content="type of projection  unknown" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7885" />
+    <meta itemprop="notation" content="uu" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#dc" itemscope>
+    <meta itemprop="notation" content="dc" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7878" />
+    <meta itemprop="prefLabel" content="Eckert" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#bz" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="prefLabel" content="cylindrical, other known specific type" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="bz" />
+    <meta itemprop="definition" content="Cylindrical projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7864" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#ae" itemscope>
+    <meta itemprop="definition" content="Azimuthal projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7845" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="prefLabel" content="azimuthal equidistant" />
+    <meta itemprop="notation" content="ae" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#de" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="prefLabel" content="Miller's bipolar" />
+    <meta itemprop="notation" content="de" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7880" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#cu" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7874" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="cu" />
+    <meta itemprop="definition" content="Conic projection" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="prefLabel" content="conic, specific type unknown" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#ab" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="definition" content="Azimuthal projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7842" />
+    <meta itemprop="prefLabel" content="gnomonic" />
+    <meta itemprop="notation" content="ab" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#af" itemscope>
+    <meta itemprop="notation" content="af" />
+    <meta itemprop="prefLabel" content="stereographic" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="definition" content="Azimuthal projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7846" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#aa" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="definition" content="Azimuthal projection" />
+    <meta itemprop="notation" content="aa" />
+    <meta itemprop="prefLabel" content="Aitoff" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7841" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#bb" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="notation" content="bb" />
+    <meta itemprop="definition" content="Cylindrical projection" />
+    <meta itemprop="prefLabel" content="Goode's homolographic" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7851" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#da" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="prefLabel" content="armadillo" />
+    <meta itemprop="notation" content="da" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7876" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#bl" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="definition" content="Cylindrical projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7861" />
+    <meta itemprop="notation" content="bl" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="Laborde" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#dh" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7883" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="cordiform" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="notation" content="dh" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#cz" itemscope>
+    <meta itemprop="notation" content="cz" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7875" />
+    <meta itemprop="definition" content="Conic projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="conic, other known specific type" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#bj" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7859" />
+    <meta itemprop="definition" content="Cylindrical projection" />
+    <meta itemprop="notation" content="bj" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="Plate Carree" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#di" itemscope>
+    <meta itemprop="prefLabel" content="polyhedric" />
+    <meta itemprop="notation" content="di" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7884" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#be" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="prefLabel" content="Miller" />
+    <meta itemprop="notation" content="be" />
+    <meta itemprop="definition" content="Cylindrical projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7854" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#bd" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="Mercator" />
+    <meta itemprop="notation" content="bd" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="definition" content="Cylindrical projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7853" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#ba" itemscope>
+    <meta itemprop="notation" content="ba" />
+    <meta itemprop="definition" content="Cylindrical projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="Gall" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7850" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#ad" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7844" />
+    <meta itemprop="definition" content="Azimuthal projection" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="prefLabel" content="orthographic" />
+    <meta itemprop="notation" content="ad" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#au" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7848" />
+    <meta itemprop="definition" content="Azimuthal projection" />
+    <meta itemprop="notation" content="au" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="prefLabel" content="azimuthal, specific type unknown" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#bg" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="definition" content="Cylindrical projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7856" />
+    <meta itemprop="prefLabel" content="sinusoidal" />
+    <meta itemprop="notation" content="bg" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#ac" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7843" />
+    <meta itemprop="definition" content="Azimuthal projection" />
+    <meta itemprop="notation" content="ac" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="Lambert's azimuthal equal area" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#ce" itemscope>
+    <meta itemprop="prefLabel" content="Miller's bipolar oblique conformal conic" />
+    <meta itemprop="definition" content="Conic projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7869" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="notation" content="ce" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#bh" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="prefLabel" content="transverse Mercator" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7857" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="bh" />
+    <meta itemprop="definition" content="Cylindrical projection" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#zz" itemscope>
+    <meta itemprop="notation" content="zz" />
+    <meta itemprop="prefLabel" content="other known type" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7887" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#xx" itemscope>
+    <meta itemprop="prefLabel" content="not applicable" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7886" />
+    <meta itemprop="notation" content="xx" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#dd" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7879" />
+    <meta itemprop="notation" content="dd" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="Goode's homolosine" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#df" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7881" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+    <meta itemprop="prefLabel" content="Van der Griten" />
+    <meta itemprop="notation" content="df" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#ag" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="azimuthal equal area" />
+    <meta itemprop="definition" content="Azimuthal projection" />
+    <meta itemprop="notation" content="ag" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7847" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartpro#ch" itemscope>
+    <meta itemprop="definition" content="Conic projection" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7872" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="prefLabel" content="Tissot's conformal conic" />
+    <meta itemprop="notation" content="ch" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartpro#" />
+  </div>
+</div>

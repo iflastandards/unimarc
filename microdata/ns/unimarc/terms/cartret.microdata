@@ -1,0 +1,86 @@
+<div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartret#ad" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7662" />
+    <meta itemprop="prefLabel" content="multispectral scanning" />
+    <meta itemprop="notation" content="ad" />
+    <meta itemprop="definition" content="Light emission technique." />
+    <div itemprop="inScheme" itemtype="http://www.w3.org/2004/02/skos/core#ConceptScheme" itemid="http://iflastandards.info/ns/unimarc/terms/cartret#" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC: Cartographic materials: Recording technique for remote sensing image" />
+    </div>
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartret#ga" itemscope>
+    <meta itemprop="notation" content="ga" />
+    <meta itemprop="definition" content="Microwave emission technique." />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartret#" />
+    <meta itemprop="prefLabel" content="Sidelooking Airborne Radar (SLAR)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7666" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartret#av" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartret#" />
+    <meta itemprop="prefLabel" content="combination of various light emission techniques" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="definition" content="Light emission technique." />
+    <meta itemprop="notation" content="av" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7663" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartret#da" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartret#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="definition" content="Thermal infrared scanning technique." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7664" />
+    <meta itemprop="prefLabel" content="infrared line scanning" />
+    <meta itemprop="notation" content="da" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartret#aa" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartret#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7659" />
+    <meta itemprop="prefLabel" content="video recording" />
+    <meta itemprop="notation" content="aa" />
+    <meta itemprop="definition" content="Light emission technique." />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartret#dv" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartret#" />
+    <meta itemprop="notation" content="dv" />
+    <meta itemprop="prefLabel" content="combination of various thermal infrared scanning techniques" />
+    <meta itemprop="definition" content="Thermal infrared scanning technique." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7665" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartret#gb" itemscope>
+    <meta itemprop="notation" content="gb" />
+    <meta itemprop="definition" content="Microwave emission technique." />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartret#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7667" />
+    <meta itemprop="prefLabel" content="Synthetic Aperture Radar (SAR)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartret#gc" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartret#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="definition" content="Microwave emission technique." />
+    <meta itemprop="notation" content="gc" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7668" />
+    <meta itemprop="prefLabel" content="passive microwave mapping" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartret#ab" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartret#" />
+    <meta itemprop="prefLabel" content="false colour photography" />
+    <meta itemprop="definition" content="Light emission technique." />
+    <meta itemprop="notation" content="ab" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7660" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/cartret#ac" itemscope>
+    <meta itemprop="prefLabel" content="multispectral photography" />
+    <meta itemprop="definition" content="Light emission technique." />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/cartret#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="ac" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/7661" />
+  </div>
+</div>

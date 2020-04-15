@@ -1,0 +1,89 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  prefix="
+    rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    skos: http://www.w3.org/2004/02/skos/core#
+    reg: http://metadataregistry.org/uri/profile/regap/
+    dc: http://purl.org/dc/elements/1.1/
+    rdfs: http://www.w3.org/2000/01/rdf-schema#"
+  >
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__b">
+    <div property="skos:definition" xml:lang="en" content="The book number applied by the assigning agency."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasBookNumberInOtherClassNumbers.en"></div>
+    <div property="reg:name" xml:lang="en" content="hasBookNumberInOtherClassNumbers"></div>
+    <div rel="reg:status">
+      <div typeof="skos:Concept" about="http://metadataregistry.org/uri/RegStatus/1001">
+        <div property="skos:prefLabel" xml:lang="en" content="Published"></div>
+      </div>
+    </div>
+    <div property="rdfs:label" xml:lang="en" content="has Book number in Other class numbers"></div>
+    <div rel="rdfs:isDefinedBy">
+      <div typeof="rdfs:Resource" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/">
+        <div property="dc:title" xml:lang="en" content="UNIMARC/B elements 68X"></div>
+      </div>
+    </div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U680__3">
+    <div property="reg:name" xml:lang="en" content="hasClassificationRecordNumberInLibraryOfCongressClassification"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number."></div>
+    <div property="rdfs:label" xml:lang="en" content="has Classification record number in Library of Congress Classification"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassificationRecordNumberInLibraryOfCongressClassification.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U680__a">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasClassNumberInLibraryOfCongressClassification"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Class number in Library of Congress Classification"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"></div>
+    <div property="skos:definition" xml:lang="en" content="The class number taken from the Library of Congress classification schedules."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassNumberInLibraryOfCongressClassification.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__2">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has System code in Other class numbers"></div>
+    <div property="reg:name" xml:lang="en" content="hasSystemCodeInOtherClassNumbers"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasSystemCodeInOtherClassNumbers.en"></div>
+    <div property="skos:definition" xml:lang="en" content="A code for the classification scheme used in formulating the number."></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__3">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Classification record number in Other class numbers"></div>
+    <div property="skos:definition" xml:lang="en" content="The control number"></div>
+    <div property="reg:name" xml:lang="en" content="hasClassificationRecordNumberInOtherClassNumbers"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassificationRecordNumberInOtherClassNumbers.en"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U680__b">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Book number in Library of Congress Classification"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasBookNumberInLibraryOfCongressClassification.en"></div>
+    <div property="skos:definition" xml:lang="en" content="The individual book number applied by the cataloguing agency."></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"></div>
+    <div property="reg:name" xml:lang="en" content="hasBookNumberInLibraryOfCongressClassification"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__c">
+    <div property="rdfs:label" xml:lang="en" content="has Classification subdivision in Other class numbers"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div property="reg:name" xml:lang="en" content="hasClassificationSubdivisionInOtherClassNumbers"></div>
+    <div property="skos:definition" xml:lang="en" content="A subdivision of the class number taken from the classification scheme."></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassificationSubdivisionInOtherClassNumbers.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__v">
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasEditionInOtherClassNumbers.en"></div>
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Edition in Other class numbers"></div>
+    <div property="skos:definition" xml:lang="en" content="The number of the scheme edition used."></div>
+    <div property="reg:name" xml:lang="en" content="hasEditionInOtherClassNumbers"></div>
+  </div>
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/U686__a">
+    <div rel="rdfs:isDefinedBy" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/"></div>
+    <div property="rdfs:label" xml:lang="en" content="has Class number in Other class numbers"></div>
+    <div property="skos:definition" xml:lang="en" content="The class number taken from the classification scheme."></div>
+    <div property="reg:name" xml:lang="en" content="hasClassNumberInOtherClassNumbers"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/68X/hasClassNumberInOtherClassNumbers.en"></div>
+    <div rel="reg:status" resource="http://metadataregistry.org/uri/RegStatus/1001"></div>
+  </div>
+</div>

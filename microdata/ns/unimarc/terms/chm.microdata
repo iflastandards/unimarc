@@ -1,0 +1,118 @@
+<div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/chm#07" itemscope>
+    <meta itemprop="notation" content="07" />
+    <meta itemprop="prefLabel" content="7" />
+    <div itemprop="inScheme" itemtype="http://www.w3.org/2004/02/skos/core#ConceptScheme" itemid="http://iflastandards.info/ns/unimarc/terms/chm#" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC: Church mode of musical work" />
+    </div>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9336" />
+    <meta itemprop="altLabel" content="Tetrardus authentic" />
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <meta itemprop="altLabel" content="Mixolydian" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/chm#02" itemscope>
+    <meta itemprop="altLabel" content="Hypodorian" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="02" />
+    <meta itemprop="prefLabel" content="2" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9331" />
+    <meta itemprop="altLabel" content="Protus plagal" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/chm#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/chm#12" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="12" />
+    <meta itemprop="altLabel" content="Hypoionian" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/chm#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9341" />
+    <meta itemprop="prefLabel" content="12" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/chm#05" itemscope>
+    <meta itemprop="notation" content="05" />
+    <meta itemprop="altLabel" content="Lydian" />
+    <meta itemprop="prefLabel" content="5" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/chm#" />
+    <meta itemprop="altLabel" content="Tritus authentic" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9334" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/chm#08" itemscope>
+    <meta itemprop="prefLabel" content="8" />
+    <meta itemprop="altLabel" content="Tetrardus plagal" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9337" />
+    <meta itemprop="notation" content="08" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/chm#" />
+    <meta itemprop="altLabel" content="Hypomixolydian" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/chm#04" itemscope>
+    <meta itemprop="notation" content="04" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/chm#" />
+    <meta itemprop="altLabel" content="Deuterus plagal" />
+    <meta itemprop="altLabel" content="Hypophrygian" />
+    <meta itemprop="prefLabel" content="4" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9333" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/chm#03" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9332" />
+    <meta itemprop="altLabel" content="Deuterus authentic" />
+    <meta itemprop="prefLabel" content="3" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/chm#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="altLabel" content="Phrygian" />
+    <meta itemprop="notation" content="03" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/chm#06" itemscope>
+    <meta itemprop="prefLabel" content="6" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9335" />
+    <meta itemprop="notation" content="06" />
+    <meta itemprop="altLabel" content="Hypolydian" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="altLabel" content="Tritus plagal" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/chm#" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/chm#01" itemscope>
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/chm#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9330" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="altLabel" content="Protus authentic" />
+    <meta itemprop="prefLabel" content="1" />
+    <meta itemprop="notation" content="01" />
+    <meta itemprop="altLabel" content="Dorian" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/chm#09" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/chm#" />
+    <meta itemprop="notation" content="09" />
+    <meta itemprop="prefLabel" content="9" />
+    <meta itemprop="altLabel" content="Aeolian" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9338" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/chm#13" itemscope>
+    <meta itemprop="notation" content="13" />
+    <meta itemprop="prefLabel" content="13" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="altLabel" content="Tonus Peregrinus" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/chm#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9342" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/chm#10" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9339" />
+    <meta itemprop="altLabel" content="Hypoaeolian" />
+    <meta itemprop="prefLabel" content="10" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/chm#" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="notation" content="10" />
+  </div>
+  <div itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://iflastandards.info/ns/unimarc/terms/chm#11" itemscope>
+    <meta itemprop="altLabel" content="Ionian" />
+    <meta itemprop="prefLabel" content="11" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/identifier" href="http://metadataregistry.org/concepts/9340" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="inScheme" href="http://iflastandards.info/ns/unimarc/terms/chm#" />
+    <meta itemprop="notation" content="11" />
+  </div>
+</div>

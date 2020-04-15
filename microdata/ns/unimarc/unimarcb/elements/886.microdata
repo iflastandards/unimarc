@@ -1,0 +1,75 @@
+<div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8862_2" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasSystemCodeInDataNotConvertedFromSourceFormatVariableDataField.en" />
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The name of the format used for the machine-readable record." />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSystemCodeInDataNotConvertedFromSourceFormatVariableDataField" />
+    <div itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC/B elements 886" />
+    </div>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has System code in Data not converted from source format (Variable data field)" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8861_a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Tag of the source format field in Data not converted from source format (Variable control field)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasTagOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableControlField" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasTagOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableControlField.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8860_b" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasIndicatorsOrSubfieldsOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatRecordLabel.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Indicators or subfields of the source format field in Data not converted from source format (Record label)" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#scopeNote" content="Includes the indicators, subfield identifiers and subfields of the original field in the original order." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasIndicatorsOrSubfieldsOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatRecordLabel" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8862_b" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Indicators or subfields of the source format field in Data not converted from source format (Variable data field)" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#scopeNote" content="Includes the indicators, subfield identifiers and subfields of the original field in the original order." />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasIndicatorsOrSubfieldsOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableDataField" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasIndicatorsOrSubfieldsOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableDataField.en" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8862_a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasTagOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableDataField.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Tag of the source format field in Data not converted from source format (Variable data field)" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasTagOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableDataField" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8860_a" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Tag of the source format field in Data not converted from source format (Record label)" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasTagOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatRecordLabel" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasTagOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatRecordLabel.en" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8861_2" itemscope>
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has System code in Data not converted from source format (Variable control field)" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The name of the format used for the machine-readable record." />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasSystemCodeInDataNotConvertedFromSourceFormatVariableControlField.en" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSystemCodeInDataNotConvertedFromSourceFormatVariableControlField" />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8860_2" itemscope>
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasSystemCodeInDataNotConvertedFromSourceFormatRecordLabel" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasSystemCodeInDataNotConvertedFromSourceFormatRecordLabel.en" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has System code in Data not converted from source format (Record label)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="The name of the format used for the machine-readable record." />
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/U8861_b" itemscope>
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Indicators or subfields of the source format field in Data not converted from source format (Variable control field)" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/hasIndicatorsOrSubfieldsOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableControlField.en" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#scopeNote" content="Includes the indicators, subfield identifiers and subfields of the original field in the original order." />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/886/" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasIndicatorsOrSubfieldsOfTheSourceFormatFieldInDataNotConvertedFromSourceFormatVariableControlField" />
+  </div>
+</div>

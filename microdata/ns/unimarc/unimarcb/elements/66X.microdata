@@ -1,0 +1,21 @@
+<div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/66X/U660__a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="ub6xx:hasCodeInGeographicAreaCode.en" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Code in Geographic area code" />
+    <meta itemprop="http://www.w3.org/2004/02/skos/core#definition" content="Geographic area code." />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasCodeInGeographicAreaCode" />
+    <div itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/66X/" itemscope>
+      <meta itemprop="http://purl.org/dc/elements/1.1/title" content="UNIMARC/B elements 66X" />
+    </div>
+    <div itemprop="http://metadataregistry.org/uri/profile/regap/status" itemtype="http://www.w3.org/2004/02/skos/core#Concept" itemid="http://metadataregistry.org/uri/RegStatus/1001" itemscope>
+      <meta itemprop="prefLabel" content="Published" />
+    </div>
+  </div>
+  <div itemtype="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" itemid="http://iflastandards.info/ns/unimarc/unimarcb/elements/66X/U661__a" itemscope>
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/status" href="http://metadataregistry.org/uri/RegStatus/1001" />
+    <meta itemprop="http://metadataregistry.org/uri/profile/regap/name" content="hasTimePeriodCodeInTimePeriodCode" />
+    <link itemprop="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/66X/" />
+    <meta itemprop="http://www.w3.org/2000/01/rdf-schema#label" content="has Time period code in Time period code" />
+    <link itemprop="http://metadataregistry.org/uri/profile/regap/lexicalAlias" href="http://iflastandards.info/ns/unimarc/unimarcb/elements/66X/hasTimePeriodCodeInTimePeriodCode.en" />
+  </div>
+</div>

@@ -1,0 +1,24 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  prefix="
+    reg: http://metadataregistry.org/uri/profile/regap/
+    rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    skos: http://www.w3.org/2004/02/skos/core#
+    dc: http://purl.org/dc/elements/1.1/
+    rdfs: http://www.w3.org/2000/01/rdf-schema#"
+  >
+  <div typeof="rdf:Property" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/830/U830__a">
+    <div property="rdfs:label" xml:lang="en" content="has Text of note in General cataloguer's note"></div>
+    <div rel="reg:status">
+      <div typeof="skos:Concept" about="http://metadataregistry.org/uri/RegStatus/1001">
+        <div property="skos:prefLabel" xml:lang="en" content="Published"></div>
+      </div>
+    </div>
+    <div rel="rdfs:isDefinedBy">
+      <div typeof="rdfs:Resource" about="http://iflastandards.info/ns/unimarc/unimarcb/elements/830/">
+        <div property="dc:title" xml:lang="en" content="UNIMARC/B elements 830"></div>
+      </div>
+    </div>
+    <div property="reg:name" xml:lang="en" content="hasTextOfNoteInGeneralCataloguer'SNote"></div>
+    <div rel="reg:lexicalAlias" resource="http://iflastandards.info/ns/unimarc/unimarcb/elements/830/hasTextOfNoteInGeneralCataloguer'SNote.en"></div>
+  </div>
+</div>
